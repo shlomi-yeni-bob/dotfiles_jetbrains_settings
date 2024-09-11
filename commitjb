@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+set -eu
+DOTFILES_DIR="${HOME}/.dotfiles"
+PERSISTENT_JB_DIR="${HOME}/.gitpod/jetbrains/${JETBRAINS_GITPOD_BACKEND_KIND:-}"
+PERSISTENT_DOTFILES_DIR="${DOTFILES_DIR}/home_files/${PERSISTENT_JB_DIR#$HOME/}"
+EPHEMERAL_JB_OPTIONS_DIR='/workspace/.config/JetBrains/RemoteDev-PY/options'
+
+mkdir -p "${PERSISTENT_JB_DIR}" "${PERSISTENT_DOTFILES_DIR}"
+
+(
+    set +e
+    {
+        cp -ar "${EPHEMERAL_JB_OPTIONS_DIR}" "${PERSISTENT_JB_DIR}"
+        cp -ar "${EPHEMERAL_JB_OPTIONS_DIR}" "${PERSISTENT_DOTFILES_DIR}"
+    } 2>/dev/null
+    cd "${DOTFILES_DIR}"
+    git add home_files
+    git commit -m 'Automatic commit for updating Jetbrains config'
+    git push
+)
+
+printf '[info] %s\n' "Successfully cloned ${EPHEMERAL_JB_OPTIONS_DIR} contents to a persistent location"
