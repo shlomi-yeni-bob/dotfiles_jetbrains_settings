@@ -18,4 +18,6 @@ while read -r file; do
 
 done < <(find "${dotfiles_source}" -type f)
 
-sudo ln -s "${current_dir}/commitjb" /usr/bin/
+if test ! -e /usr/bin/commitjb; then
+    sudo ln -s "${current_dir}/commitjb" /usr/bin/
+fi
