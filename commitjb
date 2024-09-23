@@ -4,7 +4,7 @@ set -eu
 DOTFILES_DIR="${HOME}/.dotfiles"
 PERSISTENT_JB_DIR="${HOME}/.gitpod/jetbrains/${JETBRAINS_GITPOD_BACKEND_KIND:-}"
 PERSISTENT_DOTFILES_DIR="${DOTFILES_DIR}/home_files/${PERSISTENT_JB_DIR#$HOME/}"
-EPHEMERAL_JB_OPTIONS_DIR=/workspace/.config/JetBrains/RemoteDev-*/options
+EPHEMERAL_JB_OPTIONS_DIR=(/workspace/.config/JetBrains/RemoteDev-*/options)
 
 mkdir -p "${PERSISTENT_DOTFILES_DIR}"
 
