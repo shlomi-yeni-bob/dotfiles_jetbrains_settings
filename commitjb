@@ -2,15 +2,20 @@
 
 set -eu
 DOTFILES_DIR="${HOME}/.dotfiles"
+DOTFILES_HOME_DIR="${DOTFILES_DIR}/home_files"
 PERSISTENT_JB_DIR="${HOME}/.gitpod/jetbrains/${JETBRAINS_GITPOD_BACKEND_KIND:-}"
-PERSISTENT_DOTFILES_DIR="${DOTFILES_DIR}/home_files/${PERSISTENT_JB_DIR#$HOME/}"
+PERSISTENT_DOTFILES_DIR="${DOTFILES_HOME_DIR}/${PERSISTENT_JB_DIR#$HOME/}"
 EPHEMERAL_JB_OPTIONS_DIR=(/workspace/.config/JetBrains/RemoteDev-*/options)
 
-mkdir -p "${PERSISTENT_DOTFILES_DIR}"
 
 (
     set +e
+    mkdir -p "${PERSISTENT_DOTFILES_DIR}"
     cp -ar "${EPHEMERAL_JB_OPTIONS_DIR}" "${PERSISTENT_DOTFILES_DIR}" 2>/dev/null
+
+    mkdir -p "${DOTFILES_HOME_DIR}/.config"
+    cp -ar "${HOME}/.config/JetBrains" "${DOTFILES_HOME_DIR}/.config"
+
     "$HOME/.dotfiles/install.sh"
     cd "${DOTFILES_DIR}"
     git add home_files
