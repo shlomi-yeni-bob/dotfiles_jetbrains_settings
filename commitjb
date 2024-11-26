@@ -13,8 +13,10 @@ EPHEMERAL_JB_OPTIONS_DIR=(/workspace/.config/JetBrains/RemoteDev-*/options)
     mkdir -p "${PERSISTENT_DOTFILES_DIR}"
     cp -ar "${EPHEMERAL_JB_OPTIONS_DIR}" "${PERSISTENT_DOTFILES_DIR}" 2>/dev/null
 
-    mkdir -p "${DOTFILES_HOME_DIR}/.config"
-    cp -ar "${HOME}/.config/JetBrains" "${DOTFILES_HOME_DIR}/.config"
+    if test -e "${HOME}/.config/JetBrains"; then
+        mkdir -p "${DOTFILES_HOME_DIR}/.config"
+        cp -ar "${HOME}/.config/JetBrains" "${DOTFILES_HOME_DIR}/.config"
+    fi
 
     "$HOME/.dotfiles/install.sh"
     cd "${DOTFILES_DIR}"
