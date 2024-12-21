@@ -11,7 +11,7 @@ Also see the relevant Gitpod docs here: https://www.gitpod.io/docs/references/id
 3. Copy your forked repo link and set it as **Dotfiles - Repository URL** and click on `Save`.
 4. Create new workspace to see in action.
 5. Make your settings modifications in JetBrains IDE (e.g. Pycharm) settings.
-6. `Find Action` > `Restart IDE` to save the IDE changes to disk. (**Very Important**)
+6. `Find Action` (⇧ + ⌘ + A) > `Restart IDE` to save the IDE changes to disk. (**Very Important**)
 7. Open a terminal and run `commitjb` to save/update your persistent settings.
 
 As such, all your new workspaces will use your saved settings. If you need to sync new changes, just redo 6. & 7.
