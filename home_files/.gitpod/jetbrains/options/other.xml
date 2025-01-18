@@ -1,29 +1,38 @@
 <application>
+  <component name="BuiltInServerOptions" builtInServerPort="63714" />
   <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
   <component name="NotRoamableUiSettings">
-    <option name="fontSize" value="12.0" />
+    <option name="ideAAType" value="Greyscale" />
+    <option name="editorAAType" value="Greyscale" />
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
     <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "defaultJdkConfigured": "true",
+    "evlsprt3.243": "4",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.switch": "true",
     "experimental.ui.used.version": "243.22562.218",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.22562.218-IJ",
     "llm.installer.activate.toolwindow.delayed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
-    "previousColorScheme": "_@user_Dark",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@client_Dark",
     "registry.to.advanced.settings.migration.build": "IU-243.22562.218",
+    "rider.trace.scenarios": "",
     "ts.lib.d.ts.version": "5.4.3"
   },
   "keyToStringList": {
