@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="" />
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/code_migration/src/main/resources/migration/v1/V202501190749__fix_missing_ootb_dashboards.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,8 +53,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37913412" />
-      <window_info id="Commit" order="1" weight="0.37913412" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37913412" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.37913412" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -81,6 +83,11 @@
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
     </layout>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,7 +106,7 @@
       <updated>1737026095154</updated>
       <workItem from="1737026097556" duration="86000" />
       <workItem from="1737191817360" duration="1264000" />
-      <workItem from="1737265173741" duration="360000" />
+      <workItem from="1737265173741" duration="982000" />
     </task>
     <servers />
   </component>
