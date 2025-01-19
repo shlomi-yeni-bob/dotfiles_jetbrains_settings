@@ -1,10 +1,70 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1737265413451" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1737265416312" />
+    </e>
+    <e n="$Undo">
+      <i c="3" l="1737265437600" />
+    </e>
+    <e n="ChangesView.AddUnversioned">
+      <i c="1" l="1737265470706" />
+    </e>
+    <e n="Docker.AddDockerConnection">
+      <i c="1" l="1737193492417" />
+    </e>
+    <e n="EditSource">
+      <i c="1" l="1737265491996" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="15" l="1737265530991" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1737265485527" />
+    </e>
+    <e n="EditorLeft">
+      <i c="9" l="1737265526068" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1737265333192" />
+    </e>
+    <e n="EditorRight">
+      <i c="19" l="1737265525408" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="15" l="1737265529981" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="4" l="1737265484195" />
+    </e>
+    <e n="FindInPath">
+      <i c="3" l="1737265383025" />
+    </e>
     <e n="GotoDeclaration">
       <i c="8" l="1737192373450" />
     </e>
+    <e n="RenameElement">
+      <i c="1" l="1737265512117" />
+    </e>
     <e n="RunDashboard.AddConfiguration">
       <i c="1" l="1737192443849" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="2" l="1737193488520" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1737265388472" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1737265334756" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="1" l="1737265387422" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="1" l="1737265387831" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1737191890634" />
