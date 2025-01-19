@@ -19,28 +19,34 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="15" l="1737265530991" />
+      <i c="32" l="1737267798855" />
     </e>
     <e n="EditorCopy">
-      <i c="3" l="1737265553211" />
+      <i c="4" l="1737267750648" />
     </e>
     <e n="EditorLeft">
       <i c="9" l="1737265526068" />
     </e>
     <e n="EditorPaste">
-      <i c="1" l="1737265333192" />
+      <i c="2" l="1737267751466" />
     </e>
     <e n="EditorRight">
-      <i c="19" l="1737265525408" />
+      <i c="47" l="1737267781634" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="6" l="1737265557412" />
+      <i c="8" l="1737267750348" />
     </e>
     <e n="FindInPath">
-      <i c="3" l="1737265383025" />
+      <i c="4" l="1737267568803" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1737267757271" />
+    </e>
+    <e n="Git.Rename.Local.Branch">
+      <i c="1" l="1737267775641" />
     </e>
     <e n="GotoDeclaration">
       <i c="8" l="1737192373450" />
@@ -54,17 +60,20 @@
     <e n="ServiceView.AddService">
       <i c="2" l="1737193488520" />
     </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1737267848179" />
+    </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="1" l="1737265556156" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="1" l="1737265388472" />
+      <i c="2" l="1737267570789" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1737265334756" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="1" l="1737265387422" />
+      <i c="2" l="1737267570497" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="1" l="1737265387831" />
