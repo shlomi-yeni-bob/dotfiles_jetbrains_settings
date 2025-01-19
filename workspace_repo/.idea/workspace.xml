@@ -16,6 +16,11 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/yaml-file-fix-ootb-missing-dashboards" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -31,9 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build hibob.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "shlomi-yeni/yaml-file-fix-ootb-missing-dashboards",
+    "Shell Script.Create db migration.executor": "Run",
+    "git-widget-placeholder": "shlomi-yeni/flyway-migration-fix-kpi-not-assigned-to-dashboard",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -52,7 +59,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.37913412" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.21617559" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.18190017" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -61,12 +68,13 @@
       <window_info anchor="bottom" id="internal-profiler" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.27664503" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.2562558" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.2985" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -86,6 +94,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
+  <component name="RunManager" selected="Shell Script.Create db migration" />
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -105,6 +114,7 @@
       <workItem from="1737026097556" duration="86000" />
       <workItem from="1737191817360" duration="1264000" />
       <workItem from="1737265173741" duration="1905000" />
+      <workItem from="1737288105393" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />

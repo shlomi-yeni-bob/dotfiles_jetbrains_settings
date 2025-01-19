@@ -12,6 +12,9 @@
     <e n="ChangesView.AddUnversioned">
       <i c="2" l="1737265547133" />
     </e>
+    <e n="CompileProject">
+      <i c="1" l="1737288445516" />
+    </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
     </e>
@@ -19,7 +22,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="32" l="1737267798855" />
+      <i c="33" l="1737288367030" />
     </e>
     <e n="EditorCopy">
       <i c="4" l="1737267750648" />
@@ -48,6 +51,9 @@
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
+    <e n="GitCheckoutAction">
+      <i c="1" l="1737288346959" />
+    </e>
     <e n="GotoDeclaration">
       <i c="8" l="1737192373450" />
     </e>
@@ -65,6 +71,9 @@
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="1" l="1737265556156" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1737288432682" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="2" l="1737267570789" />
