@@ -70,14 +70,14 @@
       <window_info anchor="bottom" id="internal-profiler" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.24312796" />
-      <window_info anchor="bottom" id="Services" order="4" weight="0.2985" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4412322" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.4412322" />
+      <window_info active="true" anchor="bottom" id="Services" order="4" visible="true" weight="0.30379146" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -117,7 +117,7 @@
       <workItem from="1737191817360" duration="1264000" />
       <workItem from="1737265173741" duration="1905000" />
       <workItem from="1737288105393" duration="741000" />
-      <workItem from="1737293532842" duration="363000" />
+      <workItem from="1737293532842" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
