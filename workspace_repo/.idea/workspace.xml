@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code_migration/src/main/resources/migration/v1/V202501190749__fix_missing_ootb_dashboards.yml" afterDir="false" />
-    </list>
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="FixMissingOOTBDashboards yaml file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "shlomi-yeni/yaml-file-fix-duplicate-kpis",
+    "git-widget-placeholder": "shlomi-yeni/yaml-file-fix-ootb-missing-dashboards",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -54,7 +52,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.37913412" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.37913412" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.21617559" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -106,12 +104,25 @@
       <updated>1737026095154</updated>
       <workItem from="1737026097556" duration="86000" />
       <workItem from="1737191817360" duration="1264000" />
-      <workItem from="1737265173741" duration="982000" />
+      <workItem from="1737265173741" duration="1905000" />
     </task>
+    <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
+      <option name="closed" value="true" />
+      <created>1737267766384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737267766384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FixMissingOOTBDashboards yaml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="FixMissingOOTBDashboards yaml file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
