@@ -27,11 +27,17 @@
     <e n="EditorCopy">
       <i c="4" l="1737267750648" />
     </e>
+    <e n="EditorDown">
+      <i c="6" l="1737293750766" />
+    </e>
     <e n="EditorLeft">
       <i c="9" l="1737265526068" />
     </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1737293748139" />
+    </e>
     <e n="EditorPaste">
-      <i c="3" l="1737288675205" />
+      <i c="4" l="1737293745892" />
     </e>
     <e n="EditorRight">
       <i c="47" l="1737267781634" />
@@ -48,11 +54,14 @@
     <e n="Git.Commit.And.Push.Executor">
       <i c="2" l="1737288731557" />
     </e>
+    <e n="Git.Pull">
+      <i c="1" l="1737293635244" />
+    </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="1" l="1737288346959" />
+      <i c="2" l="1737293623578" />
     </e>
     <e n="GotoDeclaration">
       <i c="8" l="1737192373450" />
@@ -61,7 +70,7 @@
       <i c="1" l="1737265512117" />
     </e>
     <e n="Run">
-      <i c="1" l="1737288618922" />
+      <i c="2" l="1737293717421" />
     </e>
     <e n="RunDashboard.AddConfiguration">
       <i c="1" l="1737192443849" />
@@ -73,10 +82,10 @@
       <i c="1" l="1737267848179" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="2" l="1737288666827" />
+      <i c="3" l="1737293744936" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="1" l="1737288432682" />
+      <i c="2" l="1737293692747" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="2" l="1737267570789" />
