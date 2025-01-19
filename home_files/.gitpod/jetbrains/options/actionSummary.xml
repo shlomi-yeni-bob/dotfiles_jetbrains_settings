@@ -22,7 +22,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="33" l="1737288367030" />
+      <i c="63" l="1737288719867" />
     </e>
     <e n="EditorCopy">
       <i c="4" l="1737267750648" />
@@ -31,7 +31,7 @@
       <i c="9" l="1737265526068" />
     </e>
     <e n="EditorPaste">
-      <i c="2" l="1737267751466" />
+      <i c="3" l="1737288675205" />
     </e>
     <e n="EditorRight">
       <i c="47" l="1737267781634" />
@@ -46,7 +46,7 @@
       <i c="4" l="1737267568803" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="1" l="1737267757271" />
+      <i c="2" l="1737288731557" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
@@ -60,6 +60,9 @@
     <e n="RenameElement">
       <i c="1" l="1737265512117" />
     </e>
+    <e n="Run">
+      <i c="1" l="1737288618922" />
+    </e>
     <e n="RunDashboard.AddConfiguration">
       <i c="1" l="1737192443849" />
     </e>
@@ -70,13 +73,16 @@
       <i c="1" l="1737267848179" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="1" l="1737265556156" />
+      <i c="2" l="1737288666827" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="1" l="1737288432682" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="2" l="1737267570789" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1737288736614" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1737265334756" />
