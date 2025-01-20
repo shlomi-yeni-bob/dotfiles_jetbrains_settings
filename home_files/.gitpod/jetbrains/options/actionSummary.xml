@@ -1,16 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="1" l="1737265413451" />
+      <i c="2" l="1737397129819" />
     </e>
     <e n="$Delete">
       <i c="1" l="1737300122322" />
     </e>
     <e n="$Paste">
-      <i c="1" l="1737265416312" />
+      <i c="2" l="1737397130181" />
     </e>
     <e n="$Undo">
-      <i c="3" l="1737265437600" />
+      <i c="5" l="1737397082830" />
     </e>
     <e n="Annotate">
       <i c="7" l="1737371854000" />
@@ -19,7 +19,7 @@
       <i c="16" l="1737383213542" />
     </e>
     <e n="ChangesView.AddUnversioned">
-      <i c="2" l="1737265547133" />
+      <i c="3" l="1737397185288" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1737300115930" />
@@ -46,7 +46,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="158" l="1737384820426" />
+      <i c="174" l="1737397382154" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1737370954107" />
@@ -64,7 +64,7 @@
       <i c="2" l="1737370871172" />
     </e>
     <e n="EditorLeft">
-      <i c="11" l="1737370983189" />
+      <i c="12" l="1737397145202" />
     </e>
     <e n="EditorLineStart">
       <i c="4" l="1737370816263" />
@@ -73,13 +73,13 @@
       <i c="8" l="1737383646445" />
     </e>
     <e n="EditorRight">
-      <i c="47" l="1737267781634" />
+      <i c="59" l="1737397154741" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="44" l="1737384819297" />
+      <i c="47" l="1737397353381" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1737373957134" />
@@ -88,10 +88,10 @@
       <i c="1" l="1737372631456" />
     </e>
     <e n="FindInPath">
-      <i c="7" l="1737317035270" />
+      <i c="8" l="1737397097406" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="5" l="1737384301235" />
+      <i c="6" l="1737397388351" />
     </e>
     <e n="Git.Pull">
       <i c="5" l="1737384786109" />
@@ -139,7 +139,7 @@
       <i c="2" l="1737317319794" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="3" l="1737293744936" />
+      <i c="4" l="1737397241797" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1737371602159" />

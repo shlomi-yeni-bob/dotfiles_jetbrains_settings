@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="fix tests">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/DashboardsAuthorizer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/DashboardsAuthorizer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/DashboardsAuthorizerTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/DashboardsAuthorizerTest.scala" afterDir="false" />
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="yaml file fix ootb kpi duplications">
+      <change afterPath="$PROJECT_DIR$/code_migration/src/main/resources/migration/v1/V202501202019__fix_duplicate_ootb_kpis_no_restriction.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,30 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build hibob.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.hibob.analytics'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.com.hibob.analytics in hibob.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Shell Script.Create db migration.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;shlomi-yeni/refactor-dashboard-authorizer&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build hibob.executor": "Run",
+    "Gradle.Tests in 'com.hibob.analytics'.executor": "Run",
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "JUnit.com.hibob.analytics in hibob.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.Create db migration.executor": "Run",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "shlomi-yeni/code-migration-fix-kpi-duplication-add-yml-file",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -68,8 +67,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.13144532" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.13144532" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3230354" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.3230354" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -82,7 +81,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3416961" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.30630213" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27667844" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3915" />
       <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.3416961" />
@@ -205,6 +204,7 @@
       <workItem from="1737356984955" duration="399000" />
       <workItem from="1737370252482" duration="1802000" />
       <workItem from="1737380113563" duration="3713000" />
+      <workItem from="1737397006855" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -238,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737381971015</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="yaml file fix ootb kpi duplications">
+      <option name="closed" value="true" />
+      <created>1737397390916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737397390916</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +257,8 @@
     <MESSAGE value="script to fix kpis not assiged to any dashboard" />
     <MESSAGE value="remove kpi size restrictions" />
     <MESSAGE value="fix tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix tests" />
+    <MESSAGE value="yaml file fix ootb kpi duplications" />
+    <option name="LAST_COMMIT_MESSAGE" value="yaml file fix ootb kpi duplications" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
