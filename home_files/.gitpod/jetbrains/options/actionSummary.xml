@@ -40,7 +40,7 @@
       <i c="99" l="1737316028243" />
     </e>
     <e n="EditorCopy">
-      <i c="13" l="1737317435310" />
+      <i c="14" l="1737370538901" />
     </e>
     <e n="EditorDown">
       <i c="6" l="1737293750766" />
@@ -76,10 +76,10 @@
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="3" l="1737300134270" />
+      <i c="4" l="1737370467367" />
     </e>
     <e n="GotoDeclaration">
-      <i c="20" l="1737357052406" />
+      <i c="21" l="1737370506921" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1737265512117" />
@@ -127,7 +127,7 @@
       <i c="2" l="1737317058391" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
-      <i c="1" l="1737191890634" />
+      <i c="2" l="1737370489907" />
     </e>
   </component>
 </application>
