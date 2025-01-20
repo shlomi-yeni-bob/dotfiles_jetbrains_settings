@@ -27,8 +27,11 @@
     <e n="CommentByLineComment">
       <i c="2" l="1737371895507" />
     </e>
+    <e n="CompileDirty">
+      <i c="1" l="1737372641874" />
+    </e>
     <e n="CompileProject">
-      <i c="1" l="1737288445516" />
+      <i c="2" l="1737372469584" />
     </e>
     <e n="CopyReference">
       <i c="1" l="1737317458578" />
@@ -43,19 +46,19 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="112" l="1737371786991" />
+      <i c="137" l="1737373957478" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1737370954107" />
     </e>
     <e n="EditorCopy">
-      <i c="21" l="1737371939809" />
+      <i c="22" l="1737372059791" />
     </e>
     <e n="EditorCut">
-      <i c="1" l="1737370981367" />
+      <i c="3" l="1737373928554" />
     </e>
     <e n="EditorDown">
-      <i c="8" l="1737370978010" />
+      <i c="11" l="1737373956743" />
     </e>
     <e n="EditorEnter">
       <i c="2" l="1737370871172" />
@@ -76,10 +79,13 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="33" l="1737371845541" />
+      <i c="39" l="1737373910826" />
     </e>
     <e n="EditorUp">
-      <i c="1" l="1737370692806" />
+      <i c="2" l="1737373957134" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="1" l="1737372631456" />
     </e>
     <e n="FindInPath">
       <i c="7" l="1737317035270" />
@@ -88,19 +94,22 @@
       <i c="4" l="1737316053985" />
     </e>
     <e n="Git.Pull">
-      <i c="2" l="1737300159455" />
+      <i c="3" l="1737372357104" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="4" l="1737370467367" />
+      <i c="6" l="1737372849750" />
+    </e>
+    <e n="GitRebaseBranchAction">
+      <i c="1" l="1737372861443" />
     </e>
     <e n="GotoDeclaration">
-      <i c="27" l="1737371474280" />
+      <i c="28" l="1737373854070" />
     </e>
     <e n="OpenModuleSettings">
-      <i c="1" l="1737371498083" />
+      <i c="3" l="1737372602476" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1737370985715" />
@@ -109,16 +118,19 @@
       <i c="1" l="1737265512117" />
     </e>
     <e n="Run">
-      <i c="3" l="1737371883390" />
+      <i c="5" l="1737372574138" />
     </e>
     <e n="RunClass">
-      <i c="2" l="1737371412038" />
+      <i c="4" l="1737372876576" />
     </e>
     <e n="RunDashboard.AddConfiguration">
       <i c="1" l="1737192443849" />
     </e>
     <e n="ServiceView.AddService">
       <i c="2" l="1737193488520" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1737372334126" />
     </e>
     <e n="Vcs.Push">
       <i c="1" l="1737267848179" />
@@ -134,6 +146,9 @@
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="2" l="1737293692747" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="4" l="1737373962446" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="3" l="1737317059448" />
@@ -152,6 +167,9 @@
     </e>
     <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
       <i c="1" l="1737371511124" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyRemoveAction">
+      <i c="1" l="1737372562614" />
     </e>
     <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
       <i c="1" l="1737371508194" />
