@@ -13,7 +13,10 @@
       <i c="3" l="1737265437600" />
     </e>
     <e n="Annotate">
-      <i c="1" l="1737314675226" />
+      <i c="5" l="1737317431748" />
+    </e>
+    <e n="Back">
+      <i c="12" l="1737317333647" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="2" l="1737265547133" />
@@ -23,6 +26,9 @@
     </e>
     <e n="CompileProject">
       <i c="1" l="1737288445516" />
+    </e>
+    <e n="CopyReference">
+      <i c="1" l="1737317458578" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
@@ -34,7 +40,7 @@
       <i c="99" l="1737316028243" />
     </e>
     <e n="EditorCopy">
-      <i c="12" l="1737295390196" />
+      <i c="13" l="1737317435310" />
     </e>
     <e n="EditorDown">
       <i c="6" l="1737293750766" />
@@ -43,7 +49,7 @@
       <i c="9" l="1737265526068" />
     </e>
     <e n="EditorLineStart">
-      <i c="1" l="1737293748139" />
+      <i c="2" l="1737317050092" />
     </e>
     <e n="EditorPaste">
       <i c="4" l="1737293745892" />
@@ -55,10 +61,10 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="20" l="1737315958270" />
+      <i c="21" l="1737317445006" />
     </e>
     <e n="FindInPath">
-      <i c="5" l="1737295018890" />
+      <i c="7" l="1737317035270" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="4" l="1737316053985" />
@@ -73,7 +79,7 @@
       <i c="3" l="1737300134270" />
     </e>
     <e n="GotoDeclaration">
-      <i c="8" l="1737192373450" />
+      <i c="20" l="1737357052406" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1737265512117" />
@@ -90,6 +96,9 @@
     <e n="Vcs.Push">
       <i c="1" l="1737267848179" />
     </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="2" l="1737317319794" />
+    </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="3" l="1737293744936" />
     </e>
@@ -97,7 +106,10 @@
       <i c="2" l="1737293692747" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="2" l="1737267570789" />
+      <i c="3" l="1737317059448" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="1" l="1737317043305" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="1" l="1737288736614" />
@@ -109,10 +121,10 @@
       <i c="1" l="1737300188225" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="2" l="1737267570497" />
+      <i c="4" l="1737317056044" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="1" l="1737265387831" />
+      <i c="2" l="1737317058391" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1737191890634" />
