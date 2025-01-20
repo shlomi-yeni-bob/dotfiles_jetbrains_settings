@@ -68,7 +68,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.20410156" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.20410156" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.12050781" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -107,7 +107,31 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.hibob.analytics in hibob.test">
+  <component name="RunManager" selected="Gradle.EmployeeSnapshotDataServiceTest">
+    <configuration name="EmployeeSnapshotDataServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.payroll.employees.EmployeeSnapshotDataServiceTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="Tests in 'com.hibob.analytics'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -148,6 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest" />
         <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics'" />
       </list>
@@ -177,7 +202,7 @@
       <workItem from="1737300082695" duration="765000" />
       <workItem from="1737314540997" duration="1516000" />
       <workItem from="1737356984955" duration="399000" />
-      <workItem from="1737370252482" duration="1690000" />
+      <workItem from="1737370252482" duration="1802000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
