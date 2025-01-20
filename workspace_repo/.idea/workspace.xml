@@ -106,7 +106,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
+  <component name="RunManager" selected="JUnit.com.hibob.analytics in hibob.test">
     <configuration name="Tests in 'com.hibob.analytics'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -131,8 +131,23 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="com.hibob.analytics in hibob.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibob.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibob.analytics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hibob.analytics" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics'" />
       </list>
     </recent_temporary>
@@ -161,7 +176,7 @@
       <workItem from="1737300082695" duration="765000" />
       <workItem from="1737314540997" duration="1516000" />
       <workItem from="1737356984955" duration="399000" />
-      <workItem from="1737370252482" duration="1323000" />
+      <workItem from="1737370252482" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
