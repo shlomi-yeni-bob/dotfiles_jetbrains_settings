@@ -13,10 +13,10 @@
       <i c="3" l="1737265437600" />
     </e>
     <e n="Annotate">
-      <i c="5" l="1737317431748" />
+      <i c="6" l="1737371462472" />
     </e>
     <e n="Back">
-      <i c="14" l="1737370846688" />
+      <i c="15" l="1737371478928" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="2" l="1737265547133" />
@@ -46,7 +46,7 @@
       <i c="3" l="1737370954107" />
     </e>
     <e n="EditorCopy">
-      <i c="18" l="1737370891110" />
+      <i c="19" l="1737371441069" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1737370981367" />
@@ -73,7 +73,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="29" l="1737370962116" />
+      <i c="31" l="1737371439387" />
     </e>
     <e n="EditorUp">
       <i c="1" l="1737370692806" />
@@ -94,7 +94,10 @@
       <i c="4" l="1737370467367" />
     </e>
     <e n="GotoDeclaration">
-      <i c="26" l="1737371327388" />
+      <i c="27" l="1737371474280" />
+    </e>
+    <e n="OpenModuleSettings">
+      <i c="1" l="1737371498083" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1737370985715" />
@@ -104,6 +107,9 @@
     </e>
     <e n="Run">
       <i c="2" l="1737293717421" />
+    </e>
+    <e n="RunClass">
+      <i c="2" l="1737371412038" />
     </e>
     <e n="RunDashboard.AddConfiguration">
       <i c="1" l="1737192443849" />
@@ -134,6 +140,12 @@
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1737265334756" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
+      <i c="1" l="1737371511124" />
+    </e>
+    <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
+      <i c="1" l="1737371508194" />
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1737300188225" />
