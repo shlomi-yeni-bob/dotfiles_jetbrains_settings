@@ -13,7 +13,7 @@
       <i c="3" l="1737265437600" />
     </e>
     <e n="Annotate">
-      <i c="6" l="1737371462472" />
+      <i c="7" l="1737371854000" />
     </e>
     <e n="Back">
       <i c="15" l="1737371478928" />
@@ -23,6 +23,9 @@
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1737300115930" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="2" l="1737371895507" />
     </e>
     <e n="CompileProject">
       <i c="1" l="1737288445516" />
@@ -40,13 +43,13 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="111" l="1737371005397" />
+      <i c="112" l="1737371786991" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1737370954107" />
     </e>
     <e n="EditorCopy">
-      <i c="19" l="1737371441069" />
+      <i c="21" l="1737371939809" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1737370981367" />
@@ -73,7 +76,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="31" l="1737371439387" />
+      <i c="33" l="1737371845541" />
     </e>
     <e n="EditorUp">
       <i c="1" l="1737370692806" />
@@ -106,7 +109,7 @@
       <i c="1" l="1737265512117" />
     </e>
     <e n="Run">
-      <i c="2" l="1737293717421" />
+      <i c="3" l="1737371883390" />
     </e>
     <e n="RunClass">
       <i c="2" l="1737371412038" />
@@ -125,6 +128,9 @@
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="3" l="1737293744936" />
+    </e>
+    <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
+      <i c="1" l="1737371602159" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="2" l="1737293692747" />
