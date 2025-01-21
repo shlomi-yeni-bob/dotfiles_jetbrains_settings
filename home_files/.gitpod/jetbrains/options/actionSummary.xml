@@ -1,0 +1,214 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1737397129819" />
+    </e>
+    <e n="$Delete">
+      <i c="3" l="1737462745854" />
+    </e>
+    <e n="$Paste">
+      <i c="2" l="1737397130181" />
+    </e>
+    <e n="$Undo">
+      <i c="14" l="1737452900388" />
+    </e>
+    <e n="Annotate">
+      <i c="10" l="1737452918524" />
+    </e>
+    <e n="Back">
+      <i c="16" l="1737383213542" />
+    </e>
+    <e n="ChangesView.AddUnversioned">
+      <i c="3" l="1737397185288" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1737300115930" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="2" l="1737371895507" />
+    </e>
+    <e n="CompileDirty">
+      <i c="1" l="1737372641874" />
+    </e>
+    <e n="CompileProject">
+      <i c="2" l="1737372469584" />
+    </e>
+    <e n="CopyReference">
+      <i c="1" l="1737317458578" />
+    </e>
+    <e n="Debug">
+      <i c="8" l="1737466710662" />
+    </e>
+    <e n="Docker.AddDockerConnection">
+      <i c="1" l="1737193492417" />
+    </e>
+    <e n="EditSource">
+      <i c="1" l="1737265491996" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="217" l="1737466643007" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="5" l="1737466572830" />
+    </e>
+    <e n="EditorCopy">
+      <i c="32" l="1737466700701" />
+    </e>
+    <e n="EditorCut">
+      <i c="4" l="1737383648312" />
+    </e>
+    <e n="EditorDown">
+      <i c="19" l="1737466642399" />
+    </e>
+    <e n="EditorEnter">
+      <i c="9" l="1737466632562" />
+    </e>
+    <e n="EditorLeft">
+      <i c="15" l="1737466610960" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1737451553726" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="4" l="1737370816263" />
+    </e>
+    <e n="EditorPaste">
+      <i c="22" l="1737466639391" />
+    </e>
+    <e n="EditorRight">
+      <i c="95" l="1737466610204" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="15" l="1737265529981" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="65" l="1737466638645" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1737373957134" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="1" l="1737372631456" />
+    </e>
+    <e n="FindInPath">
+      <i c="10" l="1737399069576" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="11" l="1737462774131" />
+    </e>
+    <e n="Git.Pull">
+      <i c="10" l="1737466215048" />
+    </e>
+    <e n="Git.Rename.Local.Branch">
+      <i c="1" l="1737267775641" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="12" l="1737466207274" />
+    </e>
+    <e n="GitRebaseBranchAction">
+      <i c="1" l="1737372861443" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="34" l="1737452901512" />
+    </e>
+    <e n="OpenModuleSettings">
+      <i c="3" l="1737372602476" />
+    </e>
+    <e n="ReformatCode">
+      <i c="3" l="1737397958239" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1737466605156" />
+    </e>
+    <e n="Run">
+      <i c="6" l="1737452987060" />
+    </e>
+    <e n="RunClass">
+      <i c="6" l="1737453200623" />
+    </e>
+    <e n="RunDashboard.AddConfiguration">
+      <i c="1" l="1737192443849" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="2" l="1737193488520" />
+    </e>
+    <e n="Stop">
+      <i c="8" l="1737461716338" />
+    </e>
+    <e n="ToolWindowShowNamesAction">
+      <i c="2" l="1737450679070" />
+    </e>
+    <e n="Vcs.Log.OpenAnotherTab">
+      <i c="1" l="1737450453087" />
+    </e>
+    <e n="Vcs.Log.ShowSettingsAction">
+      <i c="1" l="1737450468214" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="3" l="1737382005597" />
+    </e>
+    <e n="Vcs.ShowConsoleTab">
+      <i c="1" l="1737450460123" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="2" l="1737317319794" />
+    </e>
+    <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
+      <i c="7" l="1737466588941" />
+    </e>
+    <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
+      <i c="1" l="1737371602159" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="6" l="1737466398810" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="4" l="1737373962446" />
+    </e>
+    <e n="com.intellij.execution.ui.PinConfigurationAction">
+      <i c="2" l="1737466394552" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="3" l="1737466708036" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="3" l="1737317059448" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="1" l="1737317043305" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1737452172599" />
+    </e>
+    <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
+      <i c="1" l="1737459392441" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="1" l="1737372010698" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1737265334756" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
+      <i c="1" l="1737371511124" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyRemoveAction">
+      <i c="1" l="1737372562614" />
+    </e>
+    <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
+      <i c="1" l="1737371508194" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1737300188225" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="59" l="1737399238394" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="15" l="1737399232836" />
+    </e>
+    <e n="performancePlugin.ShowMemoryDialogAction">
+      <i c="2" l="1737370489907" />
+    </e>
+  </component>
+</application>
