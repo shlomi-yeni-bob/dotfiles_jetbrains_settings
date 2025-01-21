@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="drop original_id column from kpi table">
-      <change afterPath="$PROJECT_DIR$/conf/db/migration/default/202501/V202501211626__kpi-table-remove-records-of-system-employee.sql" afterDir="false" />
-    </list>
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete all records where employee id is system" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,7 +255,7 @@
       <workItem from="1737443280232" duration="2569000" />
       <workItem from="1737458889690" duration="6246000" />
       <workItem from="1737471290163" duration="5243000" />
-      <workItem from="1737485264841" duration="482000" />
+      <workItem from="1737485264841" duration="1174000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -331,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737475543710</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="delete all records where employee id is system">
+      <option name="closed" value="true" />
+      <created>1737486438005</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737486438005</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +364,8 @@
     <MESSAGE value="remove kpi original id" />
     <MESSAGE value="delete tests" />
     <MESSAGE value="drop original_id column from kpi table" />
-    <option name="LAST_COMMIT_MESSAGE" value="drop original_id column from kpi table" />
+    <MESSAGE value="delete all records where employee id is system" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete all records where employee id is system" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

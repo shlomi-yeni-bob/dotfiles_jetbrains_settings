@@ -46,13 +46,13 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="252" l="1737476847226" />
+      <i c="268" l="1737486323512" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1737466572830" />
     </e>
     <e n="EditorCopy">
-      <i c="33" l="1737475478974" />
+      <i c="34" l="1737486039342" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1737383648312" />
@@ -82,7 +82,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="70" l="1737475345966" />
+      <i c="71" l="1737486306672" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1737373957134" />
@@ -91,10 +91,10 @@
       <i c="1" l="1737372631456" />
     </e>
     <e n="FindInPath">
-      <i c="11" l="1737475427293" />
+      <i c="12" l="1737486386519" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="13" l="1737475541422" />
+      <i c="15" l="1737486430356" />
     </e>
     <e n="Git.Pull">
       <i c="11" l="1737475667814" />
@@ -205,7 +205,7 @@
       <i c="1" l="1737300188225" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="111" l="1737475467336" />
+      <i c="123" l="1737486398864" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="15" l="1737399232836" />
