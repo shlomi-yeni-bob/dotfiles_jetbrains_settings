@@ -177,6 +177,9 @@
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="2" l="1737452172599" />
     </e>
+    <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
+      <i c="1" l="1737459392441" />
+    </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1737372010698" />
     </e>
