@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="remove kpi original id" />
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,8 +66,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12890625" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.29296875" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21328124" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.21328124" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -253,7 +253,7 @@
       <workItem from="1737380113563" duration="3713000" />
       <workItem from="1737397006855" duration="3261000" />
       <workItem from="1737443280232" duration="2569000" />
-      <workItem from="1737458889690" duration="2453000" />
+      <workItem from="1737458889690" duration="3680000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -311,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737461762934</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="delete tests">
+      <option name="closed" value="true" />
+      <created>1737462776238</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737462776238</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +344,8 @@
     <MESSAGE value="yaml file fix ootb kpi duplications" />
     <MESSAGE value="add kpi table unique index" />
     <MESSAGE value="remove kpi original id" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove kpi original id" />
+    <MESSAGE value="delete tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete tests" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
