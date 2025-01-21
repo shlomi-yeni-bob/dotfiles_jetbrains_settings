@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="drop original_id column from kpi table" />
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="drop original_id column from kpi table">
+      <change afterPath="$PROJECT_DIR$/conf/db/migration/default/202501/V202501211626__kpi-table-remove-records-of-system-employee.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.Create db migration.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "shlomi-yeni/kpi-table-remove-records-of-system-employee",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -67,7 +69,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.21119791" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17161459" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17178571" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -80,7 +82,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4131915" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.25659573" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.2565" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27667844" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.4131915" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.28127658" />
@@ -106,7 +108,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.Create db migration">
+  <component name="RunManager" selected="Gradle.EmployeeSnapshotDataServiceTest">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -255,6 +257,7 @@
       <workItem from="1737443280232" duration="2569000" />
       <workItem from="1737458889690" duration="6246000" />
       <workItem from="1737471290163" duration="5243000" />
+      <workItem from="1737485264841" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />

@@ -46,7 +46,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="241" l="1737475689386" />
+      <i c="252" l="1737476847226" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1737466572830" />
@@ -73,7 +73,7 @@
       <i c="4" l="1737370816263" />
     </e>
     <e n="EditorPaste">
-      <i c="25" l="1737475448562" />
+      <i c="26" l="1737476951355" />
     </e>
     <e n="EditorRight">
       <i c="99" l="1737467248899" />
@@ -154,13 +154,13 @@
       <i c="2" l="1737317319794" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="8" l="1737475273735" />
+      <i c="9" l="1737476827680" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1737371602159" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="7" l="1737475231987" />
+      <i c="8" l="1737476798043" />
     </e>
     <e n="com.intellij.execution.actions.StopProcessAction">
       <i c="1" l="1737471116177" />
