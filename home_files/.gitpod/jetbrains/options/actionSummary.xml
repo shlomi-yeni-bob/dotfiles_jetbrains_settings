@@ -28,16 +28,16 @@
       <i c="2" l="1737371895507" />
     </e>
     <e n="CompileDirty">
-      <i c="1" l="1737372641874" />
+      <i c="2" l="1737471122979" />
     </e>
     <e n="CompileProject">
-      <i c="2" l="1737372469584" />
+      <i c="3" l="1737467517122" />
     </e>
     <e n="CopyReference">
       <i c="1" l="1737317458578" />
     </e>
     <e n="Debug">
-      <i c="8" l="1737466710662" />
+      <i c="10" l="1737467449014" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
@@ -46,7 +46,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="217" l="1737466643007" />
+      <i c="228" l="1737467249388" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1737466572830" />
@@ -64,7 +64,7 @@
       <i c="9" l="1737466632562" />
     </e>
     <e n="EditorLeft">
-      <i c="15" l="1737466610960" />
+      <i c="24" l="1737467247549" />
     </e>
     <e n="EditorLineEnd">
       <i c="1" l="1737451553726" />
@@ -76,7 +76,7 @@
       <i c="22" l="1737466639391" />
     </e>
     <e n="EditorRight">
-      <i c="95" l="1737466610204" />
+      <i c="99" l="1737467248899" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="15" l="1737265529981" />
@@ -103,7 +103,7 @@
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="12" l="1737466207274" />
+      <i c="13" l="1737467279120" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1737372861443" />
@@ -133,7 +133,7 @@
       <i c="2" l="1737193488520" />
     </e>
     <e n="Stop">
-      <i c="8" l="1737461716338" />
+      <i c="10" l="1737467459060" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
@@ -161,6 +161,9 @@
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="6" l="1737466398810" />
+    </e>
+    <e n="com.intellij.execution.actions.StopProcessAction">
+      <i c="1" l="1737471116177" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="4" l="1737373962446" />
