@@ -106,7 +106,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
+  <component name="RunManager" selected="Shell Script.Create db migration">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
