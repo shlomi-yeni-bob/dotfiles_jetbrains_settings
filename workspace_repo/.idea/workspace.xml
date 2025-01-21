@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete tests" />
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="drop original_id column from kpi table" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/kpi-table-drop-another-unique-index" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/drop-original-id-from-kpi-table" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.Create db migration.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/drop-original-id-from-kpi-table",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -106,7 +106,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.Create db migration">
+  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -254,7 +254,7 @@
       <workItem from="1737397006855" duration="3261000" />
       <workItem from="1737443280232" duration="2569000" />
       <workItem from="1737458889690" duration="6246000" />
-      <workItem from="1737471290163" duration="3919000" />
+      <workItem from="1737471290163" duration="4340000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -320,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737462776238</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="drop original_id column from kpi table">
+      <option name="closed" value="true" />
+      <created>1737475543710</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737475543710</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +354,8 @@
     <MESSAGE value="add kpi table unique index" />
     <MESSAGE value="remove kpi original id" />
     <MESSAGE value="delete tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete tests" />
+    <MESSAGE value="drop original_id column from kpi table" />
+    <option name="LAST_COMMIT_MESSAGE" value="drop original_id column from kpi table" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
