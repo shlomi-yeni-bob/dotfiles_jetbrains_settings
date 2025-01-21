@@ -132,8 +132,17 @@
     <e n="Stop">
       <i c="5" l="1737449363724" />
     </e>
+    <e n="Vcs.Log.OpenAnotherTab">
+      <i c="1" l="1737450453087" />
+    </e>
+    <e n="Vcs.Log.ShowSettingsAction">
+      <i c="1" l="1737450468214" />
+    </e>
     <e n="Vcs.Push">
       <i c="3" l="1737382005597" />
+    </e>
+    <e n="Vcs.ShowConsoleTab">
+      <i c="1" l="1737450460123" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="2" l="1737317319794" />
