@@ -37,7 +37,7 @@
       <i c="1" l="1737317458578" />
     </e>
     <e n="Debug">
-      <i c="4" l="1737443457875" />
+      <i c="5" l="1737449460246" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
@@ -52,7 +52,7 @@
       <i c="3" l="1737370954107" />
     </e>
     <e n="EditorCopy">
-      <i c="26" l="1737399251517" />
+      <i c="27" l="1737449699644" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1737383648312" />
@@ -79,7 +79,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="53" l="1737443451579" />
+      <i c="56" l="1737449599457" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1737373957134" />
@@ -149,6 +149,9 @@
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="4" l="1737373962446" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="1" l="1737449457822" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="3" l="1737317059448" />
