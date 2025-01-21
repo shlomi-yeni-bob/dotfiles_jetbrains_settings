@@ -4,16 +4,16 @@
       <i c="2" l="1737397129819" />
     </e>
     <e n="$Delete">
-      <i c="1" l="1737300122322" />
+      <i c="2" l="1737452934280" />
     </e>
     <e n="$Paste">
       <i c="2" l="1737397130181" />
     </e>
     <e n="$Undo">
-      <i c="12" l="1737399538341" />
+      <i c="14" l="1737452900388" />
     </e>
     <e n="Annotate">
-      <i c="8" l="1737398308161" />
+      <i c="10" l="1737452918524" />
     </e>
     <e n="Back">
       <i c="16" l="1737383213542" />
@@ -37,7 +37,7 @@
       <i c="1" l="1737317458578" />
     </e>
     <e n="Debug">
-      <i c="5" l="1737449460246" />
+      <i c="6" l="1737453028862" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
@@ -46,13 +46,13 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="178" l="1737443452544" />
+      <i c="193" l="1737453084422" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1737370954107" />
     </e>
     <e n="EditorCopy">
-      <i c="27" l="1737449699644" />
+      <i c="29" l="1737453004393" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1737383648312" />
@@ -66,20 +66,23 @@
     <e n="EditorLeft">
       <i c="12" l="1737397145202" />
     </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1737451553726" />
+    </e>
     <e n="EditorLineStart">
       <i c="4" l="1737370816263" />
     </e>
     <e n="EditorPaste">
-      <i c="17" l="1737399540716" />
+      <i c="19" l="1737451565347" />
     </e>
     <e n="EditorRight">
-      <i c="59" l="1737397154741" />
+      <i c="69" l="1737451552833" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="56" l="1737449599457" />
+      <i c="60" l="1737453083186" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1737373957134" />
@@ -91,22 +94,22 @@
       <i c="10" l="1737399069576" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="8" l="1737399658548" />
+      <i c="9" l="1737452168692" />
     </e>
     <e n="Git.Pull">
-      <i c="7" l="1737449384238" />
+      <i c="9" l="1737452801770" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="10" l="1737449376125" />
+      <i c="11" l="1737452790854" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1737372861443" />
     </e>
     <e n="GotoDeclaration">
-      <i c="30" l="1737383675774" />
+      <i c="34" l="1737452901512" />
     </e>
     <e n="OpenModuleSettings">
       <i c="3" l="1737372602476" />
@@ -118,10 +121,10 @@
       <i c="1" l="1737265512117" />
     </e>
     <e n="Run">
-      <i c="5" l="1737372574138" />
+      <i c="6" l="1737452987060" />
     </e>
     <e n="RunClass">
-      <i c="5" l="1737380250738" />
+      <i c="6" l="1737453200623" />
     </e>
     <e n="RunDashboard.AddConfiguration">
       <i c="1" l="1737192443849" />
@@ -130,7 +133,7 @@
       <i c="2" l="1737193488520" />
     </e>
     <e n="Stop">
-      <i c="5" l="1737449363724" />
+      <i c="7" l="1737453075459" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
@@ -151,19 +154,19 @@
       <i c="2" l="1737317319794" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="5" l="1737397760580" />
+      <i c="6" l="1737451580181" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1737371602159" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="4" l="1737397728109" />
+      <i c="5" l="1737451458316" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="4" l="1737373962446" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="1" l="1737449457822" />
+      <i c="2" l="1737452983398" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="3" l="1737317059448" />
@@ -172,7 +175,7 @@
       <i c="1" l="1737317043305" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="1" l="1737288736614" />
+      <i c="2" l="1737452172599" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1737372010698" />
