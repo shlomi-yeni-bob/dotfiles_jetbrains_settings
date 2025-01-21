@@ -132,6 +132,9 @@
     <e n="Stop">
       <i c="5" l="1737449363724" />
     </e>
+    <e n="ToolWindowShowNamesAction">
+      <i c="2" l="1737450679070" />
+    </e>
     <e n="Vcs.Log.OpenAnotherTab">
       <i c="1" l="1737450453087" />
     </e>

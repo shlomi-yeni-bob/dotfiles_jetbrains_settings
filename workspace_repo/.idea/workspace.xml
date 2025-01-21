@@ -77,13 +77,13 @@
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.4012766" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4131915" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4012766" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4131915" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27667844" />
-      <window_info anchor="bottom" id="Build" order="5" weight="0.3915" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.2608511" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.4131915" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.3587234" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -252,7 +252,7 @@
       <workItem from="1737370252482" duration="1802000" />
       <workItem from="1737380113563" duration="3713000" />
       <workItem from="1737397006855" duration="3261000" />
-      <workItem from="1737443280232" duration="2074000" />
+      <workItem from="1737443280232" duration="2569000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
