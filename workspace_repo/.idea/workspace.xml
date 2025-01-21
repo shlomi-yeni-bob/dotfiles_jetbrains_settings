@@ -44,7 +44,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.Create db migration.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "shlomi-yeni/drop-original-id-from-kpi-table",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -106,7 +106,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
+  <component name="RunManager" selected="Shell Script.Create db migration">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -254,7 +254,7 @@
       <workItem from="1737397006855" duration="3261000" />
       <workItem from="1737443280232" duration="2569000" />
       <workItem from="1737458889690" duration="6246000" />
-      <workItem from="1737471290163" duration="3568000" />
+      <workItem from="1737471290163" duration="3919000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
