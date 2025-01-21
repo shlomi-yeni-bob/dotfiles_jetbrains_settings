@@ -44,7 +44,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.Create db migration.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/remove-kpi-original-id",
+    "git-widget-placeholder": "shlomi-yeni/kpi-table-drop-another-unique-index",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -254,7 +254,7 @@
       <workItem from="1737397006855" duration="3261000" />
       <workItem from="1737443280232" duration="2569000" />
       <workItem from="1737458889690" duration="6246000" />
-      <workItem from="1737471290163" duration="480000" />
+      <workItem from="1737471290163" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
