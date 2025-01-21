@@ -83,7 +83,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.28127658" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27667844" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.4131915" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.3331915" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.29829788" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -106,7 +106,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -253,7 +253,7 @@
       <workItem from="1737380113563" duration="3713000" />
       <workItem from="1737397006855" duration="3261000" />
       <workItem from="1737443280232" duration="2569000" />
-      <workItem from="1737458889690" duration="3680000" />
+      <workItem from="1737458889690" duration="5159000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
