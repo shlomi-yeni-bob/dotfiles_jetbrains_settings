@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/remove-kpi-original-id" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/kpi-table-drop-another-unique-index" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.Create db migration.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/kpi-table-drop-another-unique-index",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -66,8 +66,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21119791" />
-      <window_info id="Commit" order="1" weight="0.21328124" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21119791" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17161459" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -80,10 +80,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4131915" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.28127658" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28127658" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27667844" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.4131915" />
-      <window_info anchor="bottom" id="Debug" order="6" visible="true" weight="0.28127658" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.28127658" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -106,7 +106,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -221,7 +221,7 @@
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics'" />
         <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest (1)" />
-        <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest" />
+        <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +254,7 @@
       <workItem from="1737397006855" duration="3261000" />
       <workItem from="1737443280232" duration="2569000" />
       <workItem from="1737458889690" duration="6246000" />
-      <workItem from="1737471290163" duration="1828000" />
+      <workItem from="1737471290163" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
