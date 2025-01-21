@@ -223,7 +223,7 @@
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics'" />
         <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest (1)" />
-        <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
+        <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest" />
       </list>
     </recent_temporary>
   </component>
