@@ -46,10 +46,10 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="207" l="1737462764064" />
+      <i c="208" l="1737466232261" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3" l="1737370954107" />
+      <i c="5" l="1737466572830" />
     </e>
     <e n="EditorCopy">
       <i c="29" l="1737453004393" />
@@ -73,7 +73,7 @@
       <i c="4" l="1737370816263" />
     </e>
     <e n="EditorPaste">
-      <i c="19" l="1737451565347" />
+      <i c="20" l="1737466579807" />
     </e>
     <e n="EditorRight">
       <i c="69" l="1737451552833" />
@@ -82,7 +82,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="62" l="1737462754987" />
+      <i c="63" l="1737466231001" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1737373957134" />
@@ -97,13 +97,13 @@
       <i c="11" l="1737462774131" />
     </e>
     <e n="Git.Pull">
-      <i c="9" l="1737452801770" />
+      <i c="10" l="1737466215048" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="11" l="1737452790854" />
+      <i c="12" l="1737466207274" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1737372861443" />
@@ -154,16 +154,19 @@
       <i c="2" l="1737317319794" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="6" l="1737451580181" />
+      <i c="7" l="1737466588941" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1737371602159" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="5" l="1737451458316" />
+      <i c="6" l="1737466398810" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="4" l="1737373962446" />
+    </e>
+    <e n="com.intellij.execution.ui.PinConfigurationAction">
+      <i c="2" l="1737466394552" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="2" l="1737452983398" />
