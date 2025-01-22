@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/kpi-table-remove-records-of-system-employee" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/refactor-kpi-category-details" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.Create db migration.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/refactor-kpi-category-details",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -256,7 +256,7 @@
       <workItem from="1737458889690" duration="6246000" />
       <workItem from="1737471290163" duration="5243000" />
       <workItem from="1737485264841" duration="1174000" />
-      <workItem from="1737532310230" duration="3275000" />
+      <workItem from="1737532310230" duration="4686000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
