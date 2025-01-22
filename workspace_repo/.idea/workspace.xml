@@ -107,7 +107,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
+  <component name="RunManager" selected="Gradle.hibob [clean]">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -218,9 +218,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics'" />
-        <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest (1)" />
         <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest" />
       </list>
