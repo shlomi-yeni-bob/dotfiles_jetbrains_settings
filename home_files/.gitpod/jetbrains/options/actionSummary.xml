@@ -13,10 +13,10 @@
       <i c="69" l="1737557365395" />
     </e>
     <e n="Annotate">
-      <i c="14" l="1737537344086" />
+      <i c="16" l="1737558412014" />
     </e>
     <e n="Back">
-      <i c="21" l="1737557507556" />
+      <i c="44" l="1737558731850" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -37,7 +37,7 @@
       <i c="1" l="1737317458578" />
     </e>
     <e n="Debug">
-      <i c="12" l="1737472933601" />
+      <i c="13" l="1737558188566" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
@@ -46,13 +46,13 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="527" l="1737557968715" />
+      <i c="537" l="1737558799976" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="35" l="1737557608029" />
+      <i c="42" l="1737558810819" />
     </e>
     <e n="EditorCopy">
-      <i c="52" l="1737557977935" />
+      <i c="55" l="1737559045677" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1737557362588" />
@@ -64,7 +64,7 @@
       <i c="2" l="1737557267544" />
     </e>
     <e n="EditorEnter">
-      <i c="21" l="1737557359966" />
+      <i c="23" l="1737558361906" />
     </e>
     <e n="EditorLeft">
       <i c="94" l="1737557428475" />
@@ -79,7 +79,7 @@
       <i c="2" l="1737557295177" />
     </e>
     <e n="EditorPaste">
-      <i c="42" l="1737557972471" />
+      <i c="46" l="1737558780341" />
     </e>
     <e n="EditorRight">
       <i c="191" l="1737557969297" />
@@ -88,7 +88,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="137" l="1737557977060" />
+      <i c="152" l="1737559044978" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1737533664623" />
@@ -121,7 +121,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="63" l="1737557906037" />
+      <i c="75" l="1737558724611" />
     </e>
     <e n="MoveStatementUp">
       <i c="10" l="1737556044003" />
@@ -193,7 +193,7 @@
       <i c="2" l="1737466394552" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="4" l="1737471407621" />
+      <i c="5" l="1737558184854" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="4" l="1737533680561" />
@@ -230,6 +230,9 @@
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="19" l="1737543002809" />
+    </e>
+    <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
+      <i c="1" l="1737558567146" />
     </e>
     <e n="git.branches.group.by.prefix">
       <i c="1" d="1" l="1737555969194" k="1737555969194" />

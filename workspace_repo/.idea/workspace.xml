@@ -7,8 +7,11 @@
     <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete all records where employee id is system">
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardEnricher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardEnricher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardWithFilteredKPIsDetailsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardWithFilteredKPIsDetailsProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadataAuthorizer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadataAuthorizer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdater.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdater.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +108,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.17178571" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.13666269" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.12350479" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -120,8 +123,8 @@
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.22011122" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.15523633" />
-      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.15523633" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.28127658" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.15523633" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.17284523" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -131,7 +134,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.11214115" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.11214115" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
     </layout>
@@ -144,7 +147,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [clean]">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -295,7 +298,7 @@
       <workItem from="1737471290163" duration="5243000" />
       <workItem from="1737485264841" duration="1174000" />
       <workItem from="1737532310230" duration="4686000" />
-      <workItem from="1737554795764" duration="3257000" />
+      <workItem from="1737554795764" duration="4250000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
