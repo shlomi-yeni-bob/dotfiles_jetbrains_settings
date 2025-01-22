@@ -25,7 +25,7 @@
       <i c="2" l="1737534981235" />
     </e>
     <e n="CommentByLineComment">
-      <i c="4" l="1737533374536" />
+      <i c="5" l="1737556167115" />
     </e>
     <e n="CompileDirty">
       <i c="2" l="1737471122979" />
@@ -52,7 +52,7 @@
       <i c="21" l="1737555551760" />
     </e>
     <e n="EditorCopy">
-      <i c="41" l="1737555523439" />
+      <i c="43" l="1737555801829" />
     </e>
     <e n="EditorCut">
       <i c="5" l="1737534516483" />
@@ -85,7 +85,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="103" l="1737555581928" />
+      <i c="107" l="1737555800535" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1737533664623" />
@@ -115,10 +115,10 @@
       <i c="1" l="1737372861443" />
     </e>
     <e n="GotoDeclaration">
-      <i c="49" l="1737555422323" />
+      <i c="54" l="1737556130527" />
     </e>
     <e n="MoveStatementUp">
-      <i c="2" l="1737555659048" />
+      <i c="10" l="1737556044003" />
     </e>
     <e n="NextTemplateVariable">
       <i c="1" l="1737534150684" />
@@ -221,6 +221,9 @@
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="19" l="1737543002809" />
+    </e>
+    <e n="git.branches.group.by.prefix">
+      <i c="1" d="1" l="1737555969194" k="1737555969194" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="2" l="1737370489907" />
