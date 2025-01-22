@@ -10,13 +10,13 @@
       <i c="2" l="1737397130181" />
     </e>
     <e n="$Undo">
-      <i c="16" l="1737475447875" />
+      <i c="18" l="1737534336873" />
     </e>
     <e n="Annotate">
       <i c="12" l="1737533204081" />
     </e>
     <e n="Back">
-      <i c="16" l="1737383213542" />
+      <i c="17" l="1737534000368" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -46,28 +46,28 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="272" l="1737533617515" />
+      <i c="344" l="1737534387383" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="6" l="1737533615752" />
+      <i c="9" l="1737533957202" />
     </e>
     <e n="EditorCopy">
-      <i c="35" l="1737533405051" />
+      <i c="37" l="1737534087121" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1737383648312" />
     </e>
     <e n="EditorDown">
-      <i c="19" l="1737466642399" />
+      <i c="25" l="1737534308932" />
     </e>
     <e n="EditorEnter">
       <i c="9" l="1737466632562" />
     </e>
     <e n="EditorLeft">
-      <i c="24" l="1737467247549" />
+      <i c="47" l="1737534385707" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2" l="1737533618116" />
+      <i c="4" l="1737534373827" />
     </e>
     <e n="EditorLineStart">
       <i c="4" l="1737370816263" />
@@ -76,22 +76,25 @@
       <i c="26" l="1737476951355" />
     </e>
     <e n="EditorRight">
-      <i c="101" l="1737533616901" />
+      <i c="128" l="1737534385835" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="75" l="1737533400054" />
+      <i c="83" l="1737534254231" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1737533664623" />
     </e>
     <e n="EditorUp">
-      <i c="2" l="1737373957134" />
+      <i c="8" l="1737534072543" />
     </e>
     <e n="ExternalSystem.RunTask">
       <i c="1" l="1737372631456" />
     </e>
     <e n="FindInPath">
-      <i c="13" l="1737532973675" />
+      <i c="14" l="1737533670415" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="15" l="1737486430356" />
@@ -109,16 +112,19 @@
       <i c="1" l="1737372861443" />
     </e>
     <e n="GotoDeclaration">
-      <i c="34" l="1737452901512" />
+      <i c="42" l="1737534397035" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1737534150684" />
     </e>
     <e n="OpenModuleSettings">
       <i c="3" l="1737372602476" />
     </e>
     <e n="ReformatCode">
-      <i c="3" l="1737397958239" />
+      <i c="4" l="1737534067544" />
     </e>
     <e n="RenameElement">
-      <i c="2" l="1737466605156" />
+      <i c="3" l="1737534137727" />
     </e>
     <e n="Run">
       <i c="6" l="1737452987060" />
@@ -151,10 +157,10 @@
       <i c="1" l="1737450460123" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="2" l="1737317319794" />
+      <i c="3" l="1737534222144" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="9" l="1737476827680" />
+      <i c="10" l="1737534207143" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1737371602159" />
@@ -175,7 +181,7 @@
       <i c="4" l="1737471407621" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="3" l="1737317059448" />
+      <i c="4" l="1737533680561" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1737317043305" />
@@ -205,7 +211,7 @@
       <i c="1" l="1737300188225" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="144" l="1737533003476" />
+      <i c="145" l="1737533678916" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="15" l="1737399232836" />
