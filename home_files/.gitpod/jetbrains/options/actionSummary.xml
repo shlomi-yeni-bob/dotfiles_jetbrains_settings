@@ -97,13 +97,13 @@
       <i c="15" l="1737486430356" />
     </e>
     <e n="Git.Pull">
-      <i c="11" l="1737475667814" />
+      <i c="12" l="1737532945707" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="16" l="1737475642583" />
+      <i c="17" l="1737532929209" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1737372861443" />
