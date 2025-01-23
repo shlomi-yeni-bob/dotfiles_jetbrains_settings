@@ -7,6 +7,15 @@
     <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete all records where employee id is system">
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/DashboardRenamer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/DashboardRenamer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DashboardMappingDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardTranslationDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardTranslationDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/KPIRecentlyViewedDashboardsDaoMappingAware.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardDaoV2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardTranslationDao.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/package.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardAuditor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardAuditor.scala" afterDir="false" />
@@ -15,12 +24,24 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsActionsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsActionsProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadataAuthorizer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadataAuthorizer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/OOTBDashboardNewTables.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/OOTBDashboardNewTables.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/RecentDashboardNewDashboardIdsRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/RecentDashboardNewDashboardIdsRunner.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdater.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdater.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/CopyDeiConfigFromKpiCategoryToKpiSettingsMigrationRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/migrations/CopyDeiConfigFromKpiCategoryToKpiSettingsMigrationRunner.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/DashboardsMoveIsMasterFilterAppliedMigrationRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/migrations/DashboardsMoveIsMasterFilterAppliedMigrationRunner.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/CustomKPIsAuthorizerTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/CustomKPIsAuthorizerTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardConfigurationProviderTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardConfigurationProviderTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardCreatorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardCreatorTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardDeleterTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardDeleterTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardDuplicatorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardDuplicatorTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardEditorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardEditorTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardRenamerTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/DashboardRenamerTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreatorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreatorTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdaterTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdaterTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcherTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProviderE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProviderE2ETest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/kpis/section/KPIsSectionsProviderTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/kpis/section/KPIsSectionsProviderTest.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,8 +138,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19941406" />
-      <window_info id="Commit" order="1" weight="0.19941406" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2650391" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.23457031" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -132,7 +153,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.2335689" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.3007067" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.19611308" />
       <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.19611308" />
       <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.17284523" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
@@ -309,7 +330,7 @@
       <workItem from="1737485264841" duration="1174000" />
       <workItem from="1737532310230" duration="4686000" />
       <workItem from="1737554795764" duration="4573000" />
-      <workItem from="1737616174592" duration="2243000" />
+      <workItem from="1737616174592" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
