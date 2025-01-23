@@ -10,7 +10,7 @@
       <i c="2" l="1737397130181" />
     </e>
     <e n="$Undo">
-      <i c="69" l="1737557365395" />
+      <i c="70" l="1737620160334" />
     </e>
     <e n="Annotate">
       <i c="18" l="1737618663266" />
@@ -22,13 +22,13 @@
       <i c="3" l="1737397185288" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="3" l="1737556339630" />
+      <i c="4" l="1737620585312" />
     </e>
     <e n="CommentByLineComment">
-      <i c="8" l="1737619786956" />
+      <i c="9" l="1737620343004" />
     </e>
     <e n="CompileDirty">
-      <i c="13" l="1737619975931" />
+      <i c="14" l="1737620362877" />
     </e>
     <e n="CompileProject">
       <i c="10" l="1737616753957" />
@@ -46,31 +46,34 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="657" l="1737619955253" />
+      <i c="681" l="1737620591185" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="58" l="1737619539445" />
     </e>
     <e n="EditorCopy">
-      <i c="80" l="1737619938693" />
+      <i c="87" l="1737620355380" />
     </e>
     <e n="EditorCut">
-      <i c="12" l="1737619735116" />
+      <i c="13" l="1737620092642" />
+    </e>
+    <e n="EditorDelete">
+      <i c="2" l="1737620165749" />
     </e>
     <e n="EditorDown">
-      <i c="54" l="1737619534689" />
+      <i c="55" l="1737620204393" />
     </e>
     <e n="EditorDuplicate">
-      <i c="2" l="1737557267544" />
+      <i c="3" l="1737620089348" />
     </e>
     <e n="EditorEnter">
-      <i c="24" l="1737559132056" />
+      <i c="36" l="1737620303407" />
     </e>
     <e n="EditorLeft">
       <i c="124" l="1737619535840" />
     </e>
     <e n="EditorLineEnd">
-      <i c="18" l="1737619535457" />
+      <i c="19" l="1737620204996" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="1" l="1737619424962" />
@@ -82,22 +85,22 @@
       <i c="2" l="1737557295177" />
     </e>
     <e n="EditorPaste">
-      <i c="57" l="1737618604144" />
+      <i c="64" l="1737620321321" />
     </e>
     <e n="EditorRight">
-      <i c="222" l="1737619423691" />
+      <i c="240" l="1737620169043" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="240" l="1737619959236" />
+      <i c="248" l="1737620589667" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1737533664623" />
     </e>
     <e n="EditorUp">
-      <i c="14" l="1737557327614" />
+      <i c="17" l="1737620203501" />
     </e>
     <e n="ExternalSystem.RunTask">
       <i c="2" l="1737556642062" />
@@ -115,7 +118,7 @@
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="19" l="1737554953849" />
+      <i c="20" l="1737620601553" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="2" l="1737556586799" />
@@ -124,7 +127,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="97" l="1737619495609" />
+      <i c="100" l="1737620110258" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -235,7 +238,7 @@
       <i c="19" l="1737543002809" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
-      <i c="1" l="1737558567146" />
+      <i c="2" l="1737620234082" />
     </e>
     <e n="git.branches.group.by.prefix">
       <i c="1" d="1" l="1737555969194" k="1737555969194" />
