@@ -112,13 +112,16 @@
       <i c="15" l="1737486430356" />
     </e>
     <e n="Git.Pull">
-      <i c="13" l="1737540529661" />
+      <i c="14" l="1737620722126" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
       <i c="20" l="1737620601553" />
+    </e>
+    <e n="GitDeleteRefAction">
+      <i c="1" l="1737620742994" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="2" l="1737556586799" />
