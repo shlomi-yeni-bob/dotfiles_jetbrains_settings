@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DashboardMappingDao.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardDao.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardTranslationDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DirectDashboardDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DirectDashboardDao.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardDao.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardTranslationDao.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/KPIRecentlyViewedDashboardsDaoMappingAware.scala" beforeDir="false" />
@@ -330,7 +331,7 @@
       <workItem from="1737485264841" duration="1174000" />
       <workItem from="1737532310230" duration="4686000" />
       <workItem from="1737554795764" duration="4573000" />
-      <workItem from="1737616174592" duration="2681000" />
+      <workItem from="1737616174592" duration="3016000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
