@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete all records where employee id is system">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/DashboardRenamer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/DashboardRenamer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/package.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardAuditor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardAuditor.scala" afterDir="false" />
@@ -16,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdater.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/settings/KPIDashboardSettingsUpdater.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/DashboardsMoveIsMasterFilterAppliedMigrationRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/migrations/DashboardsMoveIsMasterFilterAppliedMigrationRunner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/CustomKPIsAuthorizerTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/CustomKPIsAuthorizerTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/sharing/DashboardResourceDataFetcherTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/kpis/section/KPIsSectionsProviderTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/kpis/section/KPIsSectionsProviderTest.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,8 +117,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17178571" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.15566406" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19941406" />
+      <window_info id="Commit" order="1" weight="0.19941406" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -127,8 +132,8 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.2335689" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.295053" />
-      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.295053" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3007067" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.19611308" />
       <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.17284523" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
@@ -304,7 +309,7 @@
       <workItem from="1737485264841" duration="1174000" />
       <workItem from="1737532310230" duration="4686000" />
       <workItem from="1737554795764" duration="4573000" />
-      <workItem from="1737616174592" duration="1236000" />
+      <workItem from="1737616174592" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
