@@ -16,7 +16,7 @@
       <i c="18" l="1737618663266" />
     </e>
     <e n="Back">
-      <i c="54" l="1737616813936" />
+      <i c="65" l="1737900552424" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -46,7 +46,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="682" l="1737896245443" />
+      <i c="683" l="1737900530633" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="58" l="1737619539445" />
@@ -169,7 +169,7 @@
       <i c="13" l="1737559620032" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="5" l="1737900381044" />
+      <i c="6" l="1737900493248" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
@@ -265,7 +265,7 @@
       <i c="19" l="1737543002809" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="1" l="1737900144105" />
+      <i c="2" l="1737900493884" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1737900296604" />
