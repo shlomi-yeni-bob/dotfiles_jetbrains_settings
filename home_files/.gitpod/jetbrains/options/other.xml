@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="65305" />
+  <component name="BuiltInServerOptions" builtInServerPort="49263" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -34,7 +34,7 @@
     "got.it.tooltip.new.terminal.promotion.243": "1",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.23654.117-IJ",
-    "kotlin.lastUpdateCheck": "1737620730944",
+    "kotlin.lastUpdateCheck": "1737896220235",
     "llm.installer.activate.toolwindow.delayed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
     "migrated.non.roamable.values.from.general.settings": "true",

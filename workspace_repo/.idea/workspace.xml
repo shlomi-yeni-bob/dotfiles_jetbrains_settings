@@ -100,7 +100,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.23457031" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.15800782" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.11536458" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -113,7 +113,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2689046" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.2689046" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.41658765" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27738518" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.33816254" />
       <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.17284523" />
@@ -292,6 +292,7 @@
       <workItem from="1737532310230" duration="4686000" />
       <workItem from="1737554795764" duration="4573000" />
       <workItem from="1737616174592" duration="4622000" />
+      <workItem from="1737896125812" duration="113000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
