@@ -113,10 +113,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2689046" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32274884" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32274884" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27738518" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.33816254" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.32274884" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.33033174" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -292,7 +292,7 @@
       <workItem from="1737532310230" duration="4686000" />
       <workItem from="1737554795764" duration="4573000" />
       <workItem from="1737616174592" duration="4622000" />
-      <workItem from="1737896125812" duration="873000" />
+      <workItem from="1737896125812" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -403,6 +403,40 @@
     <MESSAGE value="drop original_id column from kpi table" />
     <MESSAGE value="delete all records where employee id is system" />
     <option name="LAST_COMMIT_MESSAGE" value="delete all records where employee id is system" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/package.scala</url>
+          <line>405</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/security/iam/AccessContextRuleSummarizer.scala</url>
+          <line>501</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/security/iam/AccessContextRuleSummarizer.scala</url>
+          <line>590</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/security/iam/AccessContextRuleSummarizer.scala</url>
+          <line>605</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="isGranted(AccessContextWithFilterType(accessPermission.accessContext, FilterType.from(accessPermission.authorizationTarget)))" language="Scala" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
