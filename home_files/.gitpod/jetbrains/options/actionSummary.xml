@@ -37,7 +37,7 @@
       <i c="1" l="1737317458578" />
     </e>
     <e n="Debug">
-      <i c="14" l="1737899296757" />
+      <i c="15" l="1737918694174" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
@@ -46,7 +46,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="686" l="1737904275263" />
+      <i c="687" l="1737918868567" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="58" l="1737619539445" />
@@ -133,7 +133,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="120" l="1737906813950" />
+      <i c="123" l="1737918894798" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -151,7 +151,7 @@
       <i c="4" l="1737559458421" />
     </e>
     <e n="Resume">
-      <i c="127" l="1737906745101" />
+      <i c="135" l="1737918929287" />
     </e>
     <e n="Run">
       <i c="6" l="1737452987060" />
@@ -172,7 +172,7 @@
       <i c="13" l="1737559620032" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="11" l="1737906498420" />
+      <i c="12" l="1737918907232" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
@@ -229,7 +229,7 @@
       <i c="2" l="1737466394552" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="5" l="1737558184854" />
+      <i c="6" l="1737918692190" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="4" l="1737533680561" />
@@ -268,7 +268,7 @@
       <i c="19" l="1737543002809" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="7" l="1737906059997" />
+      <i c="8" l="1737918777631" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1737906079880" />
