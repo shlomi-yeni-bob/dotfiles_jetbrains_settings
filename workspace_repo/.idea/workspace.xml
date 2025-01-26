@@ -293,7 +293,7 @@
       <workItem from="1737554795764" duration="4573000" />
       <workItem from="1737616174592" duration="4622000" />
       <workItem from="1737896125812" duration="3563000" />
-      <workItem from="1737918617061" duration="319000" />
+      <workItem from="1737918617061" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -409,9 +409,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala</url>
+          <line>228</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala</url>
-          <line>39</line>
-          <option name="timeStamp" value="7" />
+          <line>43</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

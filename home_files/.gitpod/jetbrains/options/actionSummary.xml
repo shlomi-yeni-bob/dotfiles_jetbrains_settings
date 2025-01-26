@@ -16,7 +16,7 @@
       <i c="21" l="1737906024193" />
     </e>
     <e n="Back">
-      <i c="76" l="1737906817799" />
+      <i c="79" l="1737919142240" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -133,7 +133,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="123" l="1737918894798" />
+      <i c="126" l="1737919046753" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -151,7 +151,7 @@
       <i c="4" l="1737559458421" />
     </e>
     <e n="Resume">
-      <i c="135" l="1737918929287" />
+      <i c="142" l="1737919201209" />
     </e>
     <e n="Run">
       <i c="6" l="1737452987060" />
@@ -166,28 +166,28 @@
       <i c="2" l="1737193488520" />
     </e>
     <e n="StepOver">
-      <i c="11" l="1737900338093" />
+      <i c="16" l="1737919177365" />
     </e>
     <e n="Stop">
       <i c="13" l="1737559620032" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="12" l="1737918907232" />
+      <i c="14" l="1737919179338" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
     </e>
     <e n="Tree-selectChild">
-      <i c="12" l="1737905202669" />
+      <i c="14" l="1737919193322" />
     </e>
     <e n="Tree-selectNext">
-      <i c="45" l="1737905204744" />
+      <i c="70" l="1737919195501" />
     </e>
     <e n="Tree-selectParent">
       <i c="14" l="1737905207179" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="14" l="1737905198575" />
+      <i c="28" l="1737919032197" />
     </e>
     <e n="Vcs.Log.OpenAnotherTab">
       <i c="1" l="1737450453087" />
@@ -205,7 +205,7 @@
       <i c="1" l="1737450460123" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="12" l="1737906499870" />
+      <i c="14" l="1737919273423" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="4" l="1737900325736" />
@@ -268,7 +268,7 @@
       <i c="19" l="1737543002809" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="8" l="1737918777631" />
+      <i c="9" l="1737919180428" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1737906079880" />
