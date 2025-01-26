@@ -293,7 +293,7 @@
       <workItem from="1737554795764" duration="4573000" />
       <workItem from="1737616174592" duration="4622000" />
       <workItem from="1737896125812" duration="3563000" />
-      <workItem from="1737918617061" duration="988000" />
+      <workItem from="1737918617061" duration="1435000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -414,14 +414,6 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala</url>
-          <line>43</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardWithFilteredKPIsDetailsProvider.scala</url>
           <line>32</line>
           <properties>
@@ -431,16 +423,16 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala</url>
-          <line>215</line>
-          <option name="timeStamp" value="15" />
+          <line>64</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="GradleRunConfiguration">
-        <watch expression="isGranted(AccessContextWithFilterType(accessPermission.accessContext, FilterType.from(accessPermission.authorizationTarget)))" language="Scala" />
-      </configuration>
-    </watches-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.hibob.analytics.kpis.package$DashboardItem" memberName="isCustom" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
