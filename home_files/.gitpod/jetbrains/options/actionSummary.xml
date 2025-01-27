@@ -16,7 +16,7 @@
       <i c="23" l="1737978200145" />
     </e>
     <e n="Back">
-      <i c="125" l="1737981563522" />
+      <i c="128" l="1737981907137" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -33,6 +33,9 @@
     <e n="CompileProject">
       <i c="10" l="1737616753957" />
     </e>
+    <e n="Console.TableResult.FindInGrid">
+      <i c="1" l="1737981797681" />
+    </e>
     <e n="CopyReference">
       <i c="1" l="1737317458578" />
     </e>
@@ -46,7 +49,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="815" l="1737973838068" />
+      <i c="819" l="1737981792057" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="99" l="1737925315618" />
@@ -133,7 +136,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="193" l="1737981558459" />
+      <i c="196" l="1737981881822" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -144,6 +147,9 @@
     <e n="OpenModuleSettings">
       <i c="3" l="1737372602476" />
     </e>
+    <e n="ParameterInfo">
+      <i c="1" l="1737981866985" />
+    </e>
     <e n="ReformatCode">
       <i c="5" l="1737925168826" />
     </e>
@@ -151,7 +157,7 @@
       <i c="4" l="1737559458421" />
     </e>
     <e n="Resume">
-      <i c="161" l="1737919800206" />
+      <i c="163" l="1737981896690" />
     </e>
     <e n="Run">
       <i c="6" l="1737452987060" />
@@ -166,13 +172,13 @@
       <i c="2" l="1737193488520" />
     </e>
     <e n="StepOver">
-      <i c="22" l="1737919562633" />
+      <i c="24" l="1737981770874" />
     </e>
     <e n="Stop">
       <i c="15" l="1737922366780" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="21" l="1737919699716" />
+      <i c="24" l="1737981938175" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
@@ -205,13 +211,16 @@
       <i c="1" l="1737450460123" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="19" l="1737919799509" />
+      <i c="23" l="1737981940642" />
     </e>
     <e n="XDebugger.RemoveWatch">
       <i c="1" l="1737919626084" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="4" l="1737900325736" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.DataGridSearchSession$ToggleFilteringAction">
+      <i c="1" l="1737981818429" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="11" l="1737616390139" />
@@ -233,6 +242,9 @@
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="6" l="1737918692190" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="1" l="1737981817184" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="5" l="1737978160548" />
@@ -271,7 +283,7 @@
       <i c="20" l="1737925190080" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="15" l="1737919958266" />
+      <i c="16" l="1737981939259" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1737906079880" />

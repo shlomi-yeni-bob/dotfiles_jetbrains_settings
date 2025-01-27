@@ -78,6 +78,7 @@
     "Shell Script.Create db migration.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
     "git-widget-placeholder": "master",
+    "grid.search.filter.rows": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
     "node.js.detected.package.eslint": "true",
@@ -297,7 +298,7 @@
       <workItem from="1737616174592" duration="4622000" />
       <workItem from="1737896125812" duration="3563000" />
       <workItem from="1737918617061" duration="6059000" />
-      <workItem from="1737973762701" duration="4224000" />
+      <workItem from="1737973762701" duration="4567000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -410,6 +411,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="delete all records where employee id is system" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/security/iam/model/RequiredPermissionsFilter.scala</url>
+          <line>14</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/views/ViewsFilterer.scala</url>
+          <line>46</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="com.hibob.analytics.kpis.package$DashboardItem" memberName="isCustom" />
