@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete all records where employee id is system">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +104,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23457031" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.10839844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10839844" />
+      <window_info id="Commit" order="1" weight="0.10839844" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -117,10 +119,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2689046" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.34593642" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.19893992" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27738518" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.33816254" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.34593642" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.2689046" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -300,7 +302,7 @@
       <workItem from="1737616174592" duration="4622000" />
       <workItem from="1737896125812" duration="3563000" />
       <workItem from="1737918617061" duration="6059000" />
-      <workItem from="1737973762701" duration="8320000" />
+      <workItem from="1737973762701" duration="10328000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
