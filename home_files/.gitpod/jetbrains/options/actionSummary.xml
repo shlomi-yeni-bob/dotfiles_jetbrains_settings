@@ -13,10 +13,10 @@
       <i c="73" l="1737924855012" />
     </e>
     <e n="Annotate">
-      <i c="21" l="1737906024193" />
+      <i c="23" l="1737978200145" />
     </e>
     <e n="Back">
-      <i c="102" l="1737925311389" />
+      <i c="125" l="1737981563522" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -85,7 +85,7 @@
       <i c="2" l="1737557295177" />
     </e>
     <e n="EditorPaste">
-      <i c="78" l="1737925126394" />
+      <i c="80" l="1737978157243" />
     </e>
     <e n="EditorRight">
       <i c="278" l="1737925173423" />
@@ -106,7 +106,7 @@
       <i c="2" l="1737556642062" />
     </e>
     <e n="FindInPath">
-      <i c="19" l="1737925184481" />
+      <i c="21" l="1737978156642" />
     </e>
     <e n="Forward">
       <i c="1" l="1737901019613" />
@@ -133,7 +133,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="169" l="1737925328586" />
+      <i c="193" l="1737981558459" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -220,7 +220,7 @@
       <i c="1" l="1737371602159" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="9" l="1737896289059" />
+      <i c="10" l="1737981582489" />
     </e>
     <e n="com.intellij.execution.actions.StopProcessAction">
       <i c="1" l="1737471116177" />
@@ -235,7 +235,7 @@
       <i c="6" l="1737918692190" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="4" l="1737533680561" />
+      <i c="5" l="1737978160548" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1737317043305" />

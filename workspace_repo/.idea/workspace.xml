@@ -100,7 +100,8 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.23457031" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.11625822" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.14042969" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -113,10 +114,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2689046" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28405932" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.15300354" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27738518" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.33816254" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.30630213" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.3374558" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -128,6 +129,8 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.11214115" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="4" visible="true" weight="0.18066406" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
     </layout>
   </component>
@@ -139,7 +142,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics'">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -294,7 +297,7 @@
       <workItem from="1737616174592" duration="4622000" />
       <workItem from="1737896125812" duration="3563000" />
       <workItem from="1737918617061" duration="6059000" />
-      <workItem from="1737973762701" duration="376000" />
+      <workItem from="1737973762701" duration="4224000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
