@@ -104,7 +104,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10839844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16059028" />
       <window_info id="Commit" order="1" weight="0.10839844" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -122,7 +122,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.19893992" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27738518" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.33816254" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.2689046" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.5" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -135,7 +135,7 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.11214115" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="github.copilotToolWindow" order="4" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="4" visible="true" weight="0.18066406" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="4" weight="0.26765046" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
     </layout>
   </component>
@@ -302,7 +302,7 @@
       <workItem from="1737616174592" duration="4622000" />
       <workItem from="1737896125812" duration="3563000" />
       <workItem from="1737918617061" duration="6059000" />
-      <workItem from="1737973762701" duration="10328000" />
+      <workItem from="1737973762701" duration="11851000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
