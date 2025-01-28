@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete all records where employee id is system">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" afterDir="false" />
-    </list>
+    <list default="true" id="b81e72bd-dc0c-4bf9-91a5-897ebf4d8998" name="Changes" comment="delete all records where employee id is system" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +50,7 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/create-dashboards-on-demand" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/new-dashboard-docs" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,33 +66,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build hibob.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.hibob.analytics'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.hibob [clean].executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.com.hibob.analytics in hibob.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Shell Script.Create db migration.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;shlomi-yeni/new-dashboard-docs&quot;,
-    &quot;grid.search.filter.rows&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build hibob.executor": "Run",
+    "Gradle.Tests in 'com.hibob.analytics'.executor": "Run",
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "Gradle.hibob [clean].executor": "Run",
+    "JUnit.com.hibob.analytics in hibob.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.Create db migration.executor": "Run",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "grid.search.filter.rows": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/hibob/flyway/code_migration/src/main/resources/migration/v1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -104,10 +100,10 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16059028" />
-      <window_info id="Commit" order="1" weight="0.10839844" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16035715" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.13098958" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
@@ -119,7 +115,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2689046" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.19893992" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.08957346" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.27738518" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.33816254" />
       <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.30630213" />
@@ -134,9 +130,9 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.11214115" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
-      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
-      <window_info anchor="right" id="GitHub Copilot Chat" order="4" weight="0.26765046" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="5" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.26765046" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.25" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -303,6 +299,7 @@
       <workItem from="1737896125812" duration="3563000" />
       <workItem from="1737918617061" duration="6059000" />
       <workItem from="1737973762701" duration="12173000" />
+      <workItem from="1738060290577" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -415,15 +412,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="delete all records where employee id is system" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadataController.scala</url>
-          <line>57</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="com.hibob.analytics.kpis.package$DashboardItem" memberName="isCustom" />
