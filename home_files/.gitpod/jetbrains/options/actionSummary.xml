@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="Back">
-      <i c="15" l="1738075894081" />
+      <i c="20" l="1738076468565" />
     </e>
     <e n="CommentByLineComment">
       <i c="3" l="1738075879983" />
@@ -28,7 +28,7 @@
       <i c="1" l="1738075758176" />
     </e>
     <e n="EditorSelectWord">
-      <i c="2" l="1738075823085" />
+      <i c="3" l="1738076114322" />
     </e>
     <e n="EditorUp">
       <i c="1" l="1738070410375" />
@@ -40,16 +40,16 @@
       <i c="18" l="1738075932629" />
     </e>
     <e n="Resume">
-      <i c="8" l="1738075960826" />
+      <i c="16" l="1738076105086" />
     </e>
     <e n="StepOver">
-      <i c="3" l="1738075949304" />
+      <i c="4" l="1738076009069" />
     </e>
     <e n="Stop">
       <i c="2" l="1738075900383" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="5" l="1738075840770" />
+      <i c="9" l="1738076481237" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
       <i c="2" l="1738075842619" />
