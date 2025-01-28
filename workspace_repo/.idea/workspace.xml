@@ -107,7 +107,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.048656717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14895523" />
       <window_info id="Commit" order="1" weight="0.16119792" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -122,9 +122,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2689046" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.1965" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.44881517" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.22796208" />
-      <window_info anchor="bottom" id="Build" order="5" weight="0.19668247" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2034291" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.15245599" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.15245599" />
       <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.0875811" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
@@ -135,7 +135,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.21535715" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.1686567" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="github.copilotToolWindow" order="5" />
       <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.26765046" />
@@ -150,7 +150,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [clean]">
+  <component name="RunManager" selected="Gradle.hibob [build]">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -259,8 +259,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="Gradle.hibob [build]" />
+        <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics'" />
         <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest (1)" />
@@ -308,6 +308,7 @@
       <workItem from="1738065626544" duration="2695000" />
       <workItem from="1738068461929" duration="817000" />
       <workItem from="1738069418228" duration="9546000" />
+      <workItem from="1738091853849" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />

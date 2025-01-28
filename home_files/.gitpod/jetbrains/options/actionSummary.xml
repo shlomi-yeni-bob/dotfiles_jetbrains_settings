@@ -15,6 +15,9 @@
     <e n="CommentByLineComment">
       <i c="4" l="1738077736294" />
     </e>
+    <e n="CompileDirty">
+      <i c="1" l="1738092149674" />
+    </e>
     <e n="Debug">
       <i c="6" l="1738077769984" />
     </e>
@@ -44,6 +47,9 @@
     </e>
     <e n="EditorUp">
       <i c="1" l="1738070410375" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="2" l="1738092224533" />
     </e>
     <e n="FindInPath">
       <i c="7" l="1738083054566" />
