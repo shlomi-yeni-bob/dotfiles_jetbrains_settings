@@ -1,55 +1,34 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="62823" />
-  <component name="FileEditorProviderManager">{}</component>
+  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
   <component name="NotRoamableUiSettings">
-    <option name="ideAAType" value="Greyscale" />
-    <option name="editorAAType" value="Greyscale" />
-    <option name="fontFace" value="Inter" />
-    <option name="fontSize" value="13.0" />
+    <option name="fontFace" value="Dialog" />
+    <option name="fontSize" value="12.0" />
     <option name="presentationModeIdeScale" value="1.75" />
-    <option name="overrideLafFonts" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "BuildView.Splitter.Proportion": "0.47032642",
-    "GradleSupport.showInternalTestNodes": "false",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
-    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.23654.117",
-    "MemberChooser.showClasses": "true",
-    "MultipleBuildsView.Splitter.Proportion": "0.16944444",
-    "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
-    "SettingsSearchHistory": "local changes",
-    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
-    "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
-    "enter_selection_count": "5",
-    "evlsprt3.243": "4",
+    "evlsprt3.243": "6",
     "experimental.ui.on.first.startup": "true",
+    "experimental.ui.switch": "true",
     "experimental.ui.used.version": "243.23654.117",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "15.0",
-    "fontSizeToResetEditor": "15.0",
-    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.23654.117-IJ",
-    "kotlin.lastUpdateCheck": "1737896220235",
     "llm.installer.activate.toolwindow.delayed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@client_Dark",
+    "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "IU-243.23654.117",
     "rider.trace.scenarios": "",
-    "scala.last.updated": "1738060364161",
-    "toolwindow.showToolWindowsNames.ts": "2025-01-21T09:11:19.071148303",
-    "ts.lib.d.ts.version": "5.6.3",
-    "vcs.branch.view.splitter.proportion": "0.25532788"
+    "ts.lib.d.ts.version": "5.6.3"
   },
   "keyToStringList": {
     "fileTypeDetectors": [
