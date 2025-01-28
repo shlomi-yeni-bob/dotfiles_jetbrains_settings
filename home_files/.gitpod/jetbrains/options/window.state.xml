@@ -1,6 +1,7 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.1728.0.1920.1080" x="2364" y="194" />
+    <location key="find.popup.0.0.3456.2234@192dpi" x="1132" y="644" />
     <size key="GridCell.Tab.0.right.1728.0.1920.1080" width="1838" height="288" />
     <size key="GridCell.Tab.0.left.1728.0.1920.1080" width="1838" height="288" />
     <size key="GridCell.Tab.0.center.1728.0.1920.1080" width="1838" height="288" />
@@ -10,5 +11,9 @@
     <size key="GridCell.Tab.1.right.1728.0.1920.1080" width="1838" height="288" />
     <size key="GridCell.Tab.1.bottom.1728.0.1920.1080" width="1838" height="288" />
     <size key="find.popup.1728.0.1920.1080" width="649" height="719" />
+    <size key="find.popup.0.0.3456.2234@192dpi" width="1300" height="1024" />
+  </component>
+  <component name="WindowManager">
+    <frame x="53" y="38" width="1675" height="1079" />
   </component>
 </application>
