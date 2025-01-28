@@ -1,0 +1,73 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="2" l="1738081415948" />
+    </e>
+    <e n="Back">
+      <i c="21" l="1738077517903" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="4" l="1738077736294" />
+    </e>
+    <e n="Debug">
+      <i c="6" l="1738077769984" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="29" l="1738077596940" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2" l="1738070427342" />
+    </e>
+    <e n="EditorCopy">
+      <i c="12" l="1738078676784" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1738077727873" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1738081414632" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1738070409469" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1738077728083" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="12" l="1738082051403" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1738070410375" />
+    </e>
+    <e n="FindInPath">
+      <i c="4" l="1738075919644" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="30" l="1738082072652" />
+    </e>
+    <e n="Resume">
+      <i c="58" l="1738077649096" />
+    </e>
+    <e n="StepOver">
+      <i c="22" l="1738076659781" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1738075900383" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="15" l="1738077510922" />
+    </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="7" l="1738077648529" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1738077124916" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="6" l="1738081388908" />
+    </e>
+    <e n="performancePlugin.ShowMemoryDialogAction">
+      <i c="1" l="1738069666556" />
+    </e>
+  </component>
+</application>

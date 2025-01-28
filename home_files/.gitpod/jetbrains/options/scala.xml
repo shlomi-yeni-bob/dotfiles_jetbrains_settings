@@ -1,0 +1,7 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_SDK" value="temurin-17" />
+    <option name="COMPILE_SERVER_ID" value="7676e5e4-53fc-4031-84d3-a62eee322077" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4096" />
+  </component>
+</application>
