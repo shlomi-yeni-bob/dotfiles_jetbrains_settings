@@ -107,7 +107,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23515625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3225" />
       <window_info id="Commit" order="1" weight="0.16119792" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -125,7 +125,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.44881517" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.22796208" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.19668247" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.33033174" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.3485" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -135,7 +135,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.15703125" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.21535715" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="github.copilotToolWindow" order="5" />
       <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.26765046" />
@@ -307,7 +307,7 @@
       <workItem from="1738060290577" duration="536000" />
       <workItem from="1738065626544" duration="2695000" />
       <workItem from="1738068461929" duration="817000" />
-      <workItem from="1738069418228" duration="6035000" />
+      <workItem from="1738069418228" duration="7179000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
