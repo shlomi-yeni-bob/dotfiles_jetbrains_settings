@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="61699" />
+  <component name="BuiltInServerOptions" builtInServerPort="54031" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -44,7 +44,7 @@
     "previousColorScheme": "_@client_Dark",
     "registry.to.advanced.settings.migration.build": "IU-243.23654.117",
     "rider.trace.scenarios": "",
-    "scala.last.updated": "1737900292516",
+    "scala.last.updated": "1738060364161",
     "toolwindow.showToolWindowsNames.ts": "2025-01-21T09:11:19.071148303",
     "ts.lib.d.ts.version": "5.6.3",
     "vcs.branch.view.splitter.proportion": "0.25532788"

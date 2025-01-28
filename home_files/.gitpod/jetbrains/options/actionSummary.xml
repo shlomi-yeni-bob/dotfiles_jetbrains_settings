@@ -9,6 +9,9 @@
     <e n="$Paste">
       <i c="2" l="1737397130181" />
     </e>
+    <e n="$SelectAll">
+      <i c="1" l="1738060596678" />
+    </e>
     <e n="$Undo">
       <i c="74" l="1737982122081" />
     </e>
@@ -16,13 +19,16 @@
       <i c="25" l="1737987601663" />
     </e>
     <e n="Back">
-      <i c="162" l="1738007552287" />
+      <i c="166" l="1738060692271" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
     </e>
     <e n="ChangesView.Revert">
       <i c="5" l="1737973831740" />
+    </e>
+    <e n="ChangesView.ShelveSilently">
+      <i c="1" l="1738060364023" />
     </e>
     <e n="CommentByLineComment">
       <i c="11" l="1737925069171" />
@@ -49,7 +55,7 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="867" l="1738007023433" />
+      <i c="893" l="1738060602749" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="111" l="1738007014254" />
@@ -97,7 +103,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="355" l="1738007496170" />
+      <i c="356" l="1738060355710" />
     </e>
     <e n="EditorTab">
       <i c="3" l="1737982120956" />
@@ -109,7 +115,7 @@
       <i c="2" l="1737556642062" />
     </e>
     <e n="FindInPath">
-      <i c="21" l="1737978156642" />
+      <i c="24" l="1738060585612" />
     </e>
     <e n="Forward">
       <i c="5" l="1738007558575" />
@@ -118,13 +124,13 @@
       <i c="15" l="1737486430356" />
     </e>
     <e n="Git.Pull">
-      <i c="17" l="1737987596381" />
+      <i c="18" l="1738060428356" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="21" l="1737973845041" />
+      <i c="22" l="1738060370662" />
     </e>
     <e n="GitDeleteRefAction">
       <i c="12" l="1737620889785" />
@@ -136,7 +142,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="265" l="1738009994922" />
+      <i c="276" l="1738060818265" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -250,7 +256,7 @@
       <i c="1" l="1737981817184" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="5" l="1737978160548" />
+      <i c="7" l="1738060605726" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1737317043305" />
@@ -265,7 +271,7 @@
       <i c="1" l="1737372010698" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1" l="1737265334756" />
+      <i c="2" l="1738060464241" />
     </e>
     <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
       <i c="1" l="1737371511124" />
