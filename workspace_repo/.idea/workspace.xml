@@ -124,7 +124,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.44881517" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.22796208" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.19668247" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.32464457" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.24597156" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -306,7 +306,7 @@
       <workItem from="1738060290577" duration="536000" />
       <workItem from="1738065626544" duration="2695000" />
       <workItem from="1738068461929" duration="817000" />
-      <workItem from="1738069418228" duration="4198000" />
+      <workItem from="1738069418228" duration="4514000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -463,6 +463,16 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/filters/ErrorHandler.scala</url>
           <line>112</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/filters/ErrorHandler.scala</url>
+          <line>86</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/filters/ErrorHandler.scala</url>
+          <line>63</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
