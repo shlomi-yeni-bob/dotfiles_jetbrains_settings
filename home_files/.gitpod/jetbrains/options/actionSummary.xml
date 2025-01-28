@@ -34,7 +34,7 @@
       <i c="11" l="1737925069171" />
     </e>
     <e n="CompileDirty">
-      <i c="19" l="1738066142374" />
+      <i c="21" l="1738068741576" />
     </e>
     <e n="CompileFile">
       <i c="1" l="1738066316615" />
@@ -106,7 +106,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="361" l="1738066606950" />
+      <i c="362" l="1738069010787" />
     </e>
     <e n="EditorTab">
       <i c="3" l="1737982120956" />
@@ -127,7 +127,7 @@
       <i c="15" l="1737486430356" />
     </e>
     <e n="Git.Pull">
-      <i c="19" l="1738067955448" />
+      <i c="20" l="1738068504753" />
     </e>
     <e n="Git.Rename.Local.Branch">
       <i c="1" l="1737267775641" />
@@ -161,6 +161,9 @@
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1737981866985" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="1" l="1738068976369" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1737925168826" />
@@ -250,7 +253,7 @@
       <i c="10" l="1737981582489" />
     </e>
     <e n="com.intellij.execution.actions.StopProcessAction">
-      <i c="1" l="1737471116177" />
+      <i c="2" l="1738068738551" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="4" l="1737373962446" />
