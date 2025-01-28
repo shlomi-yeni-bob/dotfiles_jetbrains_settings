@@ -58,13 +58,13 @@
       <i c="1" l="1737265491996" />
     </e>
     <e n="EditorBackSpace">
-      <i c="893" l="1738060602749" />
+      <i c="896" l="1738068167402" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="111" l="1738007014254" />
     </e>
     <e n="EditorCopy">
-      <i c="154" l="1738066607819" />
+      <i c="155" l="1738068394384" />
     </e>
     <e n="EditorCut">
       <i c="13" l="1737620092642" />
@@ -115,7 +115,7 @@
       <i c="22" l="1737990645943" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="5" l="1738066135512" />
+      <i c="6" l="1738067989855" />
     </e>
     <e n="FindInPath">
       <i c="24" l="1738060585612" />
@@ -157,7 +157,7 @@
       <i c="2" l="1737559464265" />
     </e>
     <e n="OpenModuleSettings">
-      <i c="5" l="1738066071582" />
+      <i c="6" l="1738068022311" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1737981866985" />
@@ -286,7 +286,7 @@
       <i c="2" l="1738066078459" />
     </e>
     <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyRemoveAction">
-      <i c="1" l="1737372562614" />
+      <i c="2" l="1738068106072" />
     </e>
     <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
       <i c="2" l="1738066076775" />
