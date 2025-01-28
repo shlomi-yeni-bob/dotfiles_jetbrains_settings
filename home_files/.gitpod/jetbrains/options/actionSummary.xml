@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="1" l="1738077763381" />
+      <i c="2" l="1738081415948" />
     </e>
     <e n="Back">
       <i c="21" l="1738077517903" />
@@ -24,6 +24,9 @@
     <e n="EditorEnter">
       <i c="3" l="1738077727873" />
     </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1738081414632" />
+    </e>
     <e n="EditorLeft">
       <i c="1" l="1738070409469" />
     </e>
@@ -31,7 +34,7 @@
       <i c="3" l="1738077728083" />
     </e>
     <e n="EditorSelectWord">
-      <i c="8" l="1738079781714" />
+      <i c="12" l="1738082051403" />
     </e>
     <e n="EditorUp">
       <i c="1" l="1738070410375" />
@@ -40,7 +43,7 @@
       <i c="4" l="1738075919644" />
     </e>
     <e n="GotoDeclaration">
-      <i c="26" l="1738079697235" />
+      <i c="30" l="1738082072652" />
     </e>
     <e n="Resume">
       <i c="58" l="1738077649096" />
@@ -61,7 +64,7 @@
       <i c="1" l="1738077124916" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="5" l="1738077447307" />
+      <i c="6" l="1738081388908" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1738069666556" />
