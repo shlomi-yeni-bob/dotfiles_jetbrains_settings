@@ -100,8 +100,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16035715" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.13098958" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09557292" />
+      <window_info id="Commit" order="1" weight="0.09557292" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -115,8 +115,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2689046" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.08957346" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.27738518" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.21753554" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.28199053" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.33816254" />
       <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.30630213" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
@@ -128,7 +128,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.11214115" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.15703125" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="github.copilotToolWindow" order="5" />
       <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.26765046" />
@@ -300,6 +300,7 @@
       <workItem from="1737918617061" duration="6059000" />
       <workItem from="1737973762701" duration="12173000" />
       <workItem from="1738060290577" duration="536000" />
+      <workItem from="1738065626544" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
