@@ -34,7 +34,7 @@
       <i c="11" l="1737925069171" />
     </e>
     <e n="CompileDirty">
-      <i c="15" l="1738060948864" />
+      <i c="18" l="1738066026618" />
     </e>
     <e n="CompileProject">
       <i c="10" l="1737616753957" />
@@ -103,7 +103,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="358" l="1738061124846" />
+      <i c="360" l="1738065847113" />
     </e>
     <e n="EditorTab">
       <i c="3" l="1737982120956" />
@@ -112,7 +112,7 @@
       <i c="22" l="1737990645943" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="3" l="1738065693543" />
+      <i c="4" l="1738065860872" />
     </e>
     <e n="FindInPath">
       <i c="24" l="1738060585612" />
@@ -142,7 +142,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="282" l="1738061140673" />
+      <i c="285" l="1738065835772" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -151,7 +151,7 @@
       <i c="2" l="1737559464265" />
     </e>
     <e n="OpenModuleSettings">
-      <i c="4" l="1738065732392" />
+      <i c="5" l="1738066071582" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1737981866985" />
@@ -181,7 +181,7 @@
       <i c="27" l="1738000247014" />
     </e>
     <e n="Stop">
-      <i c="19" l="1738007357629" />
+      <i c="20" l="1738066021655" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="28" l="1738000749690" />
@@ -274,13 +274,13 @@
       <i c="2" l="1738060464241" />
     </e>
     <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
-      <i c="1" l="1737371511124" />
+      <i c="2" l="1738066078459" />
     </e>
     <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyRemoveAction">
       <i c="1" l="1737372562614" />
     </e>
     <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
-      <i c="1" l="1737371508194" />
+      <i c="2" l="1738066076775" />
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1737300188225" />
