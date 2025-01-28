@@ -1,13 +1,28 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Annotate">
+      <i c="2" l="1738096660062" />
+    </e>
+    <e n="Back">
+      <i c="3" l="1738096955733" />
+    </e>
     <e n="EditorCopy">
       <i c="2" l="1738096343528" />
     </e>
     <e n="EditorSelectWord">
-      <i c="1" l="1738095532737" />
+      <i c="2" l="1738096706195" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1738096807351" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2" l="1738095648866" />
+      <i c="16" l="1738097184304" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1738096815922" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="1" l="1738096810856" />
     </e>
   </component>
 </application>
