@@ -306,7 +306,7 @@
       <workItem from="1738060290577" duration="536000" />
       <workItem from="1738065626544" duration="2695000" />
       <workItem from="1738068461929" duration="817000" />
-      <workItem from="1738069418228" duration="1044000" />
+      <workItem from="1738069418228" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -438,11 +438,6 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/filters/ErrorHandler.scala</url>
           <line>127</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/views/ResolverRegistry.scala</url>
-          <line>187</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
