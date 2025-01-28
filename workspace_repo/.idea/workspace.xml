@@ -101,8 +101,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15651041" />
-      <window_info id="Commit" order="1" weight="0.09557292" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15651041" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.15651041" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -119,7 +119,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.28199053" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.28199053" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.18625593" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.26303315" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.21753554" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -144,7 +144,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="Gradle.hibob [clean]">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -299,7 +299,7 @@
       <workItem from="1737918617061" duration="6059000" />
       <workItem from="1737973762701" duration="12173000" />
       <workItem from="1738060290577" duration="536000" />
-      <workItem from="1738065626544" duration="1318000" />
+      <workItem from="1738065626544" duration="2197000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
