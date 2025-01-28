@@ -3,14 +3,31 @@
     <option name="languageName" value="JAVA" />
   </component>
   <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Dialog" />
+    <option name="fontSize" value="12.0" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "defaultJdkConfigured": "true",
+    "evlsprt3.243": "6",
     "experimental.ui.on.first.startup": "true",
+    "experimental.ui.switch": "true",
+    "experimental.ui.used.version": "243.23654.117",
     "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.23654.117-IJ",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "IU-243.23654.117",
+    "rider.trace.scenarios": "",
     "ts.lib.d.ts.version": "5.6.3"
   },
   "keyToStringList": {
