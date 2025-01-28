@@ -19,7 +19,7 @@
       <i c="25" l="1737987601663" />
     </e>
     <e n="Back">
-      <i c="180" l="1738066496926" />
+      <i c="187" l="1738066910320" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -121,7 +121,7 @@
       <i c="24" l="1738060585612" />
     </e>
     <e n="Forward">
-      <i c="6" l="1738060965216" />
+      <i c="7" l="1738066746938" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="15" l="1737486430356" />
@@ -145,7 +145,7 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="291" l="1738066599632" />
+      <i c="296" l="1738066915671" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1738066334632" />
@@ -193,7 +193,7 @@
       <i c="1" l="1738066182138" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="31" l="1738066551448" />
+      <i c="32" l="1738066940814" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
@@ -232,7 +232,7 @@
       <i c="1" l="1737919626084" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="24" l="1738066465071" />
+      <i c="25" l="1738066858072" />
     </e>
     <e n="com.intellij.database.run.ui.grid.DataGridSearchSession$ToggleFilteringAction">
       <i c="1" l="1737981818429" />
