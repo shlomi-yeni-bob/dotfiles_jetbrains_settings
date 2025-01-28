@@ -118,8 +118,8 @@
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4131915" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.28199053" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.28199053" />
-      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.28199053" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.30630213" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.18625593" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.26303315" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3035" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -144,7 +144,7 @@
       <recent name="$PROJECT_DIR$/flyway/code_migration/src/main/resources/migration/v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [build]">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="EmployeeSnapshotDataServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -253,8 +253,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.hibob [build]" />
         <item itemvalue="Gradle.hibob [clean]" />
+        <item itemvalue="Gradle.hibob [build]" />
         <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics'" />
         <item itemvalue="Gradle.EmployeeSnapshotDataServiceTest (1)" />
@@ -299,7 +299,7 @@
       <workItem from="1737918617061" duration="6059000" />
       <workItem from="1737973762701" duration="12173000" />
       <workItem from="1738060290577" duration="536000" />
-      <workItem from="1738065626544" duration="468000" />
+      <workItem from="1738065626544" duration="984000" />
     </task>
     <task id="LOCAL-00001" summary="FixMissingOOTBDashboards yaml file">
       <option name="closed" value="true" />
@@ -412,6 +412,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="delete all records where employee id is system" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/views/ResolverRegistry.scala</url>
+          <line>187</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/views/ResolverRegistry.scala</url>
+          <line>508</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/views/ResolverRegistry.scala</url>
+          <line>511</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="com.hibob.analytics.kpis.package$DashboardItem" memberName="isCustom" />

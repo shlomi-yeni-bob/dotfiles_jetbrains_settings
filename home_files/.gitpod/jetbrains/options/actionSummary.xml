@@ -4,7 +4,7 @@
       <i c="3" l="1737988085683" />
     </e>
     <e n="$Delete">
-      <i c="15" l="1737619673265" />
+      <i c="17" l="1738066124503" />
     </e>
     <e n="$Paste">
       <i c="2" l="1737397130181" />
@@ -19,7 +19,7 @@
       <i c="25" l="1737987601663" />
     </e>
     <e n="Back">
-      <i c="177" l="1738061052442" />
+      <i c="180" l="1738066496926" />
     </e>
     <e n="ChangesView.AddUnversioned">
       <i c="3" l="1737397185288" />
@@ -34,7 +34,10 @@
       <i c="11" l="1737925069171" />
     </e>
     <e n="CompileDirty">
-      <i c="18" l="1738066026618" />
+      <i c="19" l="1738066142374" />
+    </e>
+    <e n="CompileFile">
+      <i c="1" l="1738066316615" />
     </e>
     <e n="CompileProject">
       <i c="10" l="1737616753957" />
@@ -46,7 +49,7 @@
       <i c="1" l="1737317458578" />
     </e>
     <e n="Debug">
-      <i c="24" l="1738007227526" />
+      <i c="25" l="1738066361728" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1737193492417" />
@@ -61,7 +64,7 @@
       <i c="111" l="1738007014254" />
     </e>
     <e n="EditorCopy">
-      <i c="153" l="1738061299097" />
+      <i c="154" l="1738066607819" />
     </e>
     <e n="EditorCut">
       <i c="13" l="1737620092642" />
@@ -103,7 +106,7 @@
       <i c="15" l="1737265529981" />
     </e>
     <e n="EditorSelectWord">
-      <i c="360" l="1738065847113" />
+      <i c="361" l="1738066606950" />
     </e>
     <e n="EditorTab">
       <i c="3" l="1737982120956" />
@@ -112,7 +115,7 @@
       <i c="22" l="1737990645943" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="4" l="1738065860872" />
+      <i c="5" l="1738066135512" />
     </e>
     <e n="FindInPath">
       <i c="24" l="1738060585612" />
@@ -142,7 +145,10 @@
       <i c="1" l="1737556558028" />
     </e>
     <e n="GotoDeclaration">
-      <i c="285" l="1738065835772" />
+      <i c="291" l="1738066599632" />
+    </e>
+    <e n="MakeModule">
+      <i c="1" l="1738066334632" />
     </e>
     <e n="MoveStatementUp">
       <i c="12" l="1737619365313" />
@@ -163,7 +169,7 @@
       <i c="4" l="1737559458421" />
     </e>
     <e n="Resume">
-      <i c="180" l="1738000856385" />
+      <i c="184" l="1738066563554" />
     </e>
     <e n="Run">
       <i c="6" l="1737452987060" />
@@ -178,13 +184,16 @@
       <i c="2" l="1737193488520" />
     </e>
     <e n="StepOver">
-      <i c="27" l="1738000247014" />
+      <i c="38" l="1738066538949" />
     </e>
     <e n="Stop">
       <i c="20" l="1738066021655" />
     </e>
+    <e n="SynchronizeCurrentFile">
+      <i c="1" l="1738066182138" />
+    </e>
     <e n="ToggleLineBreakpoint">
-      <i c="28" l="1738000749690" />
+      <i c="31" l="1738066551448" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1737450679070" />
@@ -223,7 +232,7 @@
       <i c="1" l="1737919626084" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="23" l="1738010312398" />
+      <i c="24" l="1738066465071" />
     </e>
     <e n="com.intellij.database.run.ui.grid.DataGridSearchSession$ToggleFilteringAction">
       <i c="1" l="1737981818429" />
@@ -250,7 +259,7 @@
       <i c="2" l="1737466394552" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="6" l="1737918692190" />
+      <i c="7" l="1738066357054" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
       <i c="1" l="1737981817184" />
