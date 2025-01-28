@@ -50,7 +50,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1561194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19373134" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -62,6 +62,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
@@ -100,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738090896137</updated>
       <workItem from="1738090898594" duration="85000" />
-      <workItem from="1738093039428" duration="1308000" />
+      <workItem from="1738093039428" duration="2706000" />
     </task>
     <servers />
   </component>
