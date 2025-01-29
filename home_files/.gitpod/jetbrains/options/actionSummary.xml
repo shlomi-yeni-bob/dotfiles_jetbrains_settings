@@ -7,7 +7,7 @@
       <i c="3" l="1738141781321" />
     </e>
     <e n="Back">
-      <i c="40" l="1738157031792" />
+      <i c="52" l="1738157259867" />
     </e>
     <e n="Debug">
       <i c="1" l="1738156335753" />
@@ -25,7 +25,7 @@
       <i c="3" l="1738148258065" />
     </e>
     <e n="EditorSelectWord">
-      <i c="8" l="1738157040511" />
+      <i c="9" l="1738157067729" />
     </e>
     <e n="FindInPath">
       <i c="4" l="1738148256902" />
@@ -34,22 +34,31 @@
       <i c="1" l="1738097300619" />
     </e>
     <e n="GotoDeclaration">
-      <i c="67" l="1738157038618" />
+      <i c="78" l="1738157246980" />
     </e>
     <e n="Resume">
-      <i c="1" l="1738156893383" />
+      <i c="2" l="1738157129282" />
     </e>
     <e n="StepOver">
-      <i c="9" l="1738156932501" />
+      <i c="11" l="1738157195900" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1738157203560" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="3" l="1738156891493" />
+      <i c="4" l="1738157127423" />
     </e>
     <e n="Tree-selectChild">
       <i c="1" l="1738156914948" />
     </e>
     <e n="Tree-selectNext">
       <i c="33" l="1738156917760" />
+    </e>
+    <e n="Tree-selectPreviousExtendSelection">
+      <i c="12" l="1738157152035" />
+    </e>
+    <e n="Vcs.RollbackChangedLines">
+      <i c="1" l="1738157467061" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="1" l="1738141702707" />
