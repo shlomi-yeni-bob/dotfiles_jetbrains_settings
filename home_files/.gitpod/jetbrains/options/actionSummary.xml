@@ -7,22 +7,25 @@
       <i c="3" l="1738141781321" />
     </e>
     <e n="Back">
-      <i c="27" l="1738148678817" />
+      <i c="40" l="1738157031792" />
     </e>
     <e n="Debug">
       <i c="1" l="1738156335753" />
     </e>
     <e n="EditorBackSpace">
-      <i c="20" l="1738148263406" />
+      <i c="21" l="1738156974174" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2" l="1738156975610" />
     </e>
     <e n="EditorCopy">
-      <i c="6" l="1738145830135" />
+      <i c="7" l="1738157041964" />
     </e>
     <e n="EditorPaste">
       <i c="3" l="1738148258065" />
     </e>
     <e n="EditorSelectWord">
-      <i c="6" l="1738143861578" />
+      <i c="8" l="1738157040511" />
     </e>
     <e n="FindInPath">
       <i c="4" l="1738148256902" />
@@ -31,10 +34,22 @@
       <i c="1" l="1738097300619" />
     </e>
     <e n="GotoDeclaration">
-      <i c="57" l="1738148738602" />
+      <i c="67" l="1738157038618" />
+    </e>
+    <e n="Resume">
+      <i c="1" l="1738156893383" />
+    </e>
+    <e n="StepOver">
+      <i c="9" l="1738156932501" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="1" l="1738141843915" />
+      <i c="3" l="1738156891493" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="1" l="1738156914948" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="33" l="1738156917760" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="1" l="1738141702707" />

@@ -108,12 +108,28 @@
       <workItem from="1738090898594" duration="85000" />
       <workItem from="1738093039428" duration="2706000" />
       <workItem from="1738139483765" duration="314000" />
-      <workItem from="1738156264646" duration="467000" />
+      <workItem from="1738156264646" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/CardMetaDataService.scala</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/category/CategoryMetadataService.scala</url>
+          <line>99</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
