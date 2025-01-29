@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="53871" />
+  <component name="BuiltInServerOptions" builtInServerPort="63345" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -17,6 +17,7 @@
     "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "defaultJdkConfigured": "true",
     "evlsprt3.243": "6",
     "experimental.ui.on.first.startup": "true",
