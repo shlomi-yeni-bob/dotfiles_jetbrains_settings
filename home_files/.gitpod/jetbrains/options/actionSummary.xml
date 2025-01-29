@@ -4,25 +4,31 @@
       <i c="2" l="1738096660062" />
     </e>
     <e n="Back">
-      <i c="3" l="1738096955733" />
+      <i c="20" l="1738098826754" />
     </e>
     <e n="EditorCopy">
-      <i c="2" l="1738096343528" />
+      <i c="5" l="1738098531945" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1738098796371" />
     </e>
     <e n="EditorSelectWord">
-      <i c="2" l="1738096706195" />
+      <i c="5" l="1738098026857" />
     </e>
     <e n="FindInPath">
-      <i c="1" l="1738096807351" />
+      <i c="3" l="1738098795579" />
+    </e>
+    <e n="Forward">
+      <i c="1" l="1738097300619" />
     </e>
     <e n="GotoDeclaration">
-      <i c="16" l="1738097184304" />
+      <i c="38" l="1738099006922" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1738096815922" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="1" l="1738096810856" />
+      <i c="2" l="1738097747767" />
     </e>
   </component>
 </application>
