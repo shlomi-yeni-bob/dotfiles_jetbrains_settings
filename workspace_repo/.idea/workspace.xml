@@ -52,7 +52,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12167969" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24971065" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -69,7 +69,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.23215547" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.29787987" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.39063948" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -108,7 +108,7 @@
       <workItem from="1738090898594" duration="85000" />
       <workItem from="1738093039428" duration="2706000" />
       <workItem from="1738139483765" duration="314000" />
-      <workItem from="1738156264646" duration="1343000" />
+      <workItem from="1738156264646" duration="2216000" />
     </task>
     <servers />
   </component>
@@ -130,11 +130,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/field/FieldMetaDataService.scala</url>
-          <line>270</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="3" />
+          <line>268</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -7,7 +7,7 @@
       <i c="3" l="1738141781321" />
     </e>
     <e n="Back">
-      <i c="52" l="1738157259867" />
+      <i c="65" l="1738157860608" />
     </e>
     <e n="Debug">
       <i c="1" l="1738156335753" />
@@ -19,22 +19,22 @@
       <i c="2" l="1738156975610" />
     </e>
     <e n="EditorCopy">
-      <i c="7" l="1738157041964" />
+      <i c="8" l="1738157815541" />
     </e>
     <e n="EditorPaste">
       <i c="3" l="1738148258065" />
     </e>
     <e n="EditorSelectWord">
-      <i c="9" l="1738157067729" />
+      <i c="10" l="1738157814748" />
     </e>
     <e n="FindInPath">
-      <i c="4" l="1738148256902" />
+      <i c="5" l="1738157690109" />
     </e>
     <e n="Forward">
       <i c="1" l="1738097300619" />
     </e>
     <e n="GotoDeclaration">
-      <i c="78" l="1738157246980" />
+      <i c="99" l="1738157870907" />
     </e>
     <e n="Resume">
       <i c="2" l="1738157129282" />
@@ -46,7 +46,7 @@
       <i c="1" l="1738157203560" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="4" l="1738157127423" />
+      <i c="5" l="1738157739998" />
     </e>
     <e n="Tree-selectChild">
       <i c="1" l="1738156914948" />
@@ -74,6 +74,9 @@
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="7" l="1738148280011" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1738157739386" />
     </e>
   </component>
 </application>
