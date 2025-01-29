@@ -20,7 +20,6 @@
     "defaultJdkConfigured": "true",
     "evlsprt3.243": "6",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.switch": "true",
     "experimental.ui.used.version": "243.23654.117",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "15.0",
@@ -34,6 +33,7 @@
     "previousColorScheme": "_@client_Dark",
     "registry.to.advanced.settings.migration.build": "IU-243.23654.117",
     "rider.trace.scenarios": "",
+    "scala.last.updated": "1738145806521",
     "ts.lib.d.ts.version": "5.6.3"
   },
   "keyToStringList": {
