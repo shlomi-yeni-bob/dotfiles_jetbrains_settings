@@ -7,7 +7,7 @@
       <i c="6" l="1738160011571" />
     </e>
     <e n="Back">
-      <i c="85" l="1738228408956" />
+      <i c="90" l="1738246287874" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1738226944182" />
@@ -22,19 +22,19 @@
       <i c="59" l="1738235441854" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="12" l="1738235428579" />
+      <i c="13" l="1738246147928" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="29" l="1738242081293" />
+      <i c="38" l="1738246326608" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1738234458611" />
     </e>
     <e n="EditorEnter">
-      <i c="4" l="1738235478727" />
+      <i c="7" l="1738246156322" />
     </e>
     <e n="EditorLeft">
       <i c="6" l="1738227773675" />
@@ -43,16 +43,16 @@
       <i c="1" l="1738227231753" />
     </e>
     <e n="EditorPaste">
-      <i c="9" l="1738235425882" />
+      <i c="10" l="1738246154612" />
     </e>
     <e n="EditorRight">
-      <i c="16" l="1738234729262" />
+      <i c="32" l="1738246159853" />
     </e>
     <e n="EditorSelectWord">
-      <i c="63" l="1738235451255" />
+      <i c="73" l="1738246325178" />
     </e>
     <e n="EditorUp">
-      <i c="2" l="1738227233223" />
+      <i c="4" l="1738246157853" />
     </e>
     <e n="FindInPath">
       <i c="5" l="1738157690109" />
@@ -64,7 +64,7 @@
       <i c="1" l="1738227023002" />
     </e>
     <e n="GotoDeclaration">
-      <i c="146" l="1738245040887" />
+      <i c="155" l="1738246300506" />
     </e>
     <e n="Resume">
       <i c="13" l="1738245222509" />
@@ -94,7 +94,10 @@
       <i c="10" l="1738245221637" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="3" l="1738228129292" />
+      <i c="6" l="1738246296006" />
+    </e>
+    <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
+      <i c="1" l="1738245817018" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1738096815922" />
