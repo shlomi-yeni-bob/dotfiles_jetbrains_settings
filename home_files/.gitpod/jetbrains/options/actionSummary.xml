@@ -10,7 +10,7 @@
       <i c="83" l="1738160390941" />
     </e>
     <e n="Debug">
-      <i c="1" l="1738156335753" />
+      <i c="4" l="1738225778021" />
     </e>
     <e n="EditorBackSpace">
       <i c="23" l="1738162932477" />
@@ -37,13 +37,13 @@
       <i c="115" l="1738160349225" />
     </e>
     <e n="Resume">
-      <i c="2" l="1738157129282" />
+      <i c="4" l="1738225917788" />
     </e>
     <e n="StepOver">
       <i c="11" l="1738157195900" />
     </e>
     <e n="Stop">
-      <i c="1" l="1738157203560" />
+      <i c="2" l="1738163417119" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="5" l="1738157739998" />
@@ -60,6 +60,9 @@
     <e n="Vcs.RollbackChangedLines">
       <i c="1" l="1738157467061" />
     </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="4" l="1738225916256" />
+    </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="1" l="1738141702707" />
     </e>
@@ -71,6 +74,9 @@
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1738143082551" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1738163426986" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="7" l="1738148280011" />
