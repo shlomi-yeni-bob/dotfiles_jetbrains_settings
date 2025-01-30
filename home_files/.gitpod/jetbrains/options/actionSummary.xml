@@ -1,0 +1,112 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1738145808494" />
+    </e>
+    <e n="Annotate">
+      <i c="6" l="1738160011571" />
+    </e>
+    <e n="Back">
+      <i c="85" l="1738228408956" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1738226944182" />
+    </e>
+    <e n="Debug">
+      <i c="5" l="1738226040419" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="42" l="1738227844547" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="9" l="1738227846040" />
+    </e>
+    <e n="EditorCopy">
+      <i c="13" l="1738228546671" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1738227809010" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1738227251581" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1738227773675" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1738227231753" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1738227328703" />
+    </e>
+    <e n="EditorRight">
+      <i c="14" l="1738227843306" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="38" l="1738227930899" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1738227233223" />
+    </e>
+    <e n="FindInPath">
+      <i c="5" l="1738157690109" />
+    </e>
+    <e n="Forward">
+      <i c="3" l="1738228411218" />
+    </e>
+    <e n="Git.Pull">
+      <i c="1" l="1738227023002" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="125" l="1738228542544" />
+    </e>
+    <e n="Resume">
+      <i c="4" l="1738225917788" />
+    </e>
+    <e n="StepOver">
+      <i c="11" l="1738157195900" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1738226935303" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="5" l="1738157739998" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="1" l="1738156914948" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="33" l="1738156917760" />
+    </e>
+    <e n="Tree-selectPreviousExtendSelection">
+      <i c="12" l="1738157152035" />
+    </e>
+    <e n="Vcs.RollbackChangedLines">
+      <i c="1" l="1738157467061" />
+    </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="4" l="1738225916256" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="3" l="1738228129292" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1738096815922" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="2" l="1738097747767" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="1" l="1738143082551" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1738163426986" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="7" l="1738148280011" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1738157739386" />
+    </e>
+  </component>
+</application>
