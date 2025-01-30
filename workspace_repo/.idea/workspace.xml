@@ -58,7 +58,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19316407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23524305" />
       <window_info id="Commit" order="1" weight="0.14160156" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -76,7 +76,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.2335689" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.2484099" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3257646" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -119,7 +119,7 @@
       <workItem from="1738156264646" duration="5887000" />
       <workItem from="1738225577191" duration="6916000" />
       <workItem from="1738243881281" duration="449000" />
-      <workItem from="1738244467455" duration="1853000" />
+      <workItem from="1738244467455" duration="3933000" />
     </task>
     <servers />
   </component>
@@ -146,6 +146,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala</url>
           <line>229</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/package.scala</url>
+          <line>87</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
