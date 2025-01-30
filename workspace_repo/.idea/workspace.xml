@@ -118,7 +118,7 @@
       <workItem from="1738156264646" duration="5887000" />
       <workItem from="1738225577191" duration="6916000" />
       <workItem from="1738243881281" duration="449000" />
-      <workItem from="1738244467455" duration="388000" />
+      <workItem from="1738244467455" duration="757000" />
     </task>
     <servers />
   </component>
@@ -134,14 +134,17 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/category/CategoryMetadataService.scala</url>
-          <line>99</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala</url>
+          <line>27</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/field/FieldMetaDataService.scala</url>
-          <line>268</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/KPIsDashboardsProvider.scala</url>
+          <line>229</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
