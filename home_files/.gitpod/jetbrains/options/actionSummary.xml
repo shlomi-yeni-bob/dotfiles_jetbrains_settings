@@ -7,7 +7,7 @@
       <i c="10" l="1738489874827" />
     </e>
     <e n="Back">
-      <i c="307" l="1738492547534" />
+      <i c="309" l="1738496898127" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1738226944182" />
@@ -16,19 +16,19 @@
       <i c="1" l="1738242759609" />
     </e>
     <e n="Debug">
-      <i c="19" l="1738496757920" />
+      <i c="20" l="1738496918000" />
     </e>
     <e n="EditorBackSpace">
-      <i c="96" l="1738492490846" />
+      <i c="98" l="1738496877000" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="34" l="1738492664915" />
+      <i c="35" l="1738496881156" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="151" l="1738496804098" />
+      <i c="155" l="1738497123913" />
     </e>
     <e n="EditorDuplicate">
       <i c="4" l="1738492178150" />
@@ -43,13 +43,13 @@
       <i c="2" l="1738487917601" />
     </e>
     <e n="EditorPaste">
-      <i c="17" l="1738492400666" />
+      <i c="18" l="1738497130203" />
     </e>
     <e n="EditorRight">
       <i c="38" l="1738492584612" />
     </e>
     <e n="EditorSelectWord">
-      <i c="220" l="1738496803179" />
+      <i c="222" l="1738496851206" />
     </e>
     <e n="EditorTab">
       <i c="8" l="1738492192827" />
@@ -58,7 +58,7 @@
       <i c="10" l="1738488054062" />
     </e>
     <e n="FindInPath">
-      <i c="7" l="1738488260334" />
+      <i c="8" l="1738497129425" />
     </e>
     <e n="Forward">
       <i c="9" l="1738490172371" />
@@ -67,13 +67,13 @@
       <i c="1" l="1738227023002" />
     </e>
     <e n="GotoDeclaration">
-      <i c="270" l="1738492542414" />
+      <i c="273" l="1738497135663" />
     </e>
     <e n="ParameterInfo">
       <i c="2" l="1738488932701" />
     </e>
     <e n="Resume">
-      <i c="14" l="1738249053140" />
+      <i c="15" l="1738497016514" />
     </e>
     <e n="StepOver">
       <i c="19" l="1738249039878" />
@@ -82,7 +82,7 @@
       <i c="4" l="1738235476413" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="13" l="1738248930752" />
+      <i c="14" l="1738497142784" />
     </e>
     <e n="Tree-selectChild">
       <i c="1" l="1738156914948" />
@@ -97,7 +97,7 @@
       <i c="1" l="1738157467061" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="12" l="1738249052135" />
+      <i c="14" l="1738497145288" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="81" l="1738490403747" />
@@ -106,7 +106,7 @@
       <i c="3" l="1738491968303" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="2" l="1738487470969" />
+      <i c="3" l="1738497131394" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="2" l="1738097747767" />
