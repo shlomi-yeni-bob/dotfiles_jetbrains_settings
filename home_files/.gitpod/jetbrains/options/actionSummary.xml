@@ -1,13 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="5" l="1738234232054" />
+      <i c="9" l="1738492020559" />
     </e>
     <e n="Annotate">
-      <i c="8" l="1738249545164" />
+      <i c="10" l="1738489874827" />
     </e>
     <e n="Back">
-      <i c="166" l="1738487609264" />
+      <i c="305" l="1738492054911" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1738226944182" />
@@ -16,22 +16,22 @@
       <i c="1" l="1738242759609" />
     </e>
     <e n="Debug">
-      <i c="16" l="1738244612905" />
+      <i c="17" l="1738492047682" />
     </e>
     <e n="EditorBackSpace">
-      <i c="84" l="1738488055835" />
+      <i c="95" l="1738492018733" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="17" l="1738488041893" />
+      <i c="31" l="1738492394608" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="69" l="1738488065510" />
+      <i c="144" l="1738492422328" />
     </e>
     <e n="EditorDuplicate">
-      <i c="3" l="1738487585775" />
+      <i c="4" l="1738492178150" />
     </e>
     <e n="EditorEnter">
       <i c="10" l="1738487936663" />
@@ -43,31 +43,34 @@
       <i c="2" l="1738487917601" />
     </e>
     <e n="EditorPaste">
-      <i c="14" l="1738488032127" />
+      <i c="17" l="1738492400666" />
     </e>
     <e n="EditorRight">
-      <i c="36" l="1738488054554" />
+      <i c="37" l="1738488655243" />
     </e>
     <e n="EditorSelectWord">
-      <i c="124" l="1738488064301" />
+      <i c="214" l="1738492421327" />
     </e>
     <e n="EditorTab">
-      <i c="1" l="1738487639084" />
+      <i c="8" l="1738492192827" />
     </e>
     <e n="EditorUp">
       <i c="10" l="1738488054062" />
     </e>
     <e n="FindInPath">
-      <i c="6" l="1738487454666" />
+      <i c="7" l="1738488260334" />
     </e>
     <e n="Forward">
-      <i c="5" l="1738249639630" />
+      <i c="9" l="1738490172371" />
     </e>
     <e n="Git.Pull">
       <i c="1" l="1738227023002" />
     </e>
     <e n="GotoDeclaration">
-      <i c="205" l="1738487965066" />
+      <i c="268" l="1738492076330" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="2" l="1738488932701" />
     </e>
     <e n="Resume">
       <i c="14" l="1738249053140" />
@@ -97,10 +100,10 @@
       <i c="12" l="1738249052135" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="48" l="1738487821643" />
+      <i c="81" l="1738490403747" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="2" l="1738488118006" />
+      <i c="3" l="1738491968303" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="2" l="1738487470969" />
