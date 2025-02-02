@@ -16,7 +16,7 @@
       <i c="1" l="1738242759609" />
     </e>
     <e n="Debug">
-      <i c="21" l="1738497777208" />
+      <i c="22" l="1738498369791" />
     </e>
     <e n="EditorBackSpace">
       <i c="103" l="1738497729592" />
@@ -28,7 +28,7 @@
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="155" l="1738497123913" />
+      <i c="157" l="1738498347018" />
     </e>
     <e n="EditorDuplicate">
       <i c="4" l="1738492178150" />
@@ -39,17 +39,20 @@
     <e n="EditorLeft">
       <i c="24" l="1738487945544" />
     </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1738498365245" />
+    </e>
     <e n="EditorLineStart">
       <i c="2" l="1738487917601" />
     </e>
     <e n="EditorPaste">
-      <i c="19" l="1738497649564" />
+      <i c="20" l="1738498353861" />
     </e>
     <e n="EditorRight">
       <i c="38" l="1738492584612" />
     </e>
     <e n="EditorSelectWord">
-      <i c="224" l="1738497700014" />
+      <i c="227" l="1738498353164" />
     </e>
     <e n="EditorTab">
       <i c="8" l="1738492192827" />
@@ -67,22 +70,22 @@
       <i c="1" l="1738227023002" />
     </e>
     <e n="GotoDeclaration">
-      <i c="287" l="1738497709987" />
+      <i c="291" l="1738499213196" />
     </e>
     <e n="ParameterInfo">
       <i c="2" l="1738488932701" />
     </e>
     <e n="Resume">
-      <i c="21" l="1738497920833" />
+      <i c="28" l="1738499314527" />
     </e>
     <e n="StepOver">
-      <i c="37" l="1738497631397" />
+      <i c="44" l="1738499221277" />
     </e>
     <e n="Stop">
       <i c="4" l="1738235476413" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="20" l="1738497230479" />
+      <i c="21" l="1738499215511" />
     </e>
     <e n="Tree-selectChild">
       <i c="1" l="1738156914948" />
@@ -97,10 +100,10 @@
       <i c="1" l="1738157467061" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="17" l="1738497919981" />
+      <i c="19" l="1738499313939" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="81" l="1738490403747" />
+      <i c="83" l="1738498288422" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="3" l="1738491968303" />
