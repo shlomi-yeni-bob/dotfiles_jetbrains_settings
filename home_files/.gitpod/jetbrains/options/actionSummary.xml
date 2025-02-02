@@ -19,43 +19,43 @@
       <i c="16" l="1738244612905" />
     </e>
     <e n="EditorBackSpace">
-      <i c="71" l="1738487702015" />
+      <i c="84" l="1738488055835" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="16" l="1738487686287" />
+      <i c="17" l="1738488041893" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="59" l="1738487670679" />
+      <i c="69" l="1738488065510" />
     </e>
     <e n="EditorDuplicate">
       <i c="3" l="1738487585775" />
     </e>
     <e n="EditorEnter">
-      <i c="7" l="1738246156322" />
+      <i c="10" l="1738487936663" />
     </e>
     <e n="EditorLeft">
-      <i c="19" l="1738487655371" />
+      <i c="24" l="1738487945544" />
     </e>
     <e n="EditorLineStart">
-      <i c="1" l="1738227231753" />
+      <i c="2" l="1738487917601" />
     </e>
     <e n="EditorPaste">
-      <i c="12" l="1738487673409" />
+      <i c="14" l="1738488032127" />
     </e>
     <e n="EditorRight">
-      <i c="33" l="1738487655820" />
+      <i c="36" l="1738488054554" />
     </e>
     <e n="EditorSelectWord">
-      <i c="107" l="1738487700605" />
+      <i c="124" l="1738488064301" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1738487639084" />
     </e>
     <e n="EditorUp">
-      <i c="6" l="1738487654708" />
+      <i c="10" l="1738488054062" />
     </e>
     <e n="FindInPath">
       <i c="6" l="1738487454666" />
@@ -67,7 +67,7 @@
       <i c="1" l="1738227023002" />
     </e>
     <e n="GotoDeclaration">
-      <i c="203" l="1738487668263" />
+      <i c="205" l="1738487965066" />
     </e>
     <e n="Resume">
       <i c="14" l="1738249053140" />
@@ -97,10 +97,10 @@
       <i c="12" l="1738249052135" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="46" l="1738249562180" />
+      <i c="48" l="1738487821643" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="1" l="1738245817018" />
+      <i c="2" l="1738488118006" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="2" l="1738487470969" />
