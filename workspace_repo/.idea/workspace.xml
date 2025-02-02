@@ -127,7 +127,7 @@
       <workItem from="1738243881281" duration="449000" />
       <workItem from="1738244467455" duration="3933000" />
       <workItem from="1738487321505" duration="5428000" />
-      <workItem from="1738496464173" duration="3642000" />
+      <workItem from="1738496464173" duration="7089000" />
     </task>
     <servers />
   </component>
@@ -203,11 +203,6 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala</url>
-          <line>51</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
