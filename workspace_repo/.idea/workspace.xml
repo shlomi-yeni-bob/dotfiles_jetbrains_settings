@@ -8,9 +8,12 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIAdditionalColumnsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIAdditionalColumnsProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIExternalPermissionsFactory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIExternalPermissionsFactory.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadata.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadata.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/WidgetConfiguration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/WidgetConfiguration.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsKPIOptionsFactory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsKPIOptionsFactory.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +125,7 @@
       <workItem from="1738225577191" duration="6916000" />
       <workItem from="1738243881281" duration="449000" />
       <workItem from="1738244467455" duration="3933000" />
-      <workItem from="1738487321505" duration="5100000" />
+      <workItem from="1738487321505" duration="5428000" />
     </task>
     <servers />
   </component>
