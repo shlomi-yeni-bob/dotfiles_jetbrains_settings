@@ -82,7 +82,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.31327015" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.41658765" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.6137441" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -126,7 +126,7 @@
       <workItem from="1738243881281" duration="449000" />
       <workItem from="1738244467455" duration="3933000" />
       <workItem from="1738487321505" duration="5428000" />
-      <workItem from="1738496464173" duration="1174000" />
+      <workItem from="1738496464173" duration="1535000" />
     </task>
     <servers />
   </component>
