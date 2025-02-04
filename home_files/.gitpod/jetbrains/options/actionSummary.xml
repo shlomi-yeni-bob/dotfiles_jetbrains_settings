@@ -19,7 +19,7 @@
       <i c="23" l="1738500274290" />
     </e>
     <e n="EditorBackSpace">
-      <i c="123" l="1738509034694" />
+      <i c="124" l="1738667261501" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="40" l="1738509082912" />
@@ -58,7 +58,7 @@
       <i c="8" l="1738492192827" />
     </e>
     <e n="EditorUp">
-      <i c="10" l="1738488054062" />
+      <i c="22" l="1738667493972" />
     </e>
     <e n="FindInPath">
       <i c="19" l="1738511477663" />
@@ -71,6 +71,9 @@
     </e>
     <e n="Git.Pull">
       <i c="1" l="1738227023002" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="1" l="1738667192471" />
     </e>
     <e n="GotoDeclaration">
       <i c="363" l="1738512019519" />
@@ -128,6 +131,9 @@
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1738510762703" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1738667188150" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="31" l="1738510001736" />
