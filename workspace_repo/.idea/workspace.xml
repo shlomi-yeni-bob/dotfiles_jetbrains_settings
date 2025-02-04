@@ -124,7 +124,7 @@
       <workItem from="1738244467455" duration="3933000" />
       <workItem from="1738487321505" duration="5428000" />
       <workItem from="1738496464173" duration="7089000" />
-      <workItem from="1738666203007" duration="1961000" />
+      <workItem from="1738666203007" duration="2274000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -151,11 +151,6 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/CardMetaDataService.scala</url>
           <line>29</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/package.scala</url>
-          <line>87</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
