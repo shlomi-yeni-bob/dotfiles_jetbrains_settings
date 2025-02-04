@@ -1,25 +1,28 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="11" l="1738509071864" />
+      <i c="14" l="1738668101957" />
     </e>
     <e n="Annotate">
       <i c="12" l="1738667754632" />
     </e>
     <e n="Back">
-      <i c="402" l="1738512050133" />
+      <i c="403" l="1738668086107" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1738226944182" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1738667945524" />
     </e>
     <e n="CompileDirty">
       <i c="1" l="1738242759609" />
     </e>
     <e n="Debug">
-      <i c="24" l="1738667699911" />
+      <i c="25" l="1738667947518" />
     </e>
     <e n="EditorBackSpace">
-      <i c="124" l="1738667261501" />
+      <i c="129" l="1738668098468" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="40" l="1738509082912" />
@@ -28,7 +31,7 @@
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="218" l="1738512035905" />
+      <i c="219" l="1738667932620" />
     </e>
     <e n="EditorDuplicate">
       <i c="5" l="1738500073824" />
@@ -46,13 +49,13 @@
       <i c="2" l="1738487917601" />
     </e>
     <e n="EditorPaste">
-      <i c="28" l="1738511478267" />
+      <i c="29" l="1738667939277" />
     </e>
     <e n="EditorRight">
       <i c="38" l="1738492584612" />
     </e>
     <e n="EditorSelectWord">
-      <i c="304" l="1738512034671" />
+      <i c="306" l="1738668088022" />
     </e>
     <e n="EditorTab">
       <i c="8" l="1738492192827" />
@@ -61,7 +64,7 @@
       <i c="22" l="1738667493972" />
     </e>
     <e n="FindInPath">
-      <i c="19" l="1738511477663" />
+      <i c="20" l="1738667938833" />
     </e>
     <e n="Forward">
       <i c="11" l="1738511872794" />
@@ -76,7 +79,7 @@
       <i c="1" l="1738667192471" />
     </e>
     <e n="GotoDeclaration">
-      <i c="367" l="1738667668470" />
+      <i c="368" l="1738668082568" />
     </e>
     <e n="OverrideMethods">
       <i c="1" l="1738510756631" />
@@ -118,7 +121,7 @@
       <i c="3" l="1738491968303" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="5" l="1738510003115" />
+      <i c="6" l="1738667941370" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="3" l="1738505767734" />

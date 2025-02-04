@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="Add new Dashboard and KPI" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="Add new Dashboard and KPI">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/benchmark/BenchmarkAuthorizer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/benchmark/BenchmarkAuthorizer.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.30630213" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.30630213" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.26459685" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -122,7 +124,7 @@
       <workItem from="1738244467455" duration="3933000" />
       <workItem from="1738487321505" duration="5428000" />
       <workItem from="1738496464173" duration="7089000" />
-      <workItem from="1738666203007" duration="1651000" />
+      <workItem from="1738666203007" duration="1961000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
