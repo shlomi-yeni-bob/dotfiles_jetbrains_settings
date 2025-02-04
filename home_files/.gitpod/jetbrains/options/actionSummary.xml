@@ -1,13 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="9" l="1738492020559" />
+      <i c="11" l="1738509071864" />
     </e>
     <e n="Annotate">
-      <i c="10" l="1738489874827" />
+      <i c="11" l="1738510480874" />
     </e>
     <e n="Back">
-      <i c="323" l="1738501358804" />
+      <i c="402" l="1738512050133" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1738226944182" />
@@ -19,22 +19,22 @@
       <i c="23" l="1738500274290" />
     </e>
     <e n="EditorBackSpace">
-      <i c="122" l="1738500225876" />
+      <i c="123" l="1738509034694" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="37" l="1738497736748" />
+      <i c="40" l="1738509082912" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="160" l="1738505248955" />
+      <i c="218" l="1738512035905" />
     </e>
     <e n="EditorDuplicate">
       <i c="5" l="1738500073824" />
     </e>
     <e n="EditorEnter">
-      <i c="11" l="1738500195353" />
+      <i c="15" l="1738510753339" />
     </e>
     <e n="EditorLeft">
       <i c="24" l="1738487945544" />
@@ -46,13 +46,13 @@
       <i c="2" l="1738487917601" />
     </e>
     <e n="EditorPaste">
-      <i c="21" l="1738500195747" />
+      <i c="28" l="1738511478267" />
     </e>
     <e n="EditorRight">
       <i c="38" l="1738492584612" />
     </e>
     <e n="EditorSelectWord">
-      <i c="235" l="1738501278581" />
+      <i c="304" l="1738512034671" />
     </e>
     <e n="EditorTab">
       <i c="8" l="1738492192827" />
@@ -61,16 +61,22 @@
       <i c="10" l="1738488054062" />
     </e>
     <e n="FindInPath">
-      <i c="11" l="1738500250489" />
+      <i c="19" l="1738511477663" />
     </e>
     <e n="Forward">
-      <i c="10" l="1738501340129" />
+      <i c="11" l="1738511872794" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1738510754482" />
     </e>
     <e n="Git.Pull">
       <i c="1" l="1738227023002" />
     </e>
     <e n="GotoDeclaration">
-      <i c="302" l="1738502388680" />
+      <i c="363" l="1738512019519" />
+    </e>
+    <e n="OverrideMethods">
+      <i c="1" l="1738510756631" />
     </e>
     <e n="ParameterInfo">
       <i c="2" l="1738488932701" />
@@ -103,16 +109,16 @@
       <i c="19" l="1738499313939" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="84" l="1738502395328" />
+      <i c="94" l="1738512042854" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="3" l="1738491968303" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="3" l="1738497131394" />
+      <i c="5" l="1738510003115" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="2" l="1738097747767" />
+      <i c="3" l="1738505767734" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1738143082551" />
@@ -120,11 +126,14 @@
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="2" l="1738163426986" />
     </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1738510762703" />
+    </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="18" l="1738487470201" />
+      <i c="31" l="1738510001736" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="2" l="1738487466294" />
+      <i c="11" l="1738510001209" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="7" l="1738504992058" />
