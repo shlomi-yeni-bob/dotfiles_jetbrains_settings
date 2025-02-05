@@ -10,7 +10,7 @@
       <i c="404" l="1738669986932" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="2" l="1738671444473" />
+      <i c="3" l="1738761935132" />
     </e>
     <e n="CommentByLineComment">
       <i c="2" l="1738671497289" />
@@ -82,7 +82,16 @@
       <i c="1" l="1738227023002" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="2" l="1738672718760" />
+      <i c="3" l="1738761837771" />
+    </e>
+    <e n="GitRebaseBranchAction">
+      <i c="1" l="1738761965730" />
+    </e>
+    <e n="GitShowDiffWithRefAction">
+      <i c="1" l="1738761900002" />
+    </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="1" l="1738761948463" />
     </e>
     <e n="GotoDeclaration">
       <i c="381" l="1738672318497" />
@@ -123,6 +132,9 @@
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="95" l="1738667632981" />
     </e>
+    <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
+      <i c="1" l="1738761930560" />
+    </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="4" l="1738672317024" />
     </e>
@@ -142,7 +154,7 @@
       <i c="1" l="1738143082551" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="2" l="1738163426986" />
+      <i c="4" l="1738761910672" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1738510762703" />
