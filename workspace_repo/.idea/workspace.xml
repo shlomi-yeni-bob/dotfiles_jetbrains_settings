@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="revert create dashboard state in kpi default creator" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="revert create dashboard state in kpi default creator">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DirectDashboardDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DirectDashboardDao.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlom-yeni/code-migration-delete-dashboard-states-with-default-values" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/revert-create-state-creation" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/revert-create-state-creation",
+    "git-widget-placeholder": "shlomi-yeni/dashboard-dao-turn-update-state-to-upsert",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,10 +75,10 @@
       <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.30630213" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.30630213" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.30630213" />
       <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.25162187" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="sbt" />
@@ -124,7 +126,7 @@
       <workItem from="1738487321505" duration="5428000" />
       <workItem from="1738496464173" duration="7089000" />
       <workItem from="1738666203007" duration="5569000" />
-      <workItem from="1738761738051" duration="1064000" />
+      <workItem from="1738761738051" duration="2282000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
