@@ -44,8 +44,8 @@
         <option name="placeInGrid" value="right" />
       </ViewImpl>
       <TabImpl>
-        <option name="leftProportion" value="0.19991922" />
-        <option name="rightProportion" value="0.19991922" />
+        <option name="leftProportion" value="0.19962217" />
+        <option name="rightProportion" value="0.19962217" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
