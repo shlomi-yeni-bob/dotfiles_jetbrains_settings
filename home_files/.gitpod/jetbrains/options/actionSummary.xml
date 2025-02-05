@@ -1,31 +1,46 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="1" l="1738773493228" />
+      <i c="2" l="1738773691681" />
     </e>
     <e n="Back">
-      <i c="2" l="1738773569101" />
+      <i c="10" l="1738773828856" />
     </e>
     <e n="Debug">
       <i c="1" l="1738244054269" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1" l="1738773219552" />
+      <i c="11" l="1738773866803" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="4" l="1738773526192" />
+      <i c="6" l="1738773696132" />
     </e>
     <e n="EditorCopy">
-      <i c="5" l="1738773589151" />
+      <i c="7" l="1738773768267" />
+    </e>
+    <e n="EditorDown">
+      <i c="4" l="1738773864577" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1738773688001" />
     </e>
     <e n="EditorEnter">
       <i c="3" l="1738773433553" />
     </e>
+    <e n="EditorLeft">
+      <i c="2" l="1738773865611" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1738773865331" />
+    </e>
     <e n="EditorPaste">
-      <i c="4" l="1738773593377" />
+      <i c="5" l="1738773690351" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1738773866006" />
     </e>
     <e n="EditorSelectWord">
-      <i c="12" l="1738773592455" />
+      <i c="22" l="1738773851027" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1738773492191" />
@@ -34,7 +49,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="6" l="1738773570561" />
+      <i c="7" l="1738773905558" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1738773498416" />
@@ -44,6 +59,9 @@
     </e>
     <e n="Tree-selectPrevious">
       <i c="7" l="1738773501467" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1738773909958" />
     </e>
   </component>
 </application>
