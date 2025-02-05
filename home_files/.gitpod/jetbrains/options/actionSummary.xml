@@ -10,7 +10,7 @@
       <i c="404" l="1738669986932" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="3" l="1738761935132" />
+      <i c="4" l="1738767161895" />
     </e>
     <e n="CommentByLineComment">
       <i c="4" l="1738764893257" />
@@ -19,10 +19,10 @@
       <i c="1" l="1738242759609" />
     </e>
     <e n="Debug">
-      <i c="28" l="1738765639246" />
+      <i c="29" l="1738767246801" />
     </e>
     <e n="EditorBackSpace">
-      <i c="198" l="1738765520471" />
+      <i c="207" l="1738766377543" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="42" l="1738764914854" />
@@ -31,7 +31,7 @@
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="224" l="1738765849299" />
+      <i c="225" l="1738766421605" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1738765595731" />
@@ -52,7 +52,7 @@
       <i c="6" l="1738764806473" />
     </e>
     <e n="EditorLineStart">
-      <i c="3" l="1738764891092" />
+      <i c="4" l="1738766371860" />
     </e>
     <e n="EditorPaste">
       <i c="34" l="1738764901685" />
@@ -70,7 +70,7 @@
       <i c="28" l="1738764936879" />
     </e>
     <e n="FindInPath">
-      <i c="20" l="1738667938833" />
+      <i c="22" l="1738766408150" />
     </e>
     <e n="Forward">
       <i c="11" l="1738511872794" />
@@ -121,7 +121,7 @@
       <i c="44" l="1738499221277" />
     </e>
     <e n="Stop">
-      <i c="5" l="1738765598510" />
+      <i c="6" l="1738767166755" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="22" l="1738667824609" />
@@ -142,7 +142,7 @@
       <i c="19" l="1738499313939" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="96" l="1738764773385" />
+      <i c="97" l="1738766252618" />
     </e>
     <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
       <i c="1" l="1738761930560" />
@@ -166,7 +166,7 @@
       <i c="1" l="1738143082551" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="5" l="1738765838242" />
+      <i c="6" l="1738766409554" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="1" l="1738764895788" />
