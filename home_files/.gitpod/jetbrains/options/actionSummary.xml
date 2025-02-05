@@ -7,7 +7,7 @@
       <i c="12" l="1738667754632" />
     </e>
     <e n="Back">
-      <i c="404" l="1738669986932" />
+      <i c="425" l="1738769381335" />
     </e>
     <e n="ChangesView.Revert">
       <i c="4" l="1738767161895" />
@@ -31,7 +31,7 @@
       <i c="1" l="1738235481517" />
     </e>
     <e n="EditorCopy">
-      <i c="225" l="1738766421605" />
+      <i c="237" l="1738769336894" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1738765595731" />
@@ -61,7 +61,7 @@
       <i c="38" l="1738492584612" />
     </e>
     <e n="EditorSelectWord">
-      <i c="312" l="1738762049690" />
+      <i c="329" l="1738769336015" />
     </e>
     <e n="EditorTab">
       <i c="8" l="1738492192827" />
@@ -70,7 +70,7 @@
       <i c="28" l="1738764936879" />
     </e>
     <e n="FindInPath">
-      <i c="22" l="1738766408150" />
+      <i c="24" l="1738769327544" />
     </e>
     <e n="Forward">
       <i c="11" l="1738511872794" />
@@ -103,7 +103,7 @@
       <i c="1" l="1738761948463" />
     </e>
     <e n="GotoDeclaration">
-      <i c="382" l="1738765589870" />
+      <i c="402" l="1738769378133" />
     </e>
     <e n="OverrideMethods">
       <i c="1" l="1738510756631" />
@@ -142,7 +142,7 @@
       <i c="19" l="1738499313939" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="97" l="1738766252618" />
+      <i c="107" l="1738769372431" />
     </e>
     <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
       <i c="1" l="1738761930560" />
@@ -154,7 +154,7 @@
       <i c="2" l="1738672545496" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="6" l="1738667941370" />
+      <i c="7" l="1738769331680" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="3" l="1738505767734" />
@@ -178,7 +178,7 @@
       <i c="1" l="1738667188150" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="31" l="1738510001736" />
+      <i c="36" l="1738769330745" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="11" l="1738510001209" />

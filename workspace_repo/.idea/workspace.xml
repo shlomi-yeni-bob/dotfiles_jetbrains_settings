@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="revert create dashboard state in kpi default creator">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DirectDashboardDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DirectDashboardDao.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="change update state to work with upsert" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/revert-create-state-creation" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/dashboard-dao-turn-update-state-to-upsert" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/dashboard-dao-turn-update-state-to-upsert",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,8 +58,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24461079" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.20269462" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31107783" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.31107783" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -126,7 +124,7 @@
       <workItem from="1738487321505" duration="5428000" />
       <workItem from="1738496464173" duration="7089000" />
       <workItem from="1738666203007" duration="5569000" />
-      <workItem from="1738761738051" duration="4806000" />
+      <workItem from="1738761738051" duration="8117000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -144,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738762189566</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change update state to work with upsert">
+      <option name="closed" value="true" />
+      <created>1738772253718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738772253718</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new Dashboard and KPI" />
     <MESSAGE value="revert create dashboard state in kpi default creator" />
-    <option name="LAST_COMMIT_MESSAGE" value="revert create dashboard state in kpi default creator" />
+    <MESSAGE value="change update state to work with upsert" />
+    <option name="LAST_COMMIT_MESSAGE" value="change update state to work with upsert" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
