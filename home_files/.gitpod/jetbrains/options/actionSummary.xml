@@ -1,16 +1,49 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1738773493228" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1738773569101" />
+    </e>
     <e n="Debug">
       <i c="1" l="1738244054269" />
     </e>
     <e n="EditorBackSpace">
       <i c="1" l="1738773219552" />
     </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1738773526192" />
+    </e>
+    <e n="EditorCopy">
+      <i c="5" l="1738773589151" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1738773433553" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1738773593377" />
+    </e>
     <e n="EditorSelectWord">
-      <i c="1" l="1738773217801" />
+      <i c="12" l="1738773592455" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1738773492191" />
     </e>
     <e n="Git.Pull">
       <i c="1" l="1738773245715" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="6" l="1738773570561" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="1" l="1738773498416" />
+    </e>
+    <e n="Tree-selectNextExtendSelection">
+      <i c="11" l="1738773504167" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="7" l="1738773501467" />
     </e>
   </component>
 </application>
