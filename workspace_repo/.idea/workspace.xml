@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="Add new Dashboard and KPI" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="revert create dashboard state in kpi default creator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +58,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14802632" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.12844312" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24461079" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.24461079" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -124,7 +124,7 @@
       <workItem from="1738487321505" duration="5428000" />
       <workItem from="1738496464173" duration="7089000" />
       <workItem from="1738666203007" duration="5569000" />
-      <workItem from="1738761738051" duration="248000" />
+      <workItem from="1738761738051" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738666595550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="revert create dashboard state in kpi default creator">
+      <option name="closed" value="true" />
+      <created>1738762189566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738762189566</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +153,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="shlom-yeni/remove-create-dashboard-state-from-default-creator" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -153,7 +173,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new Dashboard and KPI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new Dashboard and KPI" />
+    <MESSAGE value="revert create dashboard state in kpi default creator" />
+    <option name="LAST_COMMIT_MESSAGE" value="revert create dashboard state in kpi default creator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
