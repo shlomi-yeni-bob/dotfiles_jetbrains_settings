@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/ShlomiMetricOrchestrator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/ShlomiMetricOrchestrator.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +138,7 @@
       <workItem from="1738666203007" duration="5569000" />
       <workItem from="1738761738051" duration="8117000" />
       <workItem from="1738772464867" duration="1139000" />
-      <workItem from="1738783236945" duration="2866000" />
+      <workItem from="1738783236945" duration="3640000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
