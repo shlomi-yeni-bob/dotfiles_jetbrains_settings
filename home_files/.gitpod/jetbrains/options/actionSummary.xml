@@ -13,7 +13,7 @@
       <i c="1" l="1738784319312" />
     </e>
     <e n="Back">
-      <i c="19" l="1738783939542" />
+      <i c="24" l="1738786084029" />
     </e>
     <e n="CommentByLineComment">
       <i c="3" l="1738783711518" />
@@ -25,10 +25,10 @@
       <i c="3" l="1738784672845" />
     </e>
     <e n="EditorBackSpace">
-      <i c="63" l="1738785615783" />
+      <i c="82" l="1738786009915" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="14" l="1738785592203" />
+      <i c="19" l="1738785933452" />
     </e>
     <e n="EditorCopy">
       <i c="15" l="1738784667069" />
@@ -40,25 +40,25 @@
       <i c="3" l="1738784641591" />
     </e>
     <e n="EditorEnter">
-      <i c="10" l="1738785585801" />
+      <i c="12" l="1738786007215" />
     </e>
     <e n="EditorLeft">
-      <i c="3" l="1738783638035" />
+      <i c="5" l="1738785893117" />
     </e>
     <e n="EditorLineEnd">
-      <i c="4" l="1738784658570" />
+      <i c="5" l="1738786005730" />
     </e>
     <e n="EditorLineStart">
-      <i c="1" l="1738784663873" />
+      <i c="2" l="1738785879311" />
     </e>
     <e n="EditorPaste">
       <i c="7" l="1738784669416" />
     </e>
     <e n="EditorRight">
-      <i c="3" l="1738783659854" />
+      <i c="6" l="1738785947913" />
     </e>
     <e n="EditorSelectWord">
-      <i c="35" l="1738784668947" />
+      <i c="36" l="1738785925670" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1738773492191" />
@@ -67,13 +67,22 @@
       <i c="1" l="1738783887688" />
     </e>
     <e n="EditorUp">
-      <i c="1" l="1738784639970" />
+      <i c="2" l="1738785880138" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1738786010542" />
     </e>
     <e n="Git.Pull">
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="16" l="1738785674373" />
+      <i c="25" l="1738786088802" />
+    </e>
+    <e n="OverrideMethods">
+      <i c="1" l="1738786011982" />
+    </e>
+    <e n="Scala.NewClass">
+      <i c="1" l="1738785838682" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1738773498416" />
@@ -89,6 +98,9 @@
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1738784325089" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1738785853177" />
     </e>
   </component>
 </application>
