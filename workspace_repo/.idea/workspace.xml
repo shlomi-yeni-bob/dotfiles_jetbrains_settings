@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="change update state to work with upsert">
+      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/ShlomiMetricController.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +61,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31107783" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.16856287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22936603" />
+      <window_info id="Commit" order="1" weight="0.14084929" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -78,7 +79,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.30630213" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28405932" />
       <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.30630213" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="sbt" />
@@ -127,6 +128,7 @@
       <workItem from="1738666203007" duration="5569000" />
       <workItem from="1738761738051" duration="8117000" />
       <workItem from="1738772464867" duration="1139000" />
+      <workItem from="1738783236945" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
