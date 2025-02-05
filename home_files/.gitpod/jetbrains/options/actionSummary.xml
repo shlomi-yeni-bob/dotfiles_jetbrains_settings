@@ -13,7 +13,7 @@
       <i c="1" l="1738784319312" />
     </e>
     <e n="Back">
-      <i c="31" l="1738786316554" />
+      <i c="37" l="1738786703226" />
     </e>
     <e n="CommentByLineComment">
       <i c="3" l="1738783711518" />
@@ -31,7 +31,7 @@
       <i c="19" l="1738785933452" />
     </e>
     <e n="EditorCopy">
-      <i c="16" l="1738786488108" />
+      <i c="19" l="1738786684922" />
     </e>
     <e n="EditorDown">
       <i c="11" l="1738786460558" />
@@ -64,7 +64,7 @@
       <i c="9" l="1738786483753" />
     </e>
     <e n="EditorSelectWord">
-      <i c="41" l="1738786487149" />
+      <i c="44" l="1738786683795" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1738773492191" />
@@ -82,13 +82,13 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="30" l="1738786298442" />
+      <i c="35" l="1738786664850" />
     </e>
     <e n="OverrideMethods">
       <i c="1" l="1738786011982" />
     </e>
     <e n="Scala.NewClass">
-      <i c="1" l="1738785838682" />
+      <i c="2" l="1738786850709" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1738773498416" />
@@ -100,13 +100,13 @@
       <i c="7" l="1738773501467" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="2" l="1738783416400" />
+      <i c="6" l="1738786679401" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1738784325089" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="1" l="1738785853177" />
+      <i c="2" l="1738786875724" />
     </e>
   </component>
 </application>
