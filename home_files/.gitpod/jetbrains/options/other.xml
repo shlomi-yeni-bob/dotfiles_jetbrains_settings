@@ -1,4 +1,5 @@
 <application>
+  <component name="BuiltInServerOptions" builtInServerPort="52546" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -24,8 +25,8 @@
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "243.23654.117",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetConsole": "16.0",
+    "fontSizeToResetEditor": "16.0",
     "got.it.tooltip.new.terminal.promotion.243": "1",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.23654.117-IJ",
@@ -33,7 +34,7 @@
     "llm.installer.activate.toolwindow.delayed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@user_Dark",
+    "previousColorScheme": "_@client_Dark",
     "project.wizard.group": "NPW.simple-module.Java",
     "registry.to.advanced.settings.migration.build": "IU-243.23654.117",
     "rider.trace.scenarios": "",
