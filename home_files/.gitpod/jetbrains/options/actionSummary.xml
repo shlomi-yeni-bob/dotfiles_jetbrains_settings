@@ -7,13 +7,13 @@
       <i c="1" l="1738783318433" />
     </e>
     <e n="$Undo">
-      <i c="4" l="1738783889448" />
+      <i c="5" l="1738830537697" />
     </e>
     <e n="Annotate">
       <i c="1" l="1738784319312" />
     </e>
     <e n="Back">
-      <i c="43" l="1738829956005" />
+      <i c="47" l="1738830501765" />
     </e>
     <e n="CommentByLineComment">
       <i c="3" l="1738783711518" />
@@ -31,7 +31,7 @@
       <i c="33" l="1738830108272" />
     </e>
     <e n="EditorCopy">
-      <i c="34" l="1738830056418" />
+      <i c="39" l="1738833581031" />
     </e>
     <e n="EditorDown">
       <i c="13" l="1738829850158" />
@@ -64,7 +64,7 @@
       <i c="30" l="1738830073053" />
     </e>
     <e n="EditorSelectWord">
-      <i c="98" l="1738830124825" />
+      <i c="105" l="1738833579774" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1738773492191" />
@@ -76,7 +76,7 @@
       <i c="9" l="1738824822294" />
     </e>
     <e n="FindInPath">
-      <i c="1" l="1738787107031" />
+      <i c="2" l="1738830471014" />
     </e>
     <e n="Generate">
       <i c="1" l="1738786010542" />
@@ -85,13 +85,22 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="45" l="1738830115548" />
+      <i c="60" l="1738833601510" />
+    </e>
+    <e n="Move">
+      <i c="2" l="1738833543363" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1738833453635" />
+    </e>
+    <e n="NewModuleInGroup">
+      <i c="1" l="1738833438668" />
     </e>
     <e n="OverrideMethods">
       <i c="1" l="1738786011982" />
     </e>
     <e n="Scala.NewClass">
-      <i c="2" l="1738786850709" />
+      <i c="3" l="1738833625559" />
     </e>
     <e n="Stop">
       <i c="1" l="1738787423435" />
@@ -109,13 +118,19 @@
       <i c="7" l="1738773501467" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="16" l="1738830046679" />
+      <i c="27" l="1738833408726" />
+    </e>
+    <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
+      <i c="2" l="1738833515158" />
+    </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
+      <i c="1" l="1738833475398" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1738784325089" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="2" l="1738786875724" />
+      <i c="3" l="1738833640111" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1738786973050" />
