@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="change update state to work with upsert">
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountKPIController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountValuesProvider.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricCalculator.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricController.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOrchestrator.scala" afterDir="false" />
@@ -76,8 +77,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123242185" />
-      <window_info id="Commit" order="1" weight="0.22558594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21972656" />
+      <window_info id="Commit" order="1" weight="0.21972656" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -154,7 +155,7 @@
       <workItem from="1738783236945" duration="4012000" />
       <workItem from="1738824586821" duration="285000" />
       <workItem from="1738829681040" duration="7559000" />
-      <workItem from="1738841078500" duration="1082000" />
+      <workItem from="1738841078500" duration="3628000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
