@@ -25,13 +25,13 @@
       <i c="1" l="1738840740172" />
     </e>
     <e n="Debug">
-      <i c="15" l="1738841341417" />
+      <i c="16" l="1738841698560" />
     </e>
     <e n="EditorBackSpace">
       <i c="292" l="1738840591476" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="51" l="1738840045301" />
+      <i c="52" l="1738841672325" />
     </e>
     <e n="EditorCopy">
       <i c="82" l="1738841311877" />
@@ -70,7 +70,7 @@
       <i c="71" l="1738839766758" />
     </e>
     <e n="EditorSelectWord">
-      <i c="189" l="1738841293655" />
+      <i c="190" l="1738841662288" />
     </e>
     <e n="EditorSplitLine">
       <i c="2" l="1738834976010" />
@@ -91,7 +91,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="89" l="1738840286066" />
+      <i c="91" l="1738841615276" />
     </e>
     <e n="Move">
       <i c="2" l="1738833543363" />
@@ -115,19 +115,19 @@
       <i c="1" l="1738834723077" />
     </e>
     <e n="Resume">
-      <i c="14" l="1738840443864" />
+      <i c="16" l="1738841630012" />
     </e>
     <e n="Scala.NewClass">
       <i c="3" l="1738833625559" />
     </e>
     <e n="StepOver">
-      <i c="3" l="1738840327531" />
+      <i c="4" l="1738841584521" />
     </e>
     <e n="Stop">
-      <i c="6" l="1738840824002" />
+      <i c="7" l="1738841693598" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="7" l="1738840442150" />
+      <i c="9" l="1738841628759" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1738773498416" />
@@ -146,6 +146,9 @@
     </e>
     <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
       <i c="1" l="1738833475398" />
+    </e>
+    <e n="com.intellij.execution.actions.ClearConsoleAction">
+      <i c="1" l="1738841496930" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1738839981242" />

@@ -14,11 +14,13 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.23654.117",
     "MemberChooser.showClasses": "true",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "evlsprt3.243": "6",
