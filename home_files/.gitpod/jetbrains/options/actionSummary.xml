@@ -91,7 +91,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="91" l="1738841615276" />
+      <i c="100" l="1738842137834" />
     </e>
     <e n="Move">
       <i c="2" l="1738833543363" />
@@ -115,19 +115,22 @@
       <i c="1" l="1738834723077" />
     </e>
     <e n="Resume">
-      <i c="16" l="1738841630012" />
+      <i c="18" l="1738841995881" />
+    </e>
+    <e n="RunToCursor">
+      <i c="1" l="1738842149137" />
     </e>
     <e n="Scala.NewClass">
       <i c="3" l="1738833625559" />
     </e>
     <e n="StepOver">
-      <i c="4" l="1738841584521" />
+      <i c="7" l="1738841963626" />
     </e>
     <e n="Stop">
       <i c="7" l="1738841693598" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="9" l="1738841628759" />
+      <i c="11" l="1738841916760" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1738773498416" />
@@ -138,8 +141,11 @@
     <e n="Tree-selectPrevious">
       <i c="7" l="1738773501467" />
     </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="2" l="1738841898777" />
+    </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="41" l="1738839453640" />
+      <i c="42" l="1738842113560" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="2" l="1738833515158" />
@@ -148,7 +154,7 @@
       <i c="1" l="1738833475398" />
     </e>
     <e n="com.intellij.execution.actions.ClearConsoleAction">
-      <i c="1" l="1738841496930" />
+      <i c="4" l="1738841925020" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1738839981242" />
@@ -169,7 +175,7 @@
       <i c="12" l="1738787114511" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="5" l="1738840483608" />
+      <i c="6" l="1738841994262" />
     </e>
   </component>
 </application>
