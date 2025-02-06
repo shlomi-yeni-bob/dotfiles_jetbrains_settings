@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="change update state to work with upsert">
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountKPIController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountValuesProvider.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricCalculator.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricController.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOrchestrator.scala" afterDir="false" />
@@ -96,7 +95,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.4371025" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3515901" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -155,7 +154,7 @@
       <workItem from="1738783236945" duration="4012000" />
       <workItem from="1738824586821" duration="285000" />
       <workItem from="1738829681040" duration="7559000" />
-      <workItem from="1738841078500" duration="3951000" />
+      <workItem from="1738841078500" duration="6672000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
