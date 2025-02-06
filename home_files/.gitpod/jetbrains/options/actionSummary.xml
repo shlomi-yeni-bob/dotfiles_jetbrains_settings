@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="1" l="1738783317803" />
+      <i c="2" l="1738840732115" />
     </e>
     <e n="$Paste">
       <i c="1" l="1738783318433" />
@@ -13,40 +13,43 @@
       <i c="1" l="1738784319312" />
     </e>
     <e n="Back">
-      <i c="62" l="1738837652902" />
+      <i c="63" l="1738840280280" />
     </e>
     <e n="CommentByLineComment">
-      <i c="4" l="1738834453223" />
+      <i c="5" l="1738840051646" />
     </e>
     <e n="CopyContentRootPath">
       <i c="1" l="1738785750328" />
     </e>
+    <e n="CopyPathFromRepositoryRootProvider">
+      <i c="1" l="1738840740172" />
+    </e>
     <e n="Debug">
-      <i c="6" l="1738838335900" />
+      <i c="13" l="1738840811046" />
     </e>
     <e n="EditorBackSpace">
-      <i c="266" l="1738838499153" />
+      <i c="292" l="1738840591476" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="45" l="1738838295955" />
+      <i c="51" l="1738840045301" />
     </e>
     <e n="EditorCopy">
-      <i c="69" l="1738838489972" />
+      <i c="81" l="1738840665519" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1738834607904" />
     </e>
     <e n="EditorDown">
-      <i c="34" l="1738835544839" />
+      <i c="35" l="1738840060946" />
     </e>
     <e n="EditorDuplicate">
-      <i c="6" l="1738837844692" />
+      <i c="7" l="1738840638120" />
     </e>
     <e n="EditorEnter">
-      <i c="39" l="1738837762530" />
+      <i c="44" l="1738840050347" />
     </e>
     <e n="EditorLeft">
-      <i c="35" l="1738837878753" />
+      <i c="42" l="1738840062354" />
     </e>
     <e n="EditorLineEnd">
       <i c="14" l="1738837878259" />
@@ -55,19 +58,19 @@
       <i c="1" l="1738786332854" />
     </e>
     <e n="EditorLineStart">
-      <i c="11" l="1738835359568" />
+      <i c="13" l="1738840061469" />
     </e>
     <e n="EditorNextWord">
       <i c="1" l="1738786483016" />
     </e>
     <e n="EditorPaste">
-      <i c="47" l="1738838511704" />
+      <i c="52" l="1738839979679" />
     </e>
     <e n="EditorRight">
-      <i c="67" l="1738835384292" />
+      <i c="71" l="1738839766758" />
     </e>
     <e n="EditorSelectWord">
-      <i c="165" l="1738838483325" />
+      <i c="188" l="1738840643262" />
     </e>
     <e n="EditorSplitLine">
       <i c="2" l="1738834976010" />
@@ -76,10 +79,10 @@
       <i c="10" l="1738837900331" />
     </e>
     <e n="EditorUp">
-      <i c="21" l="1738837759747" />
+      <i c="27" l="1738840061738" />
     </e>
     <e n="FindInPath">
-      <i c="3" l="1738838493995" />
+      <i c="5" l="1738840586103" />
     </e>
     <e n="Generate">
       <i c="1" l="1738786010542" />
@@ -88,7 +91,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="77" l="1738837855342" />
+      <i c="89" l="1738840286066" />
     </e>
     <e n="Move">
       <i c="2" l="1738833543363" />
@@ -111,14 +114,20 @@
     <e n="ReformatCode">
       <i c="1" l="1738834723077" />
     </e>
+    <e n="Resume">
+      <i c="14" l="1738840443864" />
+    </e>
     <e n="Scala.NewClass">
       <i c="3" l="1738833625559" />
     </e>
+    <e n="StepOver">
+      <i c="3" l="1738840327531" />
+    </e>
     <e n="Stop">
-      <i c="1" l="1738787423435" />
+      <i c="6" l="1738840824002" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="1" l="1738824946698" />
+      <i c="7" l="1738840442150" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1738773498416" />
@@ -130,7 +139,7 @@
       <i c="7" l="1738773501467" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="38" l="1738837606160" />
+      <i c="41" l="1738839453640" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="2" l="1738833515158" />
@@ -138,8 +147,14 @@
     <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
       <i c="1" l="1738833475398" />
     </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1738839981242" />
+    </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1738784325089" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1738840591650" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="4" l="1738833910556" />
@@ -149,6 +164,9 @@
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="12" l="1738787114511" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="5" l="1738840483608" />
     </e>
   </component>
 </application>
