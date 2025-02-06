@@ -96,7 +96,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.22296819" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.4371025" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -155,7 +155,7 @@
       <workItem from="1738783236945" duration="4012000" />
       <workItem from="1738824586821" duration="285000" />
       <workItem from="1738829681040" duration="7559000" />
-      <workItem from="1738841078500" duration="3628000" />
+      <workItem from="1738841078500" duration="3951000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -240,7 +240,7 @@
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/state/KPIStateService.scala</url>
           <line>210</line>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
