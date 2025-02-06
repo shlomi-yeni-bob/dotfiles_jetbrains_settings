@@ -7,16 +7,16 @@
       <i c="1" l="1738783318433" />
     </e>
     <e n="$Undo">
-      <i c="5" l="1738830537697" />
+      <i c="8" l="1738835029858" />
     </e>
     <e n="Annotate">
       <i c="1" l="1738784319312" />
     </e>
     <e n="Back">
-      <i c="47" l="1738830501765" />
+      <i c="62" l="1738837652902" />
     </e>
     <e n="CommentByLineComment">
-      <i c="3" l="1738783711518" />
+      <i c="4" l="1738834453223" />
     </e>
     <e n="CopyContentRootPath">
       <i c="1" l="1738785750328" />
@@ -25,55 +25,58 @@
       <i c="5" l="1738830151647" />
     </e>
     <e n="EditorBackSpace">
-      <i c="141" l="1738833944064" />
+      <i c="262" l="1738837877142" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="35" l="1738833651821" />
+      <i c="44" l="1738837896172" />
     </e>
     <e n="EditorCopy">
-      <i c="40" l="1738833904768" />
+      <i c="61" l="1738838033023" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1738834607904" />
     </e>
     <e n="EditorDown">
-      <i c="17" l="1738833915237" />
+      <i c="34" l="1738835544839" />
     </e>
     <e n="EditorDuplicate">
-      <i c="5" l="1738829748455" />
+      <i c="6" l="1738837844692" />
     </e>
     <e n="EditorEnter">
-      <i c="23" l="1738833874299" />
+      <i c="39" l="1738837762530" />
     </e>
     <e n="EditorLeft">
-      <i c="26" l="1738833932072" />
+      <i c="35" l="1738837878753" />
     </e>
     <e n="EditorLineEnd">
-      <i c="7" l="1738787322537" />
+      <i c="14" l="1738837878259" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="1" l="1738786332854" />
     </e>
     <e n="EditorLineStart">
-      <i c="6" l="1738833873650" />
+      <i c="11" l="1738835359568" />
     </e>
     <e n="EditorNextWord">
       <i c="1" l="1738786483016" />
     </e>
     <e n="EditorPaste">
-      <i c="24" l="1738833908497" />
+      <i c="43" l="1738837898032" />
     </e>
     <e n="EditorRight">
-      <i c="38" l="1738833937164" />
+      <i c="67" l="1738835384292" />
     </e>
     <e n="EditorSelectWord">
-      <i c="107" l="1738833907943" />
+      <i c="156" l="1738838029367" />
     </e>
     <e n="EditorSplitLine">
-      <i c="1" l="1738773492191" />
+      <i c="2" l="1738834976010" />
     </e>
     <e n="EditorTab">
-      <i c="1" l="1738783887688" />
+      <i c="10" l="1738837900331" />
     </e>
     <e n="EditorUp">
-      <i c="11" l="1738833911200" />
+      <i c="21" l="1738837759747" />
     </e>
     <e n="FindInPath">
       <i c="2" l="1738830471014" />
@@ -85,10 +88,16 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="60" l="1738833601510" />
+      <i c="77" l="1738837855342" />
     </e>
     <e n="Move">
       <i c="2" l="1738833543363" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="12" l="1738835027704" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="6" l="1738835542192" />
     </e>
     <e n="NewDir">
       <i c="1" l="1738833453635" />
@@ -98,6 +107,9 @@
     </e>
     <e n="OverrideMethods">
       <i c="1" l="1738786011982" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1738834723077" />
     </e>
     <e n="Scala.NewClass">
       <i c="3" l="1738833625559" />
@@ -118,7 +130,7 @@
       <i c="7" l="1738773501467" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="28" l="1738833899104" />
+      <i c="38" l="1738837606160" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="2" l="1738833515158" />
