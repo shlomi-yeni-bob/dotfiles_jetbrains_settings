@@ -25,10 +25,10 @@
       <i c="1" l="1738840740172" />
     </e>
     <e n="Debug">
-      <i c="29" l="1738852756581" />
+      <i c="30" l="1738933609970" />
     </e>
     <e n="EditorBackSpace">
-      <i c="358" l="1738852492639" />
+      <i c="360" l="1738933788241" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="59" l="1738852409829" />
@@ -43,7 +43,7 @@
       <i c="43" l="1738850622457" />
     </e>
     <e n="EditorDuplicate">
-      <i c="11" l="1738848475313" />
+      <i c="12" l="1738933834713" />
     </e>
     <e n="EditorEnter">
       <i c="64" l="1738852481990" />
@@ -70,7 +70,7 @@
       <i c="83" l="1738851566130" />
     </e>
     <e n="EditorSelectWord">
-      <i c="246" l="1738852522806" />
+      <i c="248" l="1738933840065" />
     </e>
     <e n="EditorSplitLine">
       <i c="2" l="1738834976010" />
@@ -85,7 +85,7 @@
       <i c="50" l="1738851440854" />
     </e>
     <e n="FindInPath">
-      <i c="7" l="1738850782319" />
+      <i c="8" l="1738933785173" />
     </e>
     <e n="Forward">
       <i c="5" l="1738852473798" />
@@ -106,10 +106,10 @@
       <i c="2" l="1738833543363" />
     </e>
     <e n="MoveStatementDown">
-      <i c="12" l="1738835027704" />
+      <i c="13" l="1738933844579" />
     </e>
     <e n="MoveStatementUp">
-      <i c="6" l="1738835542192" />
+      <i c="8" l="1738933845288" />
     </e>
     <e n="NewDir">
       <i c="1" l="1738833453635" />
@@ -127,7 +127,7 @@
       <i c="1" l="1738850325019" />
     </e>
     <e n="Resume">
-      <i c="60" l="1738852373260" />
+      <i c="61" l="1738933739743" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1738842149137" />
@@ -154,7 +154,7 @@
       <i c="7" l="1738773501467" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="12" l="1738851704491" />
+      <i c="13" l="1738933738892" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="70" l="1738852506512" />
@@ -175,7 +175,7 @@
       <i c="1" l="1738784325089" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1" l="1738840591650" />
+      <i c="2" l="1738933797957" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="7" l="1738847119845" />
@@ -184,7 +184,7 @@
       <i c="1" l="1738786973050" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="12" l="1738787114511" />
+      <i c="66" l="1738933797501" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="13" l="1738852290401" />
