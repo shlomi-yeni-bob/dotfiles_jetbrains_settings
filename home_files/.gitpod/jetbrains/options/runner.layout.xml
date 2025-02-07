@@ -35,10 +35,12 @@
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="OverheadMonitor" />
+        <option name="minimizedInGrid" value="true" />
         <option name="placeInGrid" value="right" />
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="XCoroutineThreadsContent" />
+        <option name="minimizedInGrid" value="true" />
         <option name="placeInGrid" value="right" />
       </ViewImpl>
       <TabImpl>

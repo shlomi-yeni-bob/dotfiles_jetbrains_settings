@@ -78,8 +78,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28797847" />
-      <window_info id="Commit" order="1" weight="0.21972656" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28797847" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.28797847" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -158,7 +158,7 @@
       <workItem from="1738824586821" duration="285000" />
       <workItem from="1738829681040" duration="7559000" />
       <workItem from="1738841078500" duration="7402000" />
-      <workItem from="1738933520952" duration="1868000" />
+      <workItem from="1738933520952" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -244,11 +244,6 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/state/KPIStateService.scala</url>
           <line>210</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/infra/DashboardMetricController.scala</url>
-          <line>38</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
