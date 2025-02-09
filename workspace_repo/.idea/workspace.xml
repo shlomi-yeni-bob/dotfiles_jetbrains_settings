@@ -110,8 +110,8 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DirectDashboardDaoTest">
-    <configuration name="DirectDashboardDaoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager">
+    <configuration name="DirectDashboardDaoTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -137,7 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DirectDashboardDaoTest" />
+        <item itemvalue="Gradle.DirectDashboardDaoTest (1)" />
       </list>
     </recent_temporary>
   </component>
