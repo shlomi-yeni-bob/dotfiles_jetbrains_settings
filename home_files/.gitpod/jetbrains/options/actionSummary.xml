@@ -1,5 +1,8 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1739134824212" />
+    </e>
     <e n="$Undo">
       <i c="4" l="1739108753505" />
     </e>
@@ -10,7 +13,7 @@
       <i c="8" l="1739133583931" />
     </e>
     <e n="EditorBackSpace">
-      <i c="334" l="1739134504800" />
+      <i c="345" l="1739134552069" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="60" l="1739109177440" />
@@ -37,7 +40,7 @@
       <i c="49" l="1739111368537" />
     </e>
     <e n="EditorLineEnd">
-      <i c="8" l="1739111372230" />
+      <i c="9" l="1739134540778" />
     </e>
     <e n="EditorLineStart">
       <i c="5" l="1739109174386" />
@@ -67,13 +70,13 @@
       <i c="1" l="1739111253532" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="5" l="1739115324338" />
+      <i c="7" l="1739134565425" />
     </e>
     <e n="Git.Pull">
       <i c="3" l="1739133376726" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="2" l="1739117279599" />
+      <i c="3" l="1739134744736" />
     </e>
     <e n="GotoDeclaration">
       <i c="61" l="1739133867184" />
@@ -109,7 +112,7 @@
       <i c="5" l="1739109303806" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="10" l="1739112011179" />
+      <i c="11" l="1739134811720" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="1" l="1739114396350" />

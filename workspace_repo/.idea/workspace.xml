@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="change update state to work with upsert">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/KPIDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/KPIDao.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unnecessary method referring to old system employee ids" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/fix-delete-dashboard-to-delete-kpis" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/remove-kpi-system-considertion-from-kpi-dao" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/remove-kpi-system-considertion-from-kpi-dao",
+    "git-widget-placeholder": "shlomi-yeni/delete-not-used-dashboard-daos",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/hibob/app/com/hibob/analytics/kpis/shlomi",
     "node.js.detected.package.eslint": "true",
@@ -64,8 +62,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.11464843" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.23061343" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23061343" />
+      <window_info id="Commit" order="1" weight="0.23061343" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -81,9 +79,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3175147" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.21966732" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3175147" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.22260274" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.48483366" />
       <window_info anchor="bottom" id="Services" order="6" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -96,8 +94,8 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
-      <window_info anchor="right" id="github.copilotToolWindow" order="6" />
-      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.32985073" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.33015046" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -203,7 +201,7 @@
       <workItem from="1739098548887" duration="599000" />
       <workItem from="1739101637305" duration="4843000" />
       <workItem from="1739111553200" duration="2947000" />
-      <workItem from="1739133318723" duration="1197000" />
+      <workItem from="1739133318723" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -229,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738772253718</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete unnecessary method referring to old system employee ids">
+      <option name="closed" value="true" />
+      <created>1739134567216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739134567216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +268,8 @@
     <MESSAGE value="Add new Dashboard and KPI" />
     <MESSAGE value="revert create dashboard state in kpi default creator" />
     <MESSAGE value="change update state to work with upsert" />
-    <option name="LAST_COMMIT_MESSAGE" value="change update state to work with upsert" />
+    <MESSAGE value="delete unnecessary method referring to old system employee ids" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete unnecessary method referring to old system employee ids" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
