@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="change update state to work with upsert">
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountGroupByProvider.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountKPIController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiKPIFetcher.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricCalculator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOrchestrator.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIAdditionalColumnsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIAdditionalColumnsProvider.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIExternalPermissionsFactory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIExternalPermissionsFactory.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadata.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadata.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/WidgetConfiguration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/WidgetConfiguration.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsKPIOptionsFactory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsKPIOptionsFactory.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricType.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/messages" beforeDir="false" afterPath="$PROJECT_DIR$/conf/messages" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="change update state to work with upsert" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +106,6 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost" />
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -159,6 +139,7 @@
       <workItem from="1738829681040" duration="7559000" />
       <workItem from="1738841078500" duration="7402000" />
       <workItem from="1738933520952" duration="3290000" />
+      <workItem from="1739098548887" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
