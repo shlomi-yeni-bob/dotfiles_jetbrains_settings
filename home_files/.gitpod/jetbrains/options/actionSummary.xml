@@ -10,7 +10,7 @@
       <i c="7" l="1739113447972" />
     </e>
     <e n="EditorBackSpace">
-      <i c="234" l="1739113442093" />
+      <i c="235" l="1739114388090" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="60" l="1739109177440" />
@@ -52,7 +52,7 @@
       <i c="24" l="1739108754900" />
     </e>
     <e n="EditorSelectWord">
-      <i c="48" l="1739113440674" />
+      <i c="49" l="1739114387040" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
@@ -73,7 +73,7 @@
       <i c="1" l="1739111933968" />
     </e>
     <e n="GotoDeclaration">
-      <i c="57" l="1739112009522" />
+      <i c="58" l="1739114393879" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1739109138474" />
@@ -107,6 +107,9 @@
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="10" l="1739112011179" />
+    </e>
+    <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
+      <i c="1" l="1739114396350" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="7" l="1739108437904" />
