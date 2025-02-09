@@ -18,6 +18,7 @@
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "defaultJdkConfigured": "true",
+    "enter_selection_count": "3",
     "evlsprt3.243": "4",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.switch": "true",
@@ -34,6 +35,7 @@
     "previousColorScheme": "_@client_Dark",
     "registry.to.advanced.settings.migration.build": "IU-243.23654.117",
     "rider.trace.scenarios": "",
+    "scala.last.updated": "1739102188579",
     "ts.lib.d.ts.version": "5.6.3"
   },
   "keyToStringList": {
