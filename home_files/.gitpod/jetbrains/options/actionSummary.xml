@@ -4,22 +4,22 @@
       <i c="1" l="1739104627459" />
     </e>
     <e n="Back">
-      <i c="6" l="1739103477657" />
+      <i c="8" l="1739105934740" />
     </e>
     <e n="Debug">
       <i c="2" l="1739102555782" />
     </e>
     <e n="EditorBackSpace">
-      <i c="129" l="1739105181677" />
+      <i c="158" l="1739106043474" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="42" l="1739105231395" />
+      <i c="47" l="1739105701076" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="21" l="1739105150470" />
+      <i c="22" l="1739106029072" />
     </e>
     <e n="EditorDown">
       <i c="18" l="1739104678725" />
@@ -31,7 +31,7 @@
       <i c="28" l="1739104731599" />
     </e>
     <e n="EditorLeft">
-      <i c="36" l="1739103256943" />
+      <i c="39" l="1739105749116" />
     </e>
     <e n="EditorLineEnd">
       <i c="6" l="1739104662468" />
@@ -43,13 +43,13 @@
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="20" l="1739105137663" />
+      <i c="21" l="1739106036190" />
     </e>
     <e n="EditorRight">
-      <i c="17" l="1739104706016" />
+      <i c="19" l="1739106039209" />
     </e>
     <e n="EditorSelectWord">
-      <i c="27" l="1739105192506" />
+      <i c="32" l="1739106028218" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
@@ -58,28 +58,37 @@
       <i c="17" l="1739104677248" />
     </e>
     <e n="GotoDeclaration">
-      <i c="24" l="1739105190524" />
+      <i c="30" l="1739106024389" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1739102370176" />
     </e>
     <e n="Resume">
-      <i c="5" l="1739105247605" />
+      <i c="7" l="1739105860199" />
     </e>
     <e n="StepOver">
-      <i c="3" l="1739105064352" />
+      <i c="15" l="1739105899814" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1739106045960" />
+    </e>
+    <e n="Table-selectNextRow">
+      <i c="162" l="1739105771194" />
+    </e>
+    <e n="Table-selectPreviousRow">
+      <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="3" l="1739105046311" />
+      <i c="4" l="1739105862942" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="2" l="1739105250123" />
+      <i c="4" l="1739105868692" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="2" l="1739102167318" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="3" l="1739105055068" />
+      <i c="6" l="1739106049882" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="1" l="1739104431129" />
