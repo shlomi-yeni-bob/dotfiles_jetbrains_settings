@@ -10,7 +10,7 @@
       <i c="7" l="1739113447972" />
     </e>
     <e n="EditorBackSpace">
-      <i c="235" l="1739114388090" />
+      <i c="278" l="1739115311653" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="60" l="1739109177440" />
@@ -52,7 +52,7 @@
       <i c="24" l="1739108754900" />
     </e>
     <e n="EditorSelectWord">
-      <i c="49" l="1739114387040" />
+      <i c="55" l="1739115293572" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
@@ -67,13 +67,16 @@
       <i c="1" l="1739111253532" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="1" l="1739111389803" />
+      <i c="5" l="1739115324338" />
+    </e>
+    <e n="Git.Pull">
+      <i c="2" l="1739117456126" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="1" l="1739111933968" />
+      <i c="2" l="1739117279599" />
     </e>
     <e n="GotoDeclaration">
-      <i c="59" l="1739114397917" />
+      <i c="60" l="1739115226124" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1739109138474" />
@@ -88,7 +91,7 @@
       <i c="15" l="1739105899814" />
     </e>
     <e n="Stop">
-      <i c="5" l="1739113443971" />
+      <i c="6" l="1739117315007" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -112,7 +115,7 @@
       <i c="1" l="1739114396350" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="7" l="1739108437904" />
+      <i c="8" l="1739115264652" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="2" l="1739112113274" />
