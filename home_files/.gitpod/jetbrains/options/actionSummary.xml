@@ -1,46 +1,61 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="6" l="1739103477657" />
+    </e>
     <e n="Debug">
       <i c="2" l="1739102555782" />
     </e>
     <e n="EditorBackSpace">
-      <i c="48" l="1739103022803" />
+      <i c="92" l="1739103400639" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="12" l="1739103030249" />
+      <i c="24" l="1739103449341" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="8" l="1739103047662" />
+      <i c="13" l="1739104348876" />
     </e>
     <e n="EditorDown">
-      <i c="2" l="1739102994295" />
+      <i c="4" l="1739103133163" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1739103254692" />
     </e>
     <e n="EditorEnter">
-      <i c="12" l="1739102971333" />
+      <i c="23" l="1739104355390" />
     </e>
     <e n="EditorLeft">
-      <i c="27" l="1739103022030" />
+      <i c="36" l="1739103256943" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2" l="1739103021741" />
+      <i c="5" l="1739103133793" />
     </e>
     <e n="EditorLineStart">
-      <i c="2" l="1739102386762" />
+      <i c="3" l="1739103426724" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="8" l="1739103050078" />
+      <i c="13" l="1739104355520" />
     </e>
     <e n="EditorRight">
-      <i c="8" l="1739102948042" />
+      <i c="16" l="1739103446582" />
     </e>
     <e n="EditorSelectWord">
-      <i c="11" l="1739103049453" />
+      <i c="17" l="1739103416669" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1739103130112" />
     </e>
     <e n="EditorUp">
-      <i c="6" l="1739102937449" />
+      <i c="9" l="1739103228875" />
     </e>
     <e n="GotoDeclaration">
-      <i c="3" l="1739103043251" />
+      <i c="15" l="1739103483844" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1739102370176" />
