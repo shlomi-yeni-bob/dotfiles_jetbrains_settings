@@ -1,37 +1,46 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="Debug">
-      <i c="1" l="1739101760416" />
+      <i c="2" l="1739102555782" />
     </e>
     <e n="EditorBackSpace">
-      <i c="17" l="1739102489020" />
+      <i c="48" l="1739103022803" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3" l="1739102428310" />
+      <i c="12" l="1739103030249" />
     </e>
     <e n="EditorCopy">
-      <i c="5" l="1739102447374" />
+      <i c="8" l="1739103047662" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1739102994295" />
     </e>
     <e n="EditorEnter">
-      <i c="8" l="1739102449202" />
+      <i c="12" l="1739102971333" />
+    </e>
+    <e n="EditorLeft">
+      <i c="27" l="1739103022030" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1739103021741" />
     </e>
     <e n="EditorLineStart">
       <i c="2" l="1739102386762" />
     </e>
     <e n="EditorPaste">
-      <i c="5" l="1739102449649" />
+      <i c="8" l="1739103050078" />
     </e>
     <e n="EditorRight">
-      <i c="1" l="1739102488634" />
+      <i c="8" l="1739102948042" />
     </e>
     <e n="EditorSelectWord">
-      <i c="3" l="1739102446657" />
+      <i c="11" l="1739103049453" />
     </e>
     <e n="EditorUp">
-      <i c="5" l="1739102387367" />
+      <i c="6" l="1739102937449" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1" l="1739102165553" />
+      <i c="3" l="1739103043251" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1739102370176" />
