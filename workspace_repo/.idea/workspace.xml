@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unnecessary method referring to old system employee ids" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unnecessary method referring to old system employee ids">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DashboardMappingDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardDao.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardTranslationDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/KPIRecentlyViewedDashboardsDaoMappingAware.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardDaoV2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardTranslationDao.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/FixOOTBDashboardNewTablesRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/OOTBDashboardNewTables.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/RecentDashboardNewDashboardIdsRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/ScheduledMigrationModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/migrations/ScheduledMigrationModule.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreatorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreatorTest.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build hibob.executor": "Run",
     "Gradle.DirectDashboardDaoTest (1).executor": "Run",
     "Gradle.DirectDashboardDaoTest.executor": "Run",
     "Gradle.Download Sources.executor": "Run",
@@ -62,7 +78,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23061343" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31452546" />
       <window_info id="Commit" order="1" weight="0.23061343" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
@@ -70,7 +86,6 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
-      <window_info anchor="bottom" id="Build" />
       <window_info anchor="bottom" id="internal-profiler" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
@@ -79,9 +94,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.21966732" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3175147" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.48483366" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.21966732" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.33023483" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33023483" />
       <window_info anchor="bottom" id="Services" order="6" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -109,7 +125,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.KPIDaoTest">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="DirectDashboardDaoTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -201,7 +217,7 @@
       <workItem from="1739098548887" duration="599000" />
       <workItem from="1739101637305" duration="4843000" />
       <workItem from="1739111553200" duration="2947000" />
-      <workItem from="1739133318723" duration="1509000" />
+      <workItem from="1739133318723" duration="1868000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />

@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Delete">
-      <i c="1" l="1739134824212" />
+      <i c="10" l="1739135043639" />
     </e>
     <e n="$Undo">
       <i c="4" l="1739108753505" />
@@ -9,32 +9,38 @@
     <e n="Back">
       <i c="25" l="1739111257617" />
     </e>
+    <e n="CompileDirty">
+      <i c="1" l="1739134973858" />
+    </e>
+    <e n="CompileProject">
+      <i c="2" l="1739135113960" />
+    </e>
     <e n="Debug">
-      <i c="8" l="1739133583931" />
+      <i c="9" l="1739135181777" />
     </e>
     <e n="EditorBackSpace">
-      <i c="345" l="1739134552069" />
+      <i c="358" l="1739134877828" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="60" l="1739109177440" />
+      <i c="61" l="1739134866466" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="29" l="1739134510897" />
+      <i c="33" l="1739135084541" />
     </e>
     <e n="EditorCut">
-      <i c="2" l="1739114435526" />
+      <i c="5" l="1739135096867" />
     </e>
     <e n="EditorDown">
-      <i c="22" l="1739108890645" />
+      <i c="25" l="1739134877440" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1739108400401" />
     </e>
     <e n="EditorEnter">
-      <i c="33" l="1739109174935" />
+      <i c="36" l="1739134886283" />
     </e>
     <e n="EditorLeft">
       <i c="49" l="1739111368537" />
@@ -55,13 +61,13 @@
       <i c="24" l="1739108754900" />
     </e>
     <e n="EditorSelectWord">
-      <i c="56" l="1739133572030" />
+      <i c="62" l="1739135085643" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
     </e>
     <e n="EditorUp">
-      <i c="22" l="1739109179268" />
+      <i c="23" l="1739134867202" />
     </e>
     <e n="FindInPath">
       <i c="1" l="1739108826244" />
@@ -112,7 +118,7 @@
       <i c="5" l="1739109303806" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="11" l="1739134811720" />
+      <i c="15" l="1739134935254" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="1" l="1739114396350" />
@@ -121,7 +127,7 @@
       <i c="9" l="1739133935743" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="2" l="1739112113274" />
+      <i c="3" l="1739135180144" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1739111339468" />
