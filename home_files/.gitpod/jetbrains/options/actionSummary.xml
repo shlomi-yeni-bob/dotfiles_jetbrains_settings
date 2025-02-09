@@ -76,7 +76,7 @@
       <i c="2" l="1739117279599" />
     </e>
     <e n="GotoDeclaration">
-      <i c="60" l="1739115226124" />
+      <i c="61" l="1739133867184" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1739109138474" />
@@ -91,7 +91,7 @@
       <i c="15" l="1739105899814" />
     </e>
     <e n="Stop">
-      <i c="6" l="1739117315007" />
+      <i c="7" l="1739133933082" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -115,7 +115,7 @@
       <i c="1" l="1739114396350" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="8" l="1739115264652" />
+      <i c="9" l="1739133935743" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="2" l="1739112113274" />
