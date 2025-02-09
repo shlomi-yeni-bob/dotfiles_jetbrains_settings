@@ -7,7 +7,7 @@
       <i c="25" l="1739111257617" />
     </e>
     <e n="Debug">
-      <i c="5" l="1739110188839" />
+      <i c="6" l="1739112116092" />
     </e>
     <e n="EditorBackSpace">
       <i c="233" l="1739111371378" />
@@ -46,7 +46,7 @@
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="27" l="1739109195460" />
+      <i c="28" l="1739112060231" />
     </e>
     <e n="EditorRight">
       <i c="24" l="1739108754900" />
@@ -73,7 +73,7 @@
       <i c="1" l="1739111933968" />
     </e>
     <e n="GotoDeclaration">
-      <i c="53" l="1739111276114" />
+      <i c="57" l="1739112009522" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1739109138474" />
@@ -106,13 +106,13 @@
       <i c="5" l="1739109303806" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="8" l="1739111236790" />
+      <i c="10" l="1739112011179" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="7" l="1739108437904" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="1" l="1739109007931" />
+      <i c="2" l="1739112113274" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1739111339468" />
