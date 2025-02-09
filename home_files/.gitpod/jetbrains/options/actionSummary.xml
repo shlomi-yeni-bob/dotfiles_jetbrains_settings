@@ -69,6 +69,9 @@
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1739111389803" />
     </e>
+    <e n="GitCheckoutAction">
+      <i c="1" l="1739111933968" />
+    </e>
     <e n="GotoDeclaration">
       <i c="53" l="1739111276114" />
     </e>
@@ -95,6 +98,9 @@
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="4" l="1739105862942" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1739111585796" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
       <i c="5" l="1739109303806" />
