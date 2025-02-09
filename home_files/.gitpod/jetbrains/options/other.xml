@@ -14,7 +14,9 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "GradleSupport.showInternalTestNodes": "false",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "defaultJdkConfigured": "true",

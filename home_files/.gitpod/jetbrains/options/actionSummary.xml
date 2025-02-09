@@ -1,5 +1,8 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1739104627459" />
+    </e>
     <e n="Back">
       <i c="6" l="1739103477657" />
     </e>
@@ -7,31 +10,31 @@
       <i c="2" l="1739102555782" />
     </e>
     <e n="EditorBackSpace">
-      <i c="92" l="1739103400639" />
+      <i c="122" l="1739104773222" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="24" l="1739103449341" />
+      <i c="34" l="1739104765570" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="13" l="1739104348876" />
+      <i c="18" l="1739104729991" />
     </e>
     <e n="EditorDown">
-      <i c="4" l="1739103133163" />
+      <i c="18" l="1739104678725" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1739103254692" />
     </e>
     <e n="EditorEnter">
-      <i c="23" l="1739104355390" />
+      <i c="28" l="1739104731599" />
     </e>
     <e n="EditorLeft">
       <i c="36" l="1739103256943" />
     </e>
     <e n="EditorLineEnd">
-      <i c="5" l="1739103133793" />
+      <i c="6" l="1739104662468" />
     </e>
     <e n="EditorLineStart">
       <i c="3" l="1739103426724" />
@@ -40,22 +43,22 @@
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="13" l="1739104355520" />
+      <i c="18" l="1739104731839" />
     </e>
     <e n="EditorRight">
-      <i c="16" l="1739103446582" />
+      <i c="17" l="1739104706016" />
     </e>
     <e n="EditorSelectWord">
-      <i c="17" l="1739103416669" />
+      <i c="23" l="1739104729238" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
     </e>
     <e n="EditorUp">
-      <i c="9" l="1739103228875" />
+      <i c="17" l="1739104677248" />
     </e>
     <e n="GotoDeclaration">
-      <i c="15" l="1739103483844" />
+      <i c="20" l="1739104703706" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1739102370176" />
@@ -65,6 +68,12 @@
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="2" l="1739102167318" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1739104780575" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1739104431129" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="3" l="1739101967786" />
