@@ -1,76 +1,91 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="1" l="1739104627459" />
+      <i c="4" l="1739108753505" />
     </e>
     <e n="Back">
-      <i c="8" l="1739105934740" />
+      <i c="25" l="1739111257617" />
     </e>
     <e n="Debug">
-      <i c="2" l="1739102555782" />
+      <i c="5" l="1739110188839" />
     </e>
     <e n="EditorBackSpace">
-      <i c="158" l="1739106043474" />
+      <i c="233" l="1739111371378" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="47" l="1739105701076" />
+      <i c="60" l="1739109177440" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="22" l="1739106029072" />
+      <i c="28" l="1739110503703" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1739108898948" />
     </e>
     <e n="EditorDown">
-      <i c="18" l="1739104678725" />
+      <i c="22" l="1739108890645" />
     </e>
     <e n="EditorDuplicate">
-      <i c="1" l="1739103254692" />
+      <i c="2" l="1739108400401" />
     </e>
     <e n="EditorEnter">
-      <i c="28" l="1739104731599" />
+      <i c="33" l="1739109174935" />
     </e>
     <e n="EditorLeft">
-      <i c="39" l="1739105749116" />
+      <i c="49" l="1739111368537" />
     </e>
     <e n="EditorLineEnd">
-      <i c="6" l="1739104662468" />
+      <i c="8" l="1739111372230" />
     </e>
     <e n="EditorLineStart">
-      <i c="3" l="1739103426724" />
+      <i c="5" l="1739109174386" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="21" l="1739106036190" />
+      <i c="27" l="1739109195460" />
     </e>
     <e n="EditorRight">
-      <i c="19" l="1739106039209" />
+      <i c="24" l="1739108754900" />
     </e>
     <e n="EditorSelectWord">
-      <i c="32" l="1739106028218" />
+      <i c="47" l="1739111349512" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
     </e>
     <e n="EditorUp">
-      <i c="17" l="1739104677248" />
+      <i c="22" l="1739109179268" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1739108826244" />
+    </e>
+    <e n="Forward">
+      <i c="1" l="1739111253532" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1739111389803" />
     </e>
     <e n="GotoDeclaration">
-      <i c="30" l="1739106024389" />
+      <i c="53" l="1739111276114" />
     </e>
     <e n="ReformatCode">
-      <i c="2" l="1739102370176" />
+      <i c="5" l="1739109138474" />
     </e>
     <e n="Resume">
-      <i c="7" l="1739105860199" />
+      <i c="8" l="1739109304774" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1739111066650" />
     </e>
     <e n="StepOver">
       <i c="15" l="1739105899814" />
     </e>
     <e n="Stop">
-      <i c="1" l="1739106045960" />
+      <i c="4" l="1739111028485" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -82,19 +97,25 @@
       <i c="4" l="1739105862942" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="4" l="1739105868692" />
+      <i c="5" l="1739109303806" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="2" l="1739102167318" />
+      <i c="8" l="1739111236790" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="6" l="1739106049882" />
+      <i c="7" l="1739108437904" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="1" l="1739109007931" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1739111339468" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="1" l="1739104431129" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="3" l="1739101967786" />
+      <i c="7" l="1739109329551" />
     </e>
   </component>
 </application>
