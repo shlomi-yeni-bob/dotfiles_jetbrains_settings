@@ -84,6 +84,12 @@
     <e n="GitCheckoutAction">
       <i c="3" l="1739134744736" />
     </e>
+    <e n="GitRebaseBranchAction">
+      <i c="1" l="1739179154720" />
+    </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="1" l="1739179126667" />
+    </e>
     <e n="GotoDeclaration">
       <i c="61" l="1739133867184" />
     </e>
@@ -112,7 +118,10 @@
       <i c="4" l="1739105862942" />
     </e>
     <e n="Vcs.Push">
-      <i c="1" l="1739111585796" />
+      <i c="2" l="1739179164673" />
+    </e>
+    <e n="Vcs.Push.Force">
+      <i c="1" l="1739179167456" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
       <i c="5" l="1739109303806" />
@@ -134,6 +143,9 @@
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="1" l="1739104431129" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1739179119743" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="7" l="1739109329551" />
