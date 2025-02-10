@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unnecessary method referring to old system employee ids">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/PeopleAnalyticsModule.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DashboardMappingDao.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DatabaseDashboardDao.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardDao.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/DoubleWriteDashboardTranslationDao.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/KPIRecentlyViewedDashboardsDaoMappingAware.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardDao.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardDaoV2.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/dao/MappingAwareDashboardTranslationDao.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/FixOOTBDashboardNewTablesRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/OOTBDashboardNewTables.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/migrations/RecentDashboardNewDashboardIdsRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/ScheduledMigrationModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/migrations/ScheduledMigrationModule.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreatorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/migration/DefaultKPIsCreatorTest.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unused test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,8 +63,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31452546" />
-      <window_info id="Commit" order="1" weight="0.23061343" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.254919" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17207031" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -94,11 +79,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.21966732" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.22534722" />
       <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.33023483" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.33023483" />
-      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -218,6 +203,7 @@
       <workItem from="1739101637305" duration="4843000" />
       <workItem from="1739111553200" duration="2947000" />
       <workItem from="1739133318723" duration="1868000" />
+      <workItem from="1739171585472" duration="887000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -251,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739134567216</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete unused test">
+      <option name="closed" value="true" />
+      <created>1739171849970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739171849970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +279,8 @@
     <MESSAGE value="revert create dashboard state in kpi default creator" />
     <MESSAGE value="change update state to work with upsert" />
     <MESSAGE value="delete unnecessary method referring to old system employee ids" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete unnecessary method referring to old system employee ids" />
+    <MESSAGE value="delete unused test" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete unused test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
