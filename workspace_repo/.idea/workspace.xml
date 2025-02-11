@@ -130,7 +130,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DirectDashboardDaoTest (1)">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="DirectDashboardDaoTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -228,7 +228,7 @@
       <workItem from="1739196055091" duration="953000" />
       <workItem from="1739262910872" duration="770000" />
       <workItem from="1739264505262" duration="508000" />
-      <workItem from="1739282369411" duration="704000" />
+      <workItem from="1739282369411" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
