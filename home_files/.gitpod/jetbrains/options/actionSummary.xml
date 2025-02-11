@@ -9,6 +9,9 @@
     <e n="Back">
       <i c="25" l="1739111257617" />
     </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1739263125499" />
+    </e>
     <e n="CompileDirty">
       <i c="1" l="1739134973858" />
     </e>
@@ -19,7 +22,7 @@
       <i c="5" l="1739201138667" />
     </e>
     <e n="Debug">
-      <i c="9" l="1739135181777" />
+      <i c="10" l="1739263110698" />
     </e>
     <e n="EditorBackSpace">
       <i c="364" l="1739171751447" />
@@ -139,7 +142,7 @@
       <i c="2" l="1739137002487" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="2" l="1739263087148" />
+      <i c="3" l="1739263195507" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="9" l="1739133935743" />
