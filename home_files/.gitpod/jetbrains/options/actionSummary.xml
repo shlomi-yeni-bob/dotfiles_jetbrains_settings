@@ -25,7 +25,7 @@
       <i c="1" l="1738840740172" />
     </e>
     <e n="Debug">
-      <i c="35" l="1738935388491" />
+      <i c="36" l="1739283605155" />
     </e>
     <e n="EditorBackSpace">
       <i c="387" l="1738936137072" />
@@ -167,6 +167,9 @@
     </e>
     <e n="com.intellij.execution.actions.ClearConsoleAction">
       <i c="6" l="1738852624742" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="1" l="1739283604157" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1738839981242" />
