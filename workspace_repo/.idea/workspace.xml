@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricCalculator.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricController.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOneCalculator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOneOrchestrator.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOrchestrator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" afterDir="false" />
@@ -230,6 +231,7 @@
       <workItem from="1739262910872" duration="770000" />
       <workItem from="1739264505262" duration="508000" />
       <workItem from="1739282369411" duration="2267000" />
+      <workItem from="1739358384918" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
