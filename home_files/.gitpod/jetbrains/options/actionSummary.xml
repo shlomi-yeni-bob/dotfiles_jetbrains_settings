@@ -7,7 +7,7 @@
       <i c="2" l="1739285047472" />
     </e>
     <e n="$Undo">
-      <i c="21" l="1739366440689" />
+      <i c="23" l="1739368300702" />
     </e>
     <e n="Annotate">
       <i c="4" l="1739365380066" />
@@ -31,28 +31,31 @@
       <i c="40" l="1739289129773" />
     </e>
     <e n="EditorBackSpace">
-      <i c="542" l="1739366577512" />
+      <i c="552" l="1739368263966" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="89" l="1739366397392" />
+      <i c="95" l="1739368255255" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="2" l="1739367980149" />
     </e>
     <e n="EditorCopy">
-      <i c="170" l="1739366550115" />
+      <i c="176" l="1739368337210" />
     </e>
     <e n="EditorCut">
-      <i c="6" l="1739364878263" />
+      <i c="7" l="1739368103657" />
     </e>
     <e n="EditorDelete">
       <i c="7" l="1739284873927" />
     </e>
     <e n="EditorDown">
-      <i c="77" l="1739366295392" />
+      <i c="84" l="1739367973301" />
     </e>
     <e n="EditorDuplicate">
       <i c="15" l="1739364856380" />
     </e>
     <e n="EditorEnter">
-      <i c="109" l="1739366534190" />
+      <i c="110" l="1739368068199" />
     </e>
     <e n="EditorLeft">
       <i c="110" l="1739366533863" />
@@ -70,16 +73,16 @@
       <i c="1" l="1738786483016" />
     </e>
     <e n="EditorPaste">
-      <i c="109" l="1739366552088" />
+      <i c="115" l="1739368340223" />
     </e>
     <e n="EditorRight">
       <i c="101" l="1739366577212" />
     </e>
     <e n="EditorSelectWord">
-      <i c="382" l="1739366575960" />
+      <i c="397" l="1739368301830" />
     </e>
     <e n="EditorSplitLine">
-      <i c="3" l="1739366436800" />
+      <i c="4" l="1739367957386" />
     </e>
     <e n="EditorStartNewLine">
       <i c="1" l="1738848376035" />
@@ -100,16 +103,16 @@
       <i c="7" l="1739286655478" />
     </e>
     <e n="Generate">
-      <i c="8" l="1739366539928" />
+      <i c="9" l="1739367983387" />
     </e>
     <e n="Git.Pull">
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="341" l="1739366628700" />
+      <i c="344" l="1739368270801" />
     </e>
     <e n="ImplementMethods">
-      <i c="2" l="1739366541740" />
+      <i c="3" l="1739367985636" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="1" l="1738851510495" />
@@ -169,7 +172,7 @@
       <i c="14" l="1739289184536" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="99" l="1739366630192" />
+      <i c="104" l="1739368276247" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="4" l="1738936505553" />
