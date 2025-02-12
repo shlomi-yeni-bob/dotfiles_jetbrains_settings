@@ -8,7 +8,7 @@
     <feature id="editing.completion.finishBySmartEnter" count="2" last-shown="0" last-used="1739367980150" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="0" last-shown="1739368252220" last-used="0" shown-count="797" />
+    <feature id="editing.completion.replace" count="0" last-shown="1739369004392" last-used="0" shown-count="840" />
     <feature id="codeassists.complete.statement" count="2" last-shown="0" last-used="1739367980150" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="spring.endpoints.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -45,12 +45,12 @@
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="95" last-shown="0" last-used="1739368255264" shown-count="0" />
+    <feature id="editing.completion.basic" count="106" last-shown="0" last-used="1739368980496" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="397" last-shown="0" last-used="1739368301832" shown-count="0" />
+    <feature id="editing.select.word" count="414" last-shown="0" last-used="1739369088996" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -89,7 +89,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="9" last-shown="0" last-used="1739367983427" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="344" last-shown="0" last-used="1739368270810" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="360" last-shown="0" last-used="1739369014415" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -136,14 +136,14 @@
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="spring.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="694" />
-      <option name="invocations" value="57" />
+      <option name="sparedCharacters" value="716" />
+      <option name="invocations" value="62" />
       <option name="startDate" value="1738713600000" />
       <option name="dayCount" value="5" />
       <option name="lastDate" value="1739318400000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="32" />
+      <option name="invocations" value="35" />
       <option name="startDate" value="1738713600000" />
       <option name="dayCount" value="5" />
       <option name="lastDate" value="1739318400000" />
