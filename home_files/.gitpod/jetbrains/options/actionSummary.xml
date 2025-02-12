@@ -31,13 +31,13 @@
       <i c="40" l="1739289129773" />
     </e>
     <e n="EditorBackSpace">
-      <i c="502" l="1739365892769" />
+      <i c="530" l="1739366159566" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="85" l="1739365902550" />
+      <i c="87" l="1739366130445" />
     </e>
     <e n="EditorCopy">
-      <i c="165" l="1739365922853" />
+      <i c="168" l="1739366179862" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1739364878263" />
@@ -46,13 +46,13 @@
       <i c="7" l="1739284873927" />
     </e>
     <e n="EditorDown">
-      <i c="74" l="1739365697970" />
+      <i c="75" l="1739366090881" />
     </e>
     <e n="EditorDuplicate">
       <i c="15" l="1739364856380" />
     </e>
     <e n="EditorEnter">
-      <i c="102" l="1739358762019" />
+      <i c="105" l="1739366085800" />
     </e>
     <e n="EditorLeft">
       <i c="95" l="1739365697360" />
@@ -64,19 +64,19 @@
       <i c="1" l="1738786332854" />
     </e>
     <e n="EditorLineStart">
-      <i c="30" l="1739288941586" />
+      <i c="31" l="1739366053823" />
     </e>
     <e n="EditorNextWord">
       <i c="1" l="1738786483016" />
     </e>
     <e n="EditorPaste">
-      <i c="105" l="1739365923992" />
+      <i c="107" l="1739366173953" />
     </e>
     <e n="EditorRight">
       <i c="90" l="1739365686392" />
     </e>
     <e n="EditorSelectWord">
-      <i c="365" l="1739365932938" />
+      <i c="378" l="1739366178406" />
     </e>
     <e n="EditorSplitLine">
       <i c="2" l="1738834976010" />
@@ -88,7 +88,7 @@
       <i c="10" l="1738837900331" />
     </e>
     <e n="EditorUp">
-      <i c="78" l="1739289002448" />
+      <i c="81" l="1739366091317" />
     </e>
     <e n="FindInPath">
       <i c="9" l="1739289780304" />
@@ -103,7 +103,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="338" l="1739365858923" />
+      <i c="339" l="1739366041783" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="1" l="1738851510495" />
@@ -118,7 +118,7 @@
       <i c="8" l="1738933845288" />
     </e>
     <e n="NewDir">
-      <i c="1" l="1738833453635" />
+      <i c="2" l="1739366226360" />
     </e>
     <e n="NewModuleInGroup">
       <i c="1" l="1738833438668" />
@@ -139,7 +139,7 @@
       <i c="1" l="1738842149137" />
     </e>
     <e n="Scala.NewClass">
-      <i c="6" l="1739284262736" />
+      <i c="7" l="1739366252954" />
     </e>
     <e n="StepOver">
       <i c="15" l="1738851684883" />
@@ -190,7 +190,7 @@
       <i c="2" l="1738933797957" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="10" l="1739284273785" />
+      <i c="11" l="1739366269230" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1738786973050" />
@@ -202,7 +202,7 @@
       <i c="14" l="1738936524203" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
-      <i c="1" l="1738851574685" />
+      <i c="2" l="1739366102281" />
     </e>
   </component>
 </application>
