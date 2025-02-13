@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="58044" />
+  <component name="BuiltInServerOptions" builtInServerPort="62540" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -12,52 +12,52 @@
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFonts" value="true" />
   </component>
-  <component name="PropertyService">{
-  &quot;keyToString&quot;: {
-    &quot;BuildView.Splitter.Proportion&quot;: &quot;0.26603773&quot;,
-    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators&quot;: &quot;IU-243.23654.117&quot;,
-    &quot;MemberChooser.showClasses&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
-    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
-    &quot;build.toolwindow.run.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
-    &quot;com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep&quot;: &quot;IntelliJ&quot;,
-    &quot;decompiler.legal.notice.accepted&quot;: &quot;true&quot;,
-    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
-    &quot;enter_selection_count&quot;: &quot;5&quot;,
-    &quot;evlsprt3.243&quot;: &quot;6&quot;,
-    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
-    &quot;experimental.ui.used.version&quot;: &quot;243.23654.117&quot;,
-    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
-    &quot;fontSizeToResetConsole&quot;: &quot;16.0&quot;,
-    &quot;fontSizeToResetEditor&quot;: &quot;16.0&quot;,
-    &quot;got.it.tooltip.new.terminal.promotion.243&quot;: &quot;1&quot;,
-    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
-    &quot;installed.kotlin.plugin.version&quot;: &quot;243.23654.117-IJ&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-21&quot;,
-    &quot;llm.installer.activate.toolwindow.delayed&quot;: &quot;true&quot;,
-    &quot;llm.installer.last.toolwindow.state&quot;: &quot;LLM_INSTALLER&quot;,
-    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
-    &quot;previousColorScheme&quot;: &quot;_@client_Dark&quot;,
-    &quot;project.wizard.group&quot;: &quot;NPW.simple-module.Java&quot;,
-    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IU-243.23654.117&quot;,
-    &quot;rider.trace.scenarios&quot;: &quot;&quot;,
-    &quot;scala.last.updated&quot;: &quot;1739283760748&quot;,
-    &quot;ts.lib.d.ts.version&quot;: &quot;5.6.3&quot;
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "BuildView.Splitter.Proportion": "0.26603773",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.23654.117",
+    "MemberChooser.showClasses": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.243": "6",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.23654.117",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "16.0",
+    "fontSizeToResetEditor": "16.0",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "243.23654.117-IJ",
+    "jdk.selected.JAVA_MODULE": "temurin-21",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@client_Dark",
+    "project.wizard.group": "NPW.simple-module.Java",
+    "registry.to.advanced.settings.migration.build": "IU-243.23654.117",
+    "rider.trace.scenarios": "",
+    "scala.last.updated": "1739283760748",
+    "ts.lib.d.ts.version": "5.6.3"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;file.chooser.recent.files&quot;: [
-      &quot;/workspace/hibob/app/com/hibob/analytics/kpis/shlomi&quot;
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/workspace/hibob/app/com/hibob/analytics/kpis/shlomi"
     ],
-    &quot;fileTypeDetectors&quot;: [
-      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
-      &quot;com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector&quot;,
-      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
-      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
-      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
-      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
-      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
-      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
-}</component>
+}]]></component>
 </application>
