@@ -16,7 +16,7 @@
       <i c="4" l="1739365380066" />
     </e>
     <e n="Back">
-      <i c="401" l="1739815761863" />
+      <i c="402" l="1739818076606" />
     </e>
     <e n="CommentByLineComment">
       <i c="13" l="1739371515220" />
@@ -31,16 +31,25 @@
       <i c="1" l="1739358698045" />
     </e>
     <e n="Debug">
-      <i c="63" l="1739816959622" />
+      <i c="64" l="1739817240194" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1739817024233" />
     </e>
+    <e n="Docker.RemoteServers.RestartComposeApp">
+      <i c="1" l="1739817042644" />
+    </e>
+    <e n="Docker.RemoteServers.StartAllComposeApp">
+      <i c="1" l="1739817080283" />
+    </e>
+    <e n="Docker.RemoteServers.StartContainer">
+      <i c="1" l="1739817063652" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="778" l="1739783433387" />
+      <i c="779" l="1739817183623" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="118" l="1739815994858" />
+      <i c="119" l="1739817185924" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739370650134" />
@@ -49,7 +58,7 @@
       <i c="2" l="1739367980149" />
     </e>
     <e n="EditorCopy">
-      <i c="230" l="1739815998721" />
+      <i c="232" l="1739817191523" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1739456786838" />
@@ -94,7 +103,7 @@
       <i c="121" l="1739783432528" />
     </e>
     <e n="EditorSelectWord">
-      <i c="515" l="1739815998034" />
+      <i c="518" l="1739817190824" />
     </e>
     <e n="EditorSplitLine">
       <i c="4" l="1739367957386" />
@@ -124,7 +133,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="480" l="1739815732909" />
+      <i c="484" l="1739818112420" />
     </e>
     <e n="ImplementMethods">
       <i c="3" l="1739367985636" />

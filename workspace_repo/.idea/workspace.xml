@@ -104,10 +104,10 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.324364" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.324364" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.30479452" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.324364" />
-      <window_info active="true" anchor="bottom" id="Services" order="7" visible="true" weight="0.324364" />
+      <window_info anchor="bottom" id="Services" order="7" weight="0.324364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -239,7 +239,7 @@
       <workItem from="1739455369040" duration="404000" />
       <workItem from="1739772941639" duration="11756000" />
       <workItem from="1739811854828" duration="2603000" />
-      <workItem from="1739816670524" duration="356000" />
+      <workItem from="1739816670524" duration="1922000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -342,9 +342,9 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/package.scala</url>
-          <line>92</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsGroupByFieldsProvider.scala</url>
+          <line>35</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
