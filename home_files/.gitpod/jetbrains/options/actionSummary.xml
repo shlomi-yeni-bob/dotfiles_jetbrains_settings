@@ -31,7 +31,7 @@
       <i c="1" l="1739358698045" />
     </e>
     <e n="Debug">
-      <i c="59" l="1739816005419" />
+      <i c="63" l="1739816959622" />
     </e>
     <e n="EditorBackSpace">
       <i c="778" l="1739783433387" />
@@ -169,7 +169,7 @@
       <i c="15" l="1738851684883" />
     </e>
     <e n="Stop">
-      <i c="20" l="1739375135893" />
+      <i c="22" l="1739816896550" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="34" l="1739456081526" />
@@ -202,7 +202,7 @@
       <i c="1" l="1739774777401" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="3" l="1739812512328" />
+      <i c="4" l="1739816690937" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="2" l="1739790842859" />
