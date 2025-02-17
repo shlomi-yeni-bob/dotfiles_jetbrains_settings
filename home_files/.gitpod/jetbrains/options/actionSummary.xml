@@ -16,7 +16,7 @@
       <i c="4" l="1739365380066" />
     </e>
     <e n="Back">
-      <i c="395" l="1739791459351" />
+      <i c="401" l="1739815761863" />
     </e>
     <e n="CommentByLineComment">
       <i c="13" l="1739371515220" />
@@ -31,13 +31,13 @@
       <i c="1" l="1739358698045" />
     </e>
     <e n="Debug">
-      <i c="58" l="1739812513899" />
+      <i c="59" l="1739816005419" />
     </e>
     <e n="EditorBackSpace">
       <i c="778" l="1739783433387" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="116" l="1739456749972" />
+      <i c="118" l="1739815994858" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739370650134" />
@@ -46,7 +46,7 @@
       <i c="2" l="1739367980149" />
     </e>
     <e n="EditorCopy">
-      <i c="228" l="1739457564259" />
+      <i c="230" l="1739815998721" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1739456786838" />
@@ -85,13 +85,13 @@
       <i c="1" l="1738786483016" />
     </e>
     <e n="EditorPaste">
-      <i c="170" l="1739790841044" />
+      <i c="171" l="1739816000251" />
     </e>
     <e n="EditorRight">
       <i c="121" l="1739783432528" />
     </e>
     <e n="EditorSelectWord">
-      <i c="510" l="1739791383927" />
+      <i c="515" l="1739815998034" />
     </e>
     <e n="EditorSplitLine">
       <i c="4" l="1739367957386" />
@@ -121,7 +121,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="474" l="1739791382158" />
+      <i c="480" l="1739815732909" />
     </e>
     <e n="ImplementMethods">
       <i c="3" l="1739367985636" />
@@ -196,7 +196,7 @@
       <i c="1" l="1738833475398" />
     </e>
     <e n="com.intellij.execution.actions.ClearConsoleAction">
-      <i c="6" l="1738852624742" />
+      <i c="8" l="1739815871597" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="1" l="1739774777401" />
