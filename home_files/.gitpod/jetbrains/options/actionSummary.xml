@@ -198,6 +198,9 @@
     <e n="com.intellij.execution.actions.ClearConsoleAction">
       <i c="6" l="1738852624742" />
     </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1739774777401" />
+    </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="2" l="1739455585249" />
     </e>
