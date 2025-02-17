@@ -33,6 +33,9 @@
     <e n="Debug">
       <i c="63" l="1739816959622" />
     </e>
+    <e n="Docker.AddDockerConnection">
+      <i c="1" l="1739817024233" />
+    </e>
     <e n="EditorBackSpace">
       <i c="778" l="1739783433387" />
     </e>
@@ -161,6 +164,9 @@
     </e>
     <e n="Scala.NewClass">
       <i c="7" l="1739366252954" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="1" l="1739817020410" />
     </e>
     <e n="ShowUmlDiagram">
       <i c="1" l="1739374858595" />
