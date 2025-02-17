@@ -16,7 +16,7 @@
       <i c="4" l="1739365380066" />
     </e>
     <e n="Back">
-      <i c="429" l="1739819661217" />
+      <i c="434" l="1739820149122" />
     </e>
     <e n="CommentByLineComment">
       <i c="13" l="1739371515220" />
@@ -58,7 +58,7 @@
       <i c="2" l="1739367980149" />
     </e>
     <e n="EditorCopy">
-      <i c="232" l="1739817191523" />
+      <i c="234" l="1739821341173" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1739456786838" />
@@ -103,7 +103,7 @@
       <i c="121" l="1739783432528" />
     </e>
     <e n="EditorSelectWord">
-      <i c="518" l="1739817190824" />
+      <i c="520" l="1739821339635" />
     </e>
     <e n="EditorSplitLine">
       <i c="4" l="1739367957386" />
@@ -133,7 +133,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="506" l="1739819885234" />
+      <i c="510" l="1739821308844" />
     </e>
     <e n="ImplementMethods">
       <i c="3" l="1739367985636" />
@@ -166,7 +166,7 @@
       <i c="1" l="1738850325019" />
     </e>
     <e n="Resume">
-      <i c="101" l="1739819701226" />
+      <i c="141" l="1739820017442" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1738842149137" />
@@ -181,10 +181,10 @@
       <i c="1" l="1739374858595" />
     </e>
     <e n="StepOver">
-      <i c="21" l="1739819684294" />
+      <i c="23" l="1739820030866" />
     </e>
     <e n="Stop">
-      <i c="22" l="1739816896550" />
+      <i c="23" l="1739820084536" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="36" l="1739819925707" />
@@ -208,7 +208,7 @@
       <i c="17" l="1739371722871" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="127" l="1739819652987" />
+      <i c="129" l="1739821299344" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="4" l="1738936505553" />
@@ -247,7 +247,7 @@
       <i c="67" l="1739790670277" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="15" l="1739818181800" />
+      <i c="16" l="1739819978384" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="2" l="1739366102281" />
