@@ -239,7 +239,7 @@
       <workItem from="1739455369040" duration="404000" />
       <workItem from="1739772941639" duration="11756000" />
       <workItem from="1739811854828" duration="2603000" />
-      <workItem from="1739816670524" duration="1922000" />
+      <workItem from="1739816670524" duration="3162000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -345,6 +345,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsGroupByFieldsProvider.scala</url>
           <line>35</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/SupportsOptionValues.scala</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
