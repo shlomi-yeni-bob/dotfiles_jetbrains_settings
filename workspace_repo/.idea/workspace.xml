@@ -88,7 +88,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09817709" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07942708" />
       <window_info id="Commit" order="1" weight="0.15878907" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
@@ -104,8 +104,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33116233" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.45641282" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4052133" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.4052133" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.324364" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.324364" />
@@ -242,7 +242,7 @@
       <workItem from="1739811854828" duration="2603000" />
       <workItem from="1739816670524" duration="4040000" />
       <workItem from="1739864693337" duration="4956000" />
-      <workItem from="1739880501440" duration="374000" />
+      <workItem from="1739880501440" duration="4614000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />

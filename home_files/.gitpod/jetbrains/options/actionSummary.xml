@@ -16,7 +16,7 @@
       <i c="4" l="1739365380066" />
     </e>
     <e n="Back">
-      <i c="472" l="1739879728015" />
+      <i c="491" l="1739889209039" />
     </e>
     <e n="CommentByLineComment">
       <i c="14" l="1739865336056" />
@@ -58,7 +58,7 @@
       <i c="2" l="1739367980149" />
     </e>
     <e n="EditorCopy">
-      <i c="247" l="1739875850002" />
+      <i c="248" l="1739888662149" />
     </e>
     <e n="EditorCut">
       <i c="10" l="1739865326098" />
@@ -100,7 +100,7 @@
       <i c="1" l="1738786483016" />
     </e>
     <e n="EditorPaste">
-      <i c="184" l="1739875741780" />
+      <i c="187" l="1739888663823" />
     </e>
     <e n="EditorRight">
       <i c="143" l="1739867426086" />
@@ -109,7 +109,7 @@
       <i c="2" l="1739867430176" />
     </e>
     <e n="EditorSelectWord">
-      <i c="548" l="1739880826590" />
+      <i c="552" l="1739884576925" />
     </e>
     <e n="EditorSplitLine">
       <i c="4" l="1739367957386" />
@@ -130,10 +130,10 @@
       <i c="1" l="1739865064678" />
     </e>
     <e n="FindInPath">
-      <i c="18" l="1739880827744" />
+      <i c="21" l="1739888663057" />
     </e>
     <e n="Forward">
-      <i c="24" l="1739875165329" />
+      <i c="27" l="1739888508502" />
     </e>
     <e n="Generate">
       <i c="9" l="1739367983387" />
@@ -142,7 +142,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="617" l="1739880849241" />
+      <i c="639" l="1739889203615" />
     </e>
     <e n="ImplementMethods">
       <i c="3" l="1739367985636" />
@@ -175,7 +175,7 @@
       <i c="1" l="1738850325019" />
     </e>
     <e n="Resume">
-      <i c="194" l="1739880744762" />
+      <i c="198" l="1739889028677" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1738842149137" />
@@ -214,10 +214,10 @@
       <i c="7" l="1738773501467" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="31" l="1739875809788" />
+      <i c="32" l="1739889027402" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="150" l="1739879523720" />
+      <i c="164" l="1739889060532" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="4" l="1738936505553" />
@@ -235,10 +235,13 @@
       <i c="5" l="1739880589390" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="5" l="1739880838881" />
+      <i c="8" l="1739888668984" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="4" l="1739880775438" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1739889026784" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="2" l="1739364281447" />
@@ -253,10 +256,10 @@
       <i c="1" l="1738786973050" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="71" l="1739880834624" />
+      <i c="74" l="1739888665278" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="3" l="1739880837009" />
+      <i c="4" l="1739888665940" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="26" l="1739880747972" />
