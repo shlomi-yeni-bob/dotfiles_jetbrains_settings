@@ -13,13 +13,13 @@
       <i c="52" l="1739880060627" />
     </e>
     <e n="Annotate">
-      <i c="4" l="1739365380066" />
+      <i c="5" l="1739890785166" />
     </e>
     <e n="Back">
-      <i c="491" l="1739889209039" />
+      <i c="533" l="1739891900063" />
     </e>
     <e n="CommentByLineComment">
-      <i c="14" l="1739865336056" />
+      <i c="18" l="1739891389407" />
     </e>
     <e n="CopyContentRootPath">
       <i c="1" l="1738785750328" />
@@ -28,7 +28,7 @@
       <i c="1" l="1738840740172" />
     </e>
     <e n="CopyReference">
-      <i c="1" l="1739358698045" />
+      <i c="2" l="1739890380433" />
     </e>
     <e n="Debug">
       <i c="81" l="1739880590749" />
@@ -46,10 +46,10 @@
       <i c="1" l="1739817063652" />
     </e>
     <e n="EditorBackSpace">
-      <i c="848" l="1739880804133" />
+      <i c="857" l="1739894445335" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="124" l="1739879938546" />
+      <i c="125" l="1739894454779" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739370650134" />
@@ -58,7 +58,7 @@
       <i c="2" l="1739367980149" />
     </e>
     <e n="EditorCopy">
-      <i c="248" l="1739888662149" />
+      <i c="259" l="1739894461069" />
     </e>
     <e n="EditorCut">
       <i c="10" l="1739865326098" />
@@ -76,7 +76,7 @@
       <i c="28" l="1739868370767" />
     </e>
     <e n="EditorEnter">
-      <i c="150" l="1739879929762" />
+      <i c="152" l="1739894418196" />
     </e>
     <e n="EditorLeft">
       <i c="207" l="1739868014403" />
@@ -91,7 +91,7 @@
       <i c="4" l="1739867931932" />
     </e>
     <e n="EditorLineStart">
-      <i c="35" l="1739865206307" />
+      <i c="36" l="1739894417636" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="3" l="1739867429749" />
@@ -100,16 +100,16 @@
       <i c="1" l="1738786483016" />
     </e>
     <e n="EditorPaste">
-      <i c="187" l="1739888663823" />
+      <i c="188" l="1739894462282" />
     </e>
     <e n="EditorRight">
       <i c="143" l="1739867426086" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="2" l="1739867430176" />
+      <i c="3" l="1739890654475" />
     </e>
     <e n="EditorSelectWord">
-      <i c="552" l="1739884576925" />
+      <i c="564" l="1739894460386" />
     </e>
     <e n="EditorSplitLine">
       <i c="4" l="1739367957386" />
@@ -124,13 +124,13 @@
       <i c="12" l="1739867915766" />
     </e>
     <e n="EditorUp">
-      <i c="112" l="1739867432011" />
+      <i c="114" l="1739894418516" />
     </e>
     <e n="EvaluateExpression">
       <i c="1" l="1739865064678" />
     </e>
     <e n="FindInPath">
-      <i c="21" l="1739888663057" />
+      <i c="23" l="1739890680173" />
     </e>
     <e n="Forward">
       <i c="27" l="1739888508502" />
@@ -142,7 +142,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="639" l="1739889203615" />
+      <i c="694" l="1739894283146" />
     </e>
     <e n="ImplementMethods">
       <i c="3" l="1739367985636" />
@@ -217,7 +217,7 @@
       <i c="32" l="1739889027402" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="164" l="1739889060532" />
+      <i c="183" l="1739894305304" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="4" l="1738936505553" />
@@ -244,7 +244,7 @@
       <i c="1" l="1739889026784" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
-      <i c="2" l="1739364281447" />
+      <i c="3" l="1739890804365" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="2" l="1738933797957" />
@@ -256,10 +256,10 @@
       <i c="1" l="1738786973050" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="74" l="1739888665278" />
+      <i c="84" l="1739890686917" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="4" l="1739888665940" />
+      <i c="6" l="1739890687772" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="26" l="1739880747972" />
