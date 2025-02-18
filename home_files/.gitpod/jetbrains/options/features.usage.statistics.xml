@@ -45,12 +45,12 @@
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="123" last-shown="0" last-used="1739870619612" shown-count="0" />
+    <feature id="editing.completion.basic" count="124" last-shown="0" last-used="1739879938705" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="532" last-shown="0" last-used="1739869809209" shown-count="0" />
+    <feature id="editing.select.word" count="544" last-shown="0" last-used="1739879377530" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="1" last-shown="0" last-used="1739865066982" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -89,7 +89,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="9" last-shown="0" last-used="1739367983427" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="549" last-shown="0" last-used="1739870695084" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="616" last-shown="0" last-used="1739880249471" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -136,8 +136,8 @@
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="spring.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="899" />
-      <option name="invocations" value="77" />
+      <option name="sparedCharacters" value="901" />
+      <option name="invocations" value="78" />
       <option name="startDate" value="1738713600000" />
       <option name="dayCount" value="7" />
       <option name="lastDate" value="1739836800000" />
