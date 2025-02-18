@@ -31,7 +31,7 @@
       <i c="1" l="1739358698045" />
     </e>
     <e n="Debug">
-      <i c="80" l="1739880339826" />
+      <i c="81" l="1739880590749" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1739817024233" />
@@ -46,7 +46,7 @@
       <i c="1" l="1739817063652" />
     </e>
     <e n="EditorBackSpace">
-      <i c="841" l="1739879936068" />
+      <i c="848" l="1739880804133" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="124" l="1739879938546" />
@@ -109,7 +109,7 @@
       <i c="2" l="1739867430176" />
     </e>
     <e n="EditorSelectWord">
-      <i c="544" l="1739879377528" />
+      <i c="548" l="1739880826590" />
     </e>
     <e n="EditorSplitLine">
       <i c="4" l="1739367957386" />
@@ -130,7 +130,7 @@
       <i c="1" l="1739865064678" />
     </e>
     <e n="FindInPath">
-      <i c="15" l="1739870208270" />
+      <i c="18" l="1739880827744" />
     </e>
     <e n="Forward">
       <i c="24" l="1739875165329" />
@@ -142,7 +142,7 @@
       <i c="1" l="1738773245715" />
     </e>
     <e n="GotoDeclaration">
-      <i c="616" l="1739880249466" />
+      <i c="617" l="1739880849241" />
     </e>
     <e n="ImplementMethods">
       <i c="3" l="1739367985636" />
@@ -175,7 +175,7 @@
       <i c="1" l="1738850325019" />
     </e>
     <e n="Resume">
-      <i c="187" l="1739875810707" />
+      <i c="194" l="1739880744762" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1738842149137" />
@@ -232,13 +232,13 @@
       <i c="1" l="1739774777401" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="4" l="1739816690937" />
+      <i c="5" l="1739880589390" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="3" l="1739870215073" />
+      <i c="5" l="1739880838881" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="3" l="1739870053664" />
+      <i c="4" l="1739880775438" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="2" l="1739364281447" />
@@ -253,10 +253,13 @@
       <i c="1" l="1738786973050" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="67" l="1739790670277" />
+      <i c="71" l="1739880834624" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="3" l="1739880837009" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="18" l="1739868443891" />
+      <i c="26" l="1739880747972" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="2" l="1739366102281" />
