@@ -104,7 +104,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.21848342" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3369668" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3255924" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.324364" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.324364" />
@@ -240,7 +240,7 @@
       <workItem from="1739772941639" duration="11756000" />
       <workItem from="1739811854828" duration="2603000" />
       <workItem from="1739816670524" duration="4040000" />
-      <workItem from="1739864693337" duration="1424000" />
+      <workItem from="1739864693337" duration="1767000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -346,6 +346,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomiMigrationCount/ShlomiCountMigrationController.scala</url>
           <line>53</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomiMigrationCount/ShlomiCountMigrationController.scala</url>
+          <line>62</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
