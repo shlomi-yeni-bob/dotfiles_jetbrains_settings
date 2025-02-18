@@ -104,7 +104,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.21848342" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3255924" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.42701423" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.324364" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.324364" />
@@ -120,7 +120,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
-      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.33015046" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.32994792" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -240,7 +240,7 @@
       <workItem from="1739772941639" duration="11756000" />
       <workItem from="1739811854828" duration="2603000" />
       <workItem from="1739816670524" duration="4040000" />
-      <workItem from="1739864693337" duration="1767000" />
+      <workItem from="1739864693337" duration="2086000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
