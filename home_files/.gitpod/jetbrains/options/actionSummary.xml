@@ -22,7 +22,10 @@
       <i c="5" l="1739201138667" />
     </e>
     <e n="Debug">
-      <i c="12" l="1739963730728" />
+      <i c="13" l="1739963787889" />
+    </e>
+    <e n="Docker.AddDockerConnection">
+      <i c="1" l="1739964083319" />
     </e>
     <e n="EditorBackSpace">
       <i c="364" l="1739171751447" />
@@ -110,6 +113,9 @@
     </e>
     <e n="RunClass">
       <i c="1" l="1739111066650" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="2" l="1739964080359" />
     </e>
     <e n="StepOver">
       <i c="15" l="1739105899814" />
