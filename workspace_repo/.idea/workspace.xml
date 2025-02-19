@@ -222,7 +222,7 @@
       <workItem from="1739864693337" duration="4956000" />
       <workItem from="1739880501440" duration="8595000" />
       <workItem from="1739963632068" duration="454000" />
-      <workItem from="1739974163745" duration="3639000" />
+      <workItem from="1739974163745" duration="3942000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -330,24 +330,6 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeKPIResultSummaryWriter.scala</url>
-          <line>54</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeKPIResultSummaryWriter.scala</url>
-          <line>72</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeKPIResultSummaryWriter.scala</url>
-          <line>63</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIGraphWriter.scala</url>
           <line>41</line>
           <option name="timeStamp" value="26" />
@@ -359,8 +341,26 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
+          <line>49</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
           <line>45</line>
-          <option name="timeStamp" value="30" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
+          <line>51</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
+          <line>52</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
