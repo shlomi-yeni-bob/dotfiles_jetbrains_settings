@@ -4,13 +4,19 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="7" l="1739137022717" />
+      <i c="19" l="1739971054998" />
+    </e>
+    <e n="Annotate">
+      <i c="8" l="1739970747031" />
     </e>
     <e n="Back">
-      <i c="25" l="1739111257617" />
+      <i c="51" l="1739972527856" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1739263125499" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1739972574203" />
     </e>
     <e n="CompileDirty">
       <i c="1" l="1739134973858" />
@@ -19,40 +25,46 @@
       <i c="2" l="1739135113960" />
     </e>
     <e n="CopyReference">
-      <i c="5" l="1739201138667" />
+      <i c="6" l="1739970250138" />
     </e>
     <e n="Debug">
-      <i c="13" l="1739963787889" />
+      <i c="21" l="1739972577514" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1739964083319" />
     </e>
+    <e n="Docker.RemoteServers.RestartComposeApp">
+      <i c="1" l="1739964094476" />
+    </e>
+    <e n="Docker.RemoteServers.StartAllComposeApp">
+      <i c="1" l="1739964104378" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="364" l="1739171751447" />
+      <i c="408" l="1739971235456" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="61" l="1739134866466" />
+      <i c="70" l="1739971221823" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="34" l="1739200969367" />
+      <i c="42" l="1739971067110" />
     </e>
     <e n="EditorCut">
-      <i c="5" l="1739135096867" />
+      <i c="6" l="1739971032376" />
     </e>
     <e n="EditorDown">
-      <i c="25" l="1739134877440" />
+      <i c="26" l="1739971236735" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1739108400401" />
     </e>
     <e n="EditorEnter">
-      <i c="36" l="1739134886283" />
+      <i c="40" l="1739971203253" />
     </e>
     <e n="EditorLeft">
-      <i c="49" l="1739111368537" />
+      <i c="54" l="1739971028291" />
     </e>
     <e n="EditorLineEnd">
       <i c="9" l="1739134540778" />
@@ -64,13 +76,13 @@
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="28" l="1739112060231" />
+      <i c="37" l="1739971072966" />
     </e>
     <e n="EditorRight">
-      <i c="24" l="1739108754900" />
+      <i c="25" l="1739971236117" />
     </e>
     <e n="EditorSelectWord">
-      <i c="68" l="1739201131949" />
+      <i c="84" l="1739971062837" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
@@ -78,11 +90,14 @@
     <e n="EditorUp">
       <i c="23" l="1739134867202" />
     </e>
+    <e n="EvaluateExpression">
+      <i c="1" l="1739964390230" />
+    </e>
     <e n="FindInPath">
-      <i c="1" l="1739108826244" />
+      <i c="2" l="1739964556635" />
     </e>
     <e n="Forward">
-      <i c="1" l="1739111253532" />
+      <i c="3" l="1739968763755" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="10" l="1739171842865" />
@@ -100,7 +115,7 @@
       <i c="3" l="1739263053266" />
     </e>
     <e n="GotoDeclaration">
-      <i c="66" l="1739201147580" />
+      <i c="130" l="1739972564579" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1739109138474" />
@@ -109,7 +124,7 @@
       <i c="1" l="1739201152637" />
     </e>
     <e n="Resume">
-      <i c="8" l="1739109304774" />
+      <i c="84" l="1739969900951" />
     </e>
     <e n="RunClass">
       <i c="1" l="1739111066650" />
@@ -118,10 +133,10 @@
       <i c="2" l="1739964080359" />
     </e>
     <e n="StepOver">
-      <i c="15" l="1739105899814" />
+      <i c="106" l="1739970897146" />
     </e>
     <e n="Stop">
-      <i c="10" l="1739263688474" />
+      <i c="17" l="1739971299505" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -130,7 +145,19 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="4" l="1739105862942" />
+      <i c="47" l="1739970817978" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="22" l="1739968678773" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="94" l="1739968282672" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="15" l="1739968685289" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="23" l="1739968685115" />
     </e>
     <e n="Vcs.Push">
       <i c="3" l="1739263697272" />
@@ -139,22 +166,25 @@
       <i c="2" l="1739263706460" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="5" l="1739109303806" />
+      <i c="31" l="1739970053140" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="15" l="1739134935254" />
+      <i c="21" l="1739967965419" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="2" l="1739137002487" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="3" l="1739263195507" />
+      <i c="4" l="1739974498567" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="9" l="1739133935743" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="4" l="1739963727933" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1739964565120" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1739111339468" />
@@ -165,8 +195,14 @@
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1739179119743" />
     </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="2" l="1739964562112" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="3" l="1739964563734" />
+    </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="7" l="1739109329551" />
+      <i c="38" l="1739969730060" />
     </e>
   </component>
 </application>
