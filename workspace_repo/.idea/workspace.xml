@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unused test">
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountGroupByProvider.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiCountKPIController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiKPIFetcher.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricCalculator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOneCalculator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOneOrchestrator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomi/ShlomiMetricOrchestrator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomiMigrationCount/ShlomiCountMigrationController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/shlomiMigrationCount/ShlomiMigrationCountGroupByProvider.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIToControllerMapper.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/augmentation/package.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardToControllerMapper.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIAdditionalColumnsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIAdditionalColumnsProvider.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIDashboard.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIExternalPermissionsFactory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIExternalPermissionsFactory.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadata.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/AnalyticsKPIMetadata.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/WidgetConfiguration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/WidgetConfiguration.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/groupby/KPIGroupByFieldValidator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/groupby/KPIGroupByFieldValidator.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsKPIOptionsFactory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsKPIOptionsFactory.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricOrchestratorProvider.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/KPIMetricType.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/messages" beforeDir="false" afterPath="$PROJECT_DIR$/conf/messages" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unused test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/remove-kpi-system-considertion-from-kpi-dao" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/delete-not-used-dashboard-daos" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,7 +64,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07942708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.043554686" />
       <window_info id="Commit" order="1" weight="0.15878907" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
@@ -104,8 +80,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4052133" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.17014217" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2433726" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.2433726" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.324364" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.324364" />
@@ -121,7 +97,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.32994792" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.18027344" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -243,6 +219,7 @@
       <workItem from="1739816670524" duration="4040000" />
       <workItem from="1739864693337" duration="4956000" />
       <workItem from="1739880501440" duration="8595000" />
+      <workItem from="1739963632068" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />

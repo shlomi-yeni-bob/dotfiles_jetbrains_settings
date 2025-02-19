@@ -1,271 +1,166 @@
 <application>
   <component name="ActionsLocalSummary">
-    <e n="$Copy">
-      <i c="4" l="1739371982823" />
-    </e>
-    <e n="$Paste">
-      <i c="3" l="1739371983260" />
-    </e>
-    <e n="$SelectAll">
-      <i c="1" l="1739372268886" />
+    <e n="$Delete">
+      <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="52" l="1739880060627" />
-    </e>
-    <e n="Annotate">
-      <i c="5" l="1739890785166" />
+      <i c="7" l="1739137022717" />
     </e>
     <e n="Back">
-      <i c="533" l="1739891900063" />
+      <i c="25" l="1739111257617" />
     </e>
-    <e n="CommentByLineComment">
-      <i c="18" l="1739891389407" />
+    <e n="ChangesView.Revert">
+      <i c="1" l="1739263125499" />
     </e>
-    <e n="CopyContentRootPath">
-      <i c="1" l="1738785750328" />
+    <e n="CompileDirty">
+      <i c="1" l="1739134973858" />
     </e>
-    <e n="CopyPathFromRepositoryRootProvider">
-      <i c="1" l="1738840740172" />
+    <e n="CompileProject">
+      <i c="2" l="1739135113960" />
     </e>
     <e n="CopyReference">
-      <i c="2" l="1739890380433" />
+      <i c="5" l="1739201138667" />
     </e>
     <e n="Debug">
-      <i c="81" l="1739880590749" />
-    </e>
-    <e n="Docker.AddDockerConnection">
-      <i c="1" l="1739817024233" />
-    </e>
-    <e n="Docker.RemoteServers.RestartComposeApp">
-      <i c="1" l="1739817042644" />
-    </e>
-    <e n="Docker.RemoteServers.StartAllComposeApp">
-      <i c="1" l="1739817080283" />
-    </e>
-    <e n="Docker.RemoteServers.StartContainer">
-      <i c="1" l="1739817063652" />
+      <i c="12" l="1739963730728" />
     </e>
     <e n="EditorBackSpace">
-      <i c="857" l="1739894445335" />
+      <i c="364" l="1739171751447" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="125" l="1739894454779" />
+      <i c="61" l="1739134866466" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="1" l="1739370650134" />
-    </e>
-    <e n="EditorCompleteStatement">
-      <i c="2" l="1739367980149" />
+      <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="259" l="1739894461069" />
+      <i c="34" l="1739200969367" />
     </e>
     <e n="EditorCut">
-      <i c="10" l="1739865326098" />
-    </e>
-    <e n="EditorDelete">
-      <i c="14" l="1739456349396" />
+      <i c="5" l="1739135096867" />
     </e>
     <e n="EditorDown">
-      <i c="125" l="1739868013207" />
-    </e>
-    <e n="EditorDownWithSelection">
-      <i c="4" l="1739456213445" />
+      <i c="25" l="1739134877440" />
     </e>
     <e n="EditorDuplicate">
-      <i c="28" l="1739868370767" />
+      <i c="2" l="1739108400401" />
     </e>
     <e n="EditorEnter">
-      <i c="152" l="1739894418196" />
+      <i c="36" l="1739134886283" />
     </e>
     <e n="EditorLeft">
-      <i c="207" l="1739868014403" />
-    </e>
-    <e n="EditorLeftWithSelection">
-      <i c="29" l="1739867932923" />
+      <i c="49" l="1739111368537" />
     </e>
     <e n="EditorLineEnd">
-      <i c="41" l="1739783431844" />
-    </e>
-    <e n="EditorLineEndWithSelection">
-      <i c="4" l="1739867931932" />
+      <i c="9" l="1739134540778" />
     </e>
     <e n="EditorLineStart">
-      <i c="36" l="1739894417636" />
+      <i c="5" l="1739109174386" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="3" l="1739867429749" />
-    </e>
-    <e n="EditorNextWord">
-      <i c="1" l="1738786483016" />
+      <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="188" l="1739894462282" />
+      <i c="28" l="1739112060231" />
     </e>
     <e n="EditorRight">
-      <i c="143" l="1739867426086" />
-    </e>
-    <e n="EditorRightWithSelection">
-      <i c="3" l="1739890654475" />
+      <i c="24" l="1739108754900" />
     </e>
     <e n="EditorSelectWord">
-      <i c="564" l="1739894460386" />
-    </e>
-    <e n="EditorSplitLine">
-      <i c="4" l="1739367957386" />
-    </e>
-    <e n="EditorStartNewLine">
-      <i c="1" l="1738848376035" />
-    </e>
-    <e n="EditorStartNewLineBefore">
-      <i c="1" l="1739366294396" />
+      <i c="68" l="1739201131949" />
     </e>
     <e n="EditorTab">
-      <i c="12" l="1739867915766" />
+      <i c="1" l="1739103130112" />
     </e>
     <e n="EditorUp">
-      <i c="114" l="1739894418516" />
-    </e>
-    <e n="EvaluateExpression">
-      <i c="1" l="1739865064678" />
+      <i c="23" l="1739134867202" />
     </e>
     <e n="FindInPath">
-      <i c="23" l="1739890680173" />
+      <i c="1" l="1739108826244" />
     </e>
     <e n="Forward">
-      <i c="27" l="1739888508502" />
+      <i c="1" l="1739111253532" />
     </e>
-    <e n="Generate">
-      <i c="9" l="1739367983387" />
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="10" l="1739171842865" />
     </e>
     <e n="Git.Pull">
-      <i c="1" l="1738773245715" />
+      <i c="4" l="1739963712956" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="4" l="1739963682774" />
+    </e>
+    <e n="GitRebaseBranchAction">
+      <i c="3" l="1739263074212" />
+    </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="3" l="1739263053266" />
     </e>
     <e n="GotoDeclaration">
-      <i c="694" l="1739894283146" />
-    </e>
-    <e n="ImplementMethods">
-      <i c="3" l="1739367985636" />
-    </e>
-    <e n="InsertInlineCompletionAction">
-      <i c="1" l="1738851510495" />
-    </e>
-    <e n="Move">
-      <i c="2" l="1738833543363" />
-    </e>
-    <e n="MoveStatementDown">
-      <i c="28" l="1739783452973" />
-    </e>
-    <e n="MoveStatementUp">
-      <i c="8" l="1738933845288" />
-    </e>
-    <e n="NewDir">
-      <i c="2" l="1739366226360" />
-    </e>
-    <e n="NewModuleInGroup">
-      <i c="1" l="1738833438668" />
-    </e>
-    <e n="OverrideMethods">
-      <i c="3" l="1738936124253" />
+      <i c="66" l="1739201147580" />
     </e>
     <e n="ReformatCode">
-      <i c="6" l="1739456516448" />
+      <i c="5" l="1739109138474" />
     </e>
     <e n="RenameElement">
-      <i c="1" l="1738850325019" />
+      <i c="1" l="1739201152637" />
     </e>
     <e n="Resume">
-      <i c="198" l="1739889028677" />
+      <i c="8" l="1739109304774" />
     </e>
-    <e n="RunToCursor">
-      <i c="1" l="1738842149137" />
-    </e>
-    <e n="Scala.NewClass">
-      <i c="7" l="1739366252954" />
-    </e>
-    <e n="ServiceView.AddService">
-      <i c="1" l="1739817020410" />
-    </e>
-    <e n="ShowUmlDiagram">
-      <i c="1" l="1739374858595" />
+    <e n="RunClass">
+      <i c="1" l="1739111066650" />
     </e>
     <e n="StepOver">
-      <i c="60" l="1739875795844" />
+      <i c="15" l="1739105899814" />
     </e>
     <e n="Stop">
-      <i c="29" l="1739880146494" />
+      <i c="10" l="1739263688474" />
+    </e>
+    <e n="Table-selectNextRow">
+      <i c="162" l="1739105771194" />
+    </e>
+    <e n="Table-selectPreviousRow">
+      <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="55" l="1739875702338" />
+      <i c="4" l="1739105862942" />
     </e>
-    <e n="Tree-selectChild">
-      <i c="1" l="1739819541721" />
+    <e n="Vcs.Push">
+      <i c="3" l="1739263697272" />
     </e>
-    <e n="Tree-selectNext">
-      <i c="4" l="1739819541299" />
-    </e>
-    <e n="Tree-selectNextExtendSelection">
-      <i c="11" l="1738773504167" />
-    </e>
-    <e n="Tree-selectParent">
-      <i c="1" l="1739819544300" />
-    </e>
-    <e n="Tree-selectPrevious">
-      <i c="7" l="1738773501467" />
+    <e n="Vcs.Push.Force">
+      <i c="2" l="1739263706460" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="32" l="1739889027402" />
+      <i c="5" l="1739109303806" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="183" l="1739894305304" />
+      <i c="15" l="1739134935254" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="4" l="1738936505553" />
-    </e>
-    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
-      <i c="1" l="1738833475398" />
-    </e>
-    <e n="com.intellij.execution.actions.ClearConsoleAction">
-      <i c="8" l="1739815871597" />
+      <i c="2" l="1739137002487" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="1" l="1739774777401" />
+      <i c="3" l="1739263195507" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="9" l="1739133935743" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="5" l="1739880589390" />
-    </e>
-    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="8" l="1739888668984" />
-    </e>
-    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="4" l="1739880775438" />
-    </e>
-    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
-      <i c="1" l="1739889026784" />
-    </e>
-    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
-      <i c="3" l="1739890804365" />
+      <i c="4" l="1739963727933" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="2" l="1738933797957" />
+      <i c="1" l="1739111339468" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="12" l="1739366553316" />
+      <i c="1" l="1739104431129" />
     </e>
-    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="1" l="1738786973050" />
-    </e>
-    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="84" l="1739890686917" />
-    </e>
-    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="6" l="1739890687772" />
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1739179119743" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="26" l="1739880747972" />
-    </e>
-    <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
-      <i c="2" l="1739366102281" />
+      <i c="7" l="1739109329551" />
     </e>
   </component>
 </application>
