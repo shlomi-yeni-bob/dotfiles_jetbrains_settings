@@ -220,7 +220,7 @@
       <workItem from="1739864693337" duration="4956000" />
       <workItem from="1739880501440" duration="8595000" />
       <workItem from="1739963632068" duration="454000" />
-      <workItem from="1739974163745" duration="2208000" />
+      <workItem from="1739974163745" duration="2844000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -362,6 +362,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="partialEmployee.getOptional(groupByEmployeeField.get)" language="Scala" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
