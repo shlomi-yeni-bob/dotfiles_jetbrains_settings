@@ -84,7 +84,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.23011783" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.4709131" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.390648" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
@@ -225,7 +225,7 @@
       <workItem from="1739963632068" duration="454000" />
       <workItem from="1739974163745" duration="4272000" />
       <workItem from="1740037043839" duration="1945000" />
-      <workItem from="1740057708928" duration="2292000" />
+      <workItem from="1740057708928" duration="3138000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -354,13 +354,26 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
-          <line>187</line>
-          <option name="timeStamp" value="48" />
+          <line>106</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
-          <line>106</line>
-          <option name="timeStamp" value="50" />
+          <line>175</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/field/FieldMetadata.scala</url>
+          <line>278</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/field/Path.scala</url>
+          <line>36</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
