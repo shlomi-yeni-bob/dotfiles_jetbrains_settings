@@ -4,19 +4,19 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="103" l="1740061173638" />
+      <i c="105" l="1740068076831" />
     </e>
     <e n="Annotate">
-      <i c="10" l="1740049540085" />
+      <i c="14" l="1740068937684" />
     </e>
     <e n="Back">
-      <i c="74" l="1740061220470" />
+      <i c="75" l="1740067905396" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1739263125499" />
     </e>
     <e n="CommentByLineComment">
-      <i c="12" l="1740059723135" />
+      <i c="13" l="1740068645504" />
     </e>
     <e n="CompileDirty">
       <i c="2" l="1740043260792" />
@@ -28,7 +28,7 @@
       <i c="6" l="1739970250138" />
     </e>
     <e n="Debug">
-      <i c="49" l="1740060678566" />
+      <i c="54" l="1740069164305" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1739964083319" />
@@ -40,49 +40,49 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="809" l="1740061189842" />
+      <i c="839" l="1740068040572" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="128" l="1740060385928" />
+      <i c="130" l="1740067649869" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="63" l="1740060999831" />
+      <i c="67" l="1740068050422" />
     </e>
     <e n="EditorCut">
-      <i c="7" l="1740038506932" />
+      <i c="8" l="1740067635915" />
     </e>
     <e n="EditorDown">
       <i c="37" l="1740059703509" />
     </e>
     <e n="EditorDuplicate">
-      <i c="10" l="1740060458115" />
+      <i c="11" l="1740068035180" />
     </e>
     <e n="EditorEnter">
       <i c="62" l="1740061113173" />
     </e>
     <e n="EditorLeft">
-      <i c="164" l="1740060360667" />
+      <i c="168" l="1740067655305" />
     </e>
     <e n="EditorLineEnd">
       <i c="17" l="1740061111639" />
     </e>
     <e n="EditorLineStart">
-      <i c="6" l="1740038486869" />
+      <i c="7" l="1740067628871" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="60" l="1740061113557" />
+      <i c="65" l="1740068054780" />
     </e>
     <e n="EditorRight">
-      <i c="106" l="1740061132861" />
+      <i c="121" l="1740067830504" />
     </e>
     <e n="EditorSelectWord">
-      <i c="130" l="1740061125745" />
+      <i c="135" l="1740068049728" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
@@ -115,10 +115,10 @@
       <i c="3" l="1739263053266" />
     </e>
     <e n="GotoDeclaration">
-      <i c="204" l="1740061256394" />
+      <i c="217" l="1740069117636" />
     </e>
     <e n="MoveStatementUp">
-      <i c="2" l="1740059273889" />
+      <i c="3" l="1740068100426" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1739109138474" />
@@ -127,7 +127,7 @@
       <i c="1" l="1739201152637" />
     </e>
     <e n="Resume">
-      <i c="255" l="1740060992194" />
+      <i c="261" l="1740068730070" />
     </e>
     <e n="RunClass">
       <i c="1" l="1739111066650" />
@@ -142,10 +142,10 @@
       <i c="2" l="1739964080359" />
     </e>
     <e n="StepOver">
-      <i c="240" l="1740060987442" />
+      <i c="242" l="1740067576096" />
     </e>
     <e n="Stop">
-      <i c="31" l="1740060676438" />
+      <i c="33" l="1740069156115" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -154,7 +154,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="82" l="1740060919853" />
+      <i c="85" l="1740069122749" />
     </e>
     <e n="Tree-selectChild">
       <i c="23" l="1740048966839" />
@@ -175,16 +175,16 @@
       <i c="2" l="1739263706460" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="1" l="1740059901822" />
+      <i c="3" l="1740068080532" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="87" l="1740060991393" />
+      <i c="90" l="1740069129367" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="25" l="1740061230964" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="4" l="1740056345215" />
+      <i c="5" l="1740068924955" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="5" l="1740037148359" />
@@ -199,7 +199,7 @@
       <i c="2" l="1740061192523" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="5" l="1740060327344" />
+      <i c="6" l="1740068906505" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="2" l="1740048563463" />
@@ -217,13 +217,16 @@
       <i c="4" l="1740060934229" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="64" l="1740060918409" />
+      <i c="66" l="1740066999715" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1740056532479" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1740057303355" />
+    </e>
+    <e n="profiler.DisableProfileOnRunToCursor">
+      <i c="1" l="1740068927223" />
     </e>
   </component>
 </application>
