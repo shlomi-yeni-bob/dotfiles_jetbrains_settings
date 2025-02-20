@@ -4,13 +4,13 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="95" l="1740060329808" />
+      <i c="103" l="1740061173638" />
     </e>
     <e n="Annotate">
       <i c="10" l="1740049540085" />
     </e>
     <e n="Back">
-      <i c="73" l="1740060794371" />
+      <i c="74" l="1740061220470" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1739263125499" />
@@ -40,7 +40,7 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="794" l="1740060489860" />
+      <i c="809" l="1740061189842" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="128" l="1740060385928" />
@@ -49,7 +49,7 @@
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="62" l="1740060390917" />
+      <i c="63" l="1740060999831" />
     </e>
     <e n="EditorCut">
       <i c="7" l="1740038506932" />
@@ -61,13 +61,13 @@
       <i c="10" l="1740060458115" />
     </e>
     <e n="EditorEnter">
-      <i c="61" l="1740059604154" />
+      <i c="62" l="1740061113173" />
     </e>
     <e n="EditorLeft">
       <i c="164" l="1740060360667" />
     </e>
     <e n="EditorLineEnd">
-      <i c="16" l="1740059728761" />
+      <i c="17" l="1740061111639" />
     </e>
     <e n="EditorLineStart">
       <i c="6" l="1740038486869" />
@@ -76,25 +76,25 @@
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="59" l="1740060394265" />
+      <i c="60" l="1740061113557" />
     </e>
     <e n="EditorRight">
-      <i c="105" l="1740060452354" />
+      <i c="106" l="1740061132861" />
     </e>
     <e n="EditorSelectWord">
-      <i c="126" l="1740060418676" />
+      <i c="130" l="1740061125745" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1739103130112" />
     </e>
     <e n="EditorUp">
-      <i c="26" l="1740038487566" />
+      <i c="27" l="1740061112499" />
     </e>
     <e n="EvaluateExpression">
       <i c="1" l="1739964390230" />
     </e>
     <e n="FindInPath">
-      <i c="3" l="1740060322887" />
+      <i c="4" l="1740061180492" />
     </e>
     <e n="Forward">
       <i c="3" l="1739968763755" />
@@ -115,7 +115,7 @@
       <i c="3" l="1739263053266" />
     </e>
     <e n="GotoDeclaration">
-      <i c="200" l="1740060784079" />
+      <i c="204" l="1740061256394" />
     </e>
     <e n="MoveStatementUp">
       <i c="2" l="1740059273889" />
@@ -127,7 +127,7 @@
       <i c="1" l="1739201152637" />
     </e>
     <e n="Resume">
-      <i c="200" l="1740060787795" />
+      <i c="255" l="1740060992194" />
     </e>
     <e n="RunClass">
       <i c="1" l="1739111066650" />
@@ -142,7 +142,7 @@
       <i c="2" l="1739964080359" />
     </e>
     <e n="StepOver">
-      <i c="237" l="1740057165270" />
+      <i c="240" l="1740060987442" />
     </e>
     <e n="Stop">
       <i c="31" l="1740060676438" />
@@ -154,7 +154,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="81" l="1740060844443" />
+      <i c="82" l="1740060919853" />
     </e>
     <e n="Tree-selectChild">
       <i c="23" l="1740048966839" />
@@ -178,10 +178,10 @@
       <i c="1" l="1740059901822" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="86" l="1740060741619" />
+      <i c="87" l="1740060991393" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="23" l="1740060845354" />
+      <i c="25" l="1740061230964" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="4" l="1740056345215" />
@@ -196,7 +196,7 @@
       <i c="5" l="1740057774354" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="1" l="1739964565120" />
+      <i c="2" l="1740061192523" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="5" l="1740060327344" />
@@ -214,10 +214,10 @@
       <i c="3" l="1739964563734" />
     </e>
     <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
-      <i c="2" l="1740058031346" />
+      <i c="4" l="1740060934229" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="63" l="1740060848621" />
+      <i c="64" l="1740060918409" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1740056532479" />
