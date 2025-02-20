@@ -225,7 +225,7 @@
       <workItem from="1739963632068" duration="454000" />
       <workItem from="1739974163745" duration="4272000" />
       <workItem from="1740037043839" duration="1945000" />
-      <workItem from="1740057708928" duration="1821000" />
+      <workItem from="1740057708928" duration="2292000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -354,8 +354,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
-          <line>188</line>
+          <line>187</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
+          <line>106</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
