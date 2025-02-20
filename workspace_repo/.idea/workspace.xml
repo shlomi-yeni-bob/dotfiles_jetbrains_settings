@@ -67,7 +67,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.13261719" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.072460935" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.18496093" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -82,8 +82,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2433726" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.39212078" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.43630338" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.390648" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
@@ -99,7 +99,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.054101564" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.029492188" />
     </layout>
   </component>
   <component name="ReactorSettings">
