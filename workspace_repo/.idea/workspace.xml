@@ -224,7 +224,7 @@
       <workItem from="1740037043839" duration="1945000" />
       <workItem from="1740057708928" duration="4135000" />
       <workItem from="1740072079113" duration="1925000" />
-      <workItem from="1740152080888" duration="1049000" />
+      <workItem from="1740152080888" duration="1505000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -316,11 +316,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/CardMetaDataService.scala</url>
-          <line>29</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/dao/DirectDashboardDaoTest.scala</url>
           <line>261</line>
           <option name="timeStamp" value="8" />
@@ -371,14 +366,17 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala</url>
-          <line>88</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskController.scala</url>
           <line>49</line>
           <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskFieldsUpdater.scala</url>
+          <line>22</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
