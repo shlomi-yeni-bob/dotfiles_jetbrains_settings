@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="delete unused test">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/delete-not-used-dashboard-daos" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/groupby-shows-unknown-group" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +65,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.13261719" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.1495949" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.121238425" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -83,7 +80,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3175147" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3175147" />
       <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.212818" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.33023483" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.390648" />
@@ -114,7 +111,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="Gradle.DirectDashboardDaoTest (1)">
     <configuration name="DirectDashboardDaoTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -227,6 +224,7 @@
       <workItem from="1740037043839" duration="1945000" />
       <workItem from="1740057708928" duration="4135000" />
       <workItem from="1740072079113" duration="1925000" />
+      <workItem from="1740152080888" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -268,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739171849970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix">
+      <option name="closed" value="true" />
+      <created>1740152458393</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740152458393</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +309,8 @@
     <MESSAGE value="change update state to work with upsert" />
     <MESSAGE value="delete unnecessary method referring to old system employee ids" />
     <MESSAGE value="delete unused test" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete unused test" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -350,7 +357,7 @@
         </line-breakpoint>
         <line-breakpoint type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
-          <line>54</line>
+          <line>53</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">

@@ -40,7 +40,7 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="842" l="1740073313297" />
+      <i c="844" l="1740152449467" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="130" l="1740067649869" />
@@ -76,19 +76,19 @@
       <i c="2" l="1740073671681" />
     </e>
     <e n="EditorLineStart">
-      <i c="7" l="1740067628871" />
+      <i c="8" l="1740074105592" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="69" l="1740073314084" />
+      <i c="70" l="1740074098097" />
     </e>
     <e n="EditorRight">
       <i c="121" l="1740067830504" />
     </e>
     <e n="EditorSelectWord">
-      <i c="144" l="1740073669449" />
+      <i c="145" l="1740152202620" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
@@ -100,7 +100,7 @@
       <i c="1" l="1739964390230" />
     </e>
     <e n="FindInPath">
-      <i c="4" l="1740061180492" />
+      <i c="5" l="1740074097282" />
     </e>
     <e n="Forward">
       <i c="3" l="1739968763755" />
@@ -109,10 +109,10 @@
       <i c="10" l="1739171842865" />
     </e>
     <e n="Git.Pull">
-      <i c="4" l="1739963712956" />
+      <i c="5" l="1740152472886" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="4" l="1739963682774" />
+      <i c="5" l="1740152464734" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="3" l="1739263074212" />
@@ -121,7 +121,7 @@
       <i c="3" l="1739263053266" />
     </e>
     <e n="GotoDeclaration">
-      <i c="237" l="1740073355497" />
+      <i c="240" l="1740074129162" />
     </e>
     <e n="MoveStatementUp">
       <i c="3" l="1740068100426" />
@@ -151,7 +151,7 @@
       <i c="246" l="1740073234891" />
     </e>
     <e n="Stop">
-      <i c="33" l="1740069156115" />
+      <i c="34" l="1740074755619" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -205,7 +205,7 @@
       <i c="6" l="1740072782070" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="2" l="1740061192523" />
+      <i c="3" l="1740074110307" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="6" l="1740068906505" />
@@ -217,10 +217,10 @@
       <i c="1" l="1739179119743" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="2" l="1739964562112" />
+      <i c="10" l="1740074107126" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="3" l="1739964563734" />
+      <i c="4" l="1740074109802" />
     </e>
     <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
       <i c="6" l="1740073308235" />
