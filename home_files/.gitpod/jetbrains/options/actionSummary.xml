@@ -28,7 +28,7 @@
       <i c="7" l="1740073750329" />
     </e>
     <e n="Debug">
-      <i c="55" l="1740072785841" />
+      <i c="57" l="1740152688038" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1739964083319" />
@@ -202,7 +202,7 @@
       <i c="9" l="1739133935743" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="6" l="1740072782070" />
+      <i c="7" l="1740152605026" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="3" l="1740074110307" />
