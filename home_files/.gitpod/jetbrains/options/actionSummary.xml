@@ -4,10 +4,10 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="116" l="1740312407733" />
+      <i c="118" l="1740312810566" />
     </e>
     <e n="Annotate">
-      <i c="17" l="1740312290681" />
+      <i c="18" l="1740312679096" />
     </e>
     <e n="Back">
       <i c="95" l="1740312351355" />
@@ -34,7 +34,7 @@
       <i c="7" l="1740073750329" />
     </e>
     <e n="Debug">
-      <i c="61" l="1740311589742" />
+      <i c="62" l="1740312424164" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -97,7 +97,7 @@
       <i c="123" l="1740153776566" />
     </e>
     <e n="EditorSelectWord">
-      <i c="185" l="1740312388723" />
+      <i c="192" l="1740312674594" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
@@ -120,6 +120,9 @@
     <e n="Git.Commit.And.Push.Executor">
       <i c="10" l="1739171842865" />
     </e>
+    <e n="Git.CompareWithBranch">
+      <i c="1" l="1740312824450" />
+    </e>
     <e n="Git.Pull">
       <i c="7" l="1740304754163" />
     </e>
@@ -129,11 +132,14 @@
     <e n="GitRebaseBranchAction">
       <i c="4" l="1740304727663" />
     </e>
+    <e n="GitShowDiffWithRefAction">
+      <i c="1" l="1740312778168" />
+    </e>
     <e n="GitUpdateSelectedBranchAction">
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="272" l="1740312355350" />
+      <i c="278" l="1740312838009" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -151,7 +157,7 @@
       <i c="1" l="1739201152637" />
     </e>
     <e n="Resume">
-      <i c="314" l="1740311664746" />
+      <i c="319" l="1740312727598" />
     </e>
     <e n="RunClass">
       <i c="5" l="1740304506975" />
@@ -166,7 +172,7 @@
       <i c="2" l="1739964080359" />
     </e>
     <e n="StepOver">
-      <i c="246" l="1740073234891" />
+      <i c="249" l="1740312704554" />
     </e>
     <e n="Stop">
       <i c="39" l="1740304482014" />
@@ -178,7 +184,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="101" l="1740312378079" />
+      <i c="105" l="1740312839610" />
     </e>
     <e n="Tree-selectChild">
       <i c="26" l="1740153604542" />
@@ -199,7 +205,7 @@
       <i c="2" l="1739263706460" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="4" l="1740312401955" />
+      <i c="5" l="1740312798216" />
     </e>
     <e n="XDebugger.CopyValue">
       <i c="1" l="1740073306361" />
@@ -253,7 +259,7 @@
       <i c="7" l="1740304144606" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="80" l="1740312380231" />
+      <i c="84" l="1740312726643" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1740056532479" />
