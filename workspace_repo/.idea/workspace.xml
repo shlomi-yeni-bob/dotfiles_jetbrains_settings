@@ -61,6 +61,7 @@
     "Gradle.DirectDashboardDaoTest (1).executor": "Run",
     "Gradle.DirectDashboardDaoTest.executor": "Run",
     "Gradle.Download Sources.executor": "Run",
+    "Gradle.FlightRiskJobTest (1).executor": "Run",
     "Gradle.FlightRiskJobTest.executor": "Debug",
     "Gradle.KPIDaoTest.executor": "Run",
     "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
@@ -85,8 +86,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.13261719" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.2627604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2627604" />
+      <window_info id="Commit" order="1" weight="0.2627604" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -102,9 +103,9 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.19478673" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3502004" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3957346" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.39099526" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3502004" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.33817637" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.33817637" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -118,7 +119,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
-      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.13744213" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.11640625" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -133,7 +134,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="FlightRiskJobTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FlightRiskJobTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -159,7 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FlightRiskJobTest" />
+        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +224,7 @@
       <workItem from="1740072079113" duration="1925000" />
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
-      <workItem from="1740301879255" duration="685000" />
+      <workItem from="1740301879255" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
