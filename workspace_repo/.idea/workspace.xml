@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" afterDir="false" />
-    </list>
-    <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown">
-      <change beforePath="$PROJECT_DIR$/.run/Bob Localhost.run.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.run/Create_db_migration.run.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.run/Rebuild Twirl Templates.run.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.run/gradle flyway.run.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.run/login to aws.run.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="" />
+    <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="shlomi-yeni/groupby-shows-unknown-group" />
+        <entry key="$PROJECT_DIR$" value="shlomi-yeni/risk-indicator-job-fetch-data-read-replica" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,38 +66,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Bob Localhost.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.Build hibob.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskFieldsAggregatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.KPIDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.hibob [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [clean].executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.com.hibob.analytics.flightrisk in hibob.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run all went well.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;shlomi-yeni/risk-indicator-job-fetch-data-read-replica&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/hibob/app/com/hibob/analytics/kpis/shlomi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bob Localhost.executor": "Debug",
+    "Gradle.Build hibob.executor": "Run",
+    "Gradle.DirectDashboardDaoTest (1).executor": "Run",
+    "Gradle.DirectDashboardDaoTest.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.FlightRiskFieldsAggregatorTest.executor": "Run",
+    "Gradle.FlightRiskJobTest (1).executor": "Run",
+    "Gradle.FlightRiskJobTest.executor": "Debug",
+    "Gradle.KPIDaoTest.executor": "Run",
+    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Run",
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "Gradle.hibob [build].executor": "Run",
+    "Gradle.hibob [clean].executor": "Run",
+    "JUnit.com.hibob.analytics.flightrisk in hibob.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ScalaTest.FlightRiskJobTest.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.run all went well.executor": "Run",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "shlomi-yeni/groupby-shows-unknown-group",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/hibob/app/com/hibob/analytics/kpis/shlomi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -114,8 +105,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19557291" />
-      <window_info id="Commit" order="1" weight="0.2627604" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14244792" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.21171875" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -130,10 +121,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.19478673" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33412322" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4524048" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
-      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.35921842" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.35896128" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -143,7 +134,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.11640625" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.08463542" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
@@ -161,7 +152,31 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FlightRiskJobTest (1)">
+  <component name="RunManager" selected="Gradle.DirectDashboardDaoTest (1)">
+    <configuration name="DirectDashboardDaoTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":integrationTest" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.analytics.kpis.custom.dao.DirectDashboardDaoTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="FlightRiskFieldsAggregatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -210,6 +225,30 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="KPIDaoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":integrationTest" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.analytics.kpis.custom.dao.KPIDaoTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="Tests in 'com.hibob.analytics.flightrisk'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -234,57 +273,13 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="hibob [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.KPIDaoTest" />
+        <item itemvalue="Gradle.DirectDashboardDaoTest (1)" />
         <item itemvalue="Gradle.FlightRiskJobTest (1)" />
         <item itemvalue="Gradle.FlightRiskFieldsAggregatorTest" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics.flightrisk'" />
-        <item itemvalue="Gradle.hibob [build]" />
-        <item itemvalue="Gradle.hibob [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -349,6 +344,7 @@
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
       <workItem from="1740301879255" duration="2696000" />
+      <workItem from="1740310448532" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -441,6 +437,11 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/CardMetaDataService.scala</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/dao/DirectDashboardDaoTest.scala</url>
           <line>261</line>
           <option name="timeStamp" value="8" />
@@ -475,33 +476,23 @@
           <line>56</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
-        <line-breakpoint type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
-          <line>53</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
-          <line>106</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/field/FieldMetadata.scala</url>
           <line>278</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
-          <line>38</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
-          <line>32</line>
-          <option name="timeStamp" value="54" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala</url>
+          <line>88</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="partialEmployee.getOptional(groupByEmployeeField.get)" language="Scala" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
