@@ -75,38 +75,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Bob Localhost.executor": "Debug",
-    "Gradle.Build hibob.executor": "Run",
-    "Gradle.DirectDashboardDaoTest (1).executor": "Run",
-    "Gradle.DirectDashboardDaoTest.executor": "Run",
-    "Gradle.Download Sources.executor": "Run",
-    "Gradle.FlightRiskFieldsAggregatorTest.executor": "Run",
-    "Gradle.FlightRiskJobTest (1).executor": "Run",
-    "Gradle.FlightRiskJobTest.executor": "Debug",
-    "Gradle.KPIDaoTest.executor": "Run",
-    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Run",
-    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
-    "Gradle.hibob [build].executor": "Run",
-    "Gradle.hibob [clean].executor": "Run",
-    "JUnit.com.hibob.analytics.flightrisk in hibob.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ScalaTest.FlightRiskJobTest.executor": "Run",
-    "ScalaTest.FlightRiskJobTest.run all went well.executor": "Run",
-    "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "shlomi-yeni/risk-indicator-job-fetch-data-read-replica",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/workspace/hibob/app/com/hibob/analytics/kpis/shlomi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Bob Localhost.executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.Build hibob.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DirectDashboardDaoTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DirectDashboardDaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FlightRiskFieldsAggregatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FlightRiskJobTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FlightRiskJobTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.KPIDaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.hibob [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.hibob [clean].executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.com.hibob.analytics.flightrisk in hibob.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ScalaTest.FlightRiskJobTest.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.FlightRiskJobTest.run all went well.executor&quot;: &quot;Run&quot;,
+    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;shlomi-yeni/risk-indicator-job-fetch-data-read-replica&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/workspace/hibob/app/com/hibob/analytics/kpis/shlomi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />

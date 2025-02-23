@@ -16,7 +16,7 @@
       <i c="3" l="1740296961387" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="1" l="1739263125499" />
+      <i c="2" l="1740304658145" />
     </e>
     <e n="CommentByLineComment">
       <i c="14" l="1740303708447" />
@@ -49,7 +49,7 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="874" l="1740303849046" />
+      <i c="877" l="1740304669070" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="137" l="1740302446523" />
@@ -58,7 +58,7 @@
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="89" l="1740304014046" />
+      <i c="90" l="1740304622750" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1740153844465" />
@@ -91,13 +91,13 @@
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="83" l="1740302905040" />
+      <i c="84" l="1740304636816" />
     </e>
     <e n="EditorRight">
       <i c="123" l="1740153776566" />
     </e>
     <e n="EditorSelectWord">
-      <i c="177" l="1740302903124" />
+      <i c="180" l="1740304667817" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
@@ -121,19 +121,19 @@
       <i c="10" l="1739171842865" />
     </e>
     <e n="Git.Pull">
-      <i c="5" l="1740152472886" />
+      <i c="7" l="1740304754163" />
     </e>
     <e n="GitCheckoutAction">
       <i c="5" l="1740152464734" />
     </e>
     <e n="GitRebaseBranchAction">
-      <i c="3" l="1739263074212" />
+      <i c="4" l="1740304727663" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="3" l="1739263053266" />
+      <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="265" l="1740304334428" />
+      <i c="266" l="1740304610227" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -211,7 +211,7 @@
       <i c="1" l="1740154571212" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="25" l="1740061230964" />
+      <i c="26" l="1740304614715" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="6" l="1740297000211" />
@@ -232,7 +232,7 @@
       <i c="3" l="1740074110307" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="6" l="1740068906505" />
+      <i c="7" l="1740304683069" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="2" l="1740048563463" />
