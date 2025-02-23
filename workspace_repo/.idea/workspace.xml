@@ -124,7 +124,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.22094189" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.29305285" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.31164384" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.35896128" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
@@ -346,7 +346,7 @@
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
       <workItem from="1740301879255" duration="2696000" />
-      <workItem from="1740310448532" duration="2396000" />
+      <workItem from="1740310448532" duration="2892000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -480,27 +480,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
-          <line>105</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
-          <line>106</line>
+          <line>101</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeJsonLifecycleDerivedFieldsUpdater.scala</url>
-          <line>172</line>
-          <option name="timeStamp" value="68" />
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="GradleRunConfiguration">
-        <watch expression="partialEmployee.getOptional(groupByEmployeeField.get)" language="Scala" />
+        <watch expression="Json.obj(path.last -&gt; value)" language="Scala" />
       </configuration>
     </watches-manager>
   </component>

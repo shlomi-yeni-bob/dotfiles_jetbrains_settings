@@ -58,7 +58,7 @@
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="90" l="1740304622750" />
+      <i c="94" l="1740313204462" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1740153844465" />
@@ -73,7 +73,7 @@
       <i c="72" l="1740302693776" />
     </e>
     <e n="EditorLeft">
-      <i c="185" l="1740153686051" />
+      <i c="186" l="1740312996630" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1740073672279" />
@@ -82,7 +82,7 @@
       <i c="19" l="1740302693378" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="3" l="1740302698877" />
+      <i c="6" l="1740312997475" />
     </e>
     <e n="EditorLineStart">
       <i c="10" l="1740302634704" />
@@ -91,13 +91,16 @@
       <i c="1" l="1739103134472" />
     </e>
     <e n="EditorPaste">
-      <i c="84" l="1740304636816" />
+      <i c="87" l="1740313048914" />
     </e>
     <e n="EditorRight">
       <i c="123" l="1740153776566" />
     </e>
+    <e n="EditorRightWithSelection">
+      <i c="3" l="1740312996988" />
+    </e>
     <e n="EditorSelectWord">
-      <i c="192" l="1740312674594" />
+      <i c="197" l="1740313205423" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
@@ -139,7 +142,7 @@
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="278" l="1740312838009" />
+      <i c="286" l="1740313263082" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -157,7 +160,7 @@
       <i c="1" l="1739201152637" />
     </e>
     <e n="Resume">
-      <i c="319" l="1740312727598" />
+      <i c="368" l="1740313284621" />
     </e>
     <e n="RunClass">
       <i c="5" l="1740304506975" />
@@ -184,7 +187,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="105" l="1740312839610" />
+      <i c="111" l="1740313280455" />
     </e>
     <e n="Tree-selectChild">
       <i c="26" l="1740153604542" />
@@ -214,7 +217,7 @@
       <i c="99" l="1740312420098" />
     </e>
     <e n="XDebugger.RemoveWatch">
-      <i c="1" l="1740154571212" />
+      <i c="2" l="1740313197834" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="26" l="1740304614715" />
@@ -259,10 +262,10 @@
       <i c="7" l="1740304144606" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="84" l="1740312726643" />
+      <i c="90" l="1740313282229" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
-      <i c="2" l="1740056532479" />
+      <i c="3" l="1740313210699" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1740057303355" />
