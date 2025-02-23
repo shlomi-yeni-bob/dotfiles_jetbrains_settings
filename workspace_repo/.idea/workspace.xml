@@ -106,7 +106,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.14244792" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.21171875" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.16692708" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -344,7 +344,7 @@
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
       <workItem from="1740301879255" duration="2696000" />
-      <workItem from="1740310448532" duration="435000" />
+      <workItem from="1740310448532" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -485,6 +485,14 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/section/KPIsSectionsProvider.scala</url>
           <line>88</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
+          <line>46</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
