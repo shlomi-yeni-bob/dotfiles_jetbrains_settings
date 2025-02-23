@@ -12,6 +12,9 @@
     <e n="Back">
       <i c="89" l="1740153912296" />
     </e>
+    <e n="ChangesView.Move">
+      <i c="3" l="1740296961387" />
+    </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1739263125499" />
     </e>
@@ -40,7 +43,7 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="849" l="1740153888413" />
+      <i c="863" l="1740297692735" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="133" l="1740153775484" />
@@ -55,7 +58,7 @@
       <i c="9" l="1740153844465" />
     </e>
     <e n="EditorDown">
-      <i c="38" l="1740153845034" />
+      <i c="39" l="1740297667871" />
     </e>
     <e n="EditorDuplicate">
       <i c="12" l="1740073352130" />
@@ -88,7 +91,7 @@
       <i c="123" l="1740153776566" />
     </e>
     <e n="EditorSelectWord">
-      <i c="151" l="1740153814485" />
+      <i c="155" l="1740297665867" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
@@ -196,7 +199,7 @@
       <i c="25" l="1740061230964" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="5" l="1740068924955" />
+      <i c="6" l="1740297000211" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="5" l="1740037148359" />
@@ -229,7 +232,7 @@
       <i c="6" l="1740073308235" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="78" l="1740154581615" />
+      <i c="79" l="1740296990936" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1740056532479" />
