@@ -31,7 +31,17 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibob" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -64,6 +74,7 @@
     "Gradle.FlightRiskJobTest (1).executor": "Run",
     "Gradle.FlightRiskJobTest.executor": "Debug",
     "Gradle.KPIDaoTest.executor": "Run",
+    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Debug",
     "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
     "JUnit.com.hibob.analytics.flightrisk in hibob.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -89,7 +100,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2627604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19557291" />
       <window_info id="Commit" order="1" weight="0.2627604" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.12844312" />
@@ -106,9 +117,9 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.19478673" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3502004" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2990982" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.33817637" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.4283567" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.4283567" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.35921842" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -118,11 +129,11 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.11640625" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.11640625" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.11640625" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -328,7 +339,7 @@
       <workItem from="1740072079113" duration="1925000" />
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
-      <workItem from="1740301879255" duration="1995000" />
+      <workItem from="1740301879255" duration="2296000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -474,6 +485,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
           <line>38</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
+          <line>32</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
