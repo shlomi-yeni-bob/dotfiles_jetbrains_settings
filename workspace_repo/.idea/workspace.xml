@@ -102,7 +102,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.19478673" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.39099526" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3502004" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.3957346" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.39099526" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
@@ -223,7 +223,7 @@
       <workItem from="1740072079113" duration="1925000" />
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
-      <workItem from="1740301879255" duration="347000" />
+      <workItem from="1740301879255" duration="685000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -364,6 +364,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/company/metadata/field/FieldMetadata.scala</url>
           <line>278</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
+          <line>38</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
