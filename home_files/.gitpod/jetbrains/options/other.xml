@@ -17,6 +17,7 @@
     "BuildView.Splitter.Proportion": "0.54196775",
     "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.RawTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer",
     "GradleSupport.showInternalTestNodes": "false",
+    "JUnitSupport.hidePassedTests": "false",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.23654.117",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",

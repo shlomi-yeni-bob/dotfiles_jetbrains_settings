@@ -19,10 +19,13 @@
       <i c="1" l="1739263125499" />
     </e>
     <e n="CommentByLineComment">
-      <i c="13" l="1740068645504" />
+      <i c="14" l="1740303708447" />
     </e>
     <e n="CompileDirty">
       <i c="2" l="1740043260792" />
+    </e>
+    <e n="CompileFile">
+      <i c="1" l="1740303766814" />
     </e>
     <e n="CompileProject">
       <i c="2" l="1739135113960" />
@@ -43,7 +46,7 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="872" l="1740302688722" />
+      <i c="874" l="1740303849046" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="137" l="1740302446523" />
@@ -124,7 +127,10 @@
       <i c="3" l="1739263053266" />
     </e>
     <e n="GotoDeclaration">
-      <i c="259" l="1740302529264" />
+      <i c="260" l="1740303836344" />
+    </e>
+    <e n="MakeModule">
+      <i c="1" l="1740303778282" />
     </e>
     <e n="MoveStatementDown">
       <i c="1" l="1740302678766" />
@@ -142,7 +148,7 @@
       <i c="313" l="1740302414430" />
     </e>
     <e n="RunClass">
-      <i c="2" l="1740302956630" />
+      <i c="3" l="1740303691648" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1740038517006" />
@@ -157,7 +163,7 @@
       <i c="246" l="1740073234891" />
     </e>
     <e n="Stop">
-      <i c="35" l="1740153607548" />
+      <i c="37" l="1740303755735" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -204,11 +210,14 @@
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="6" l="1740297000211" />
     </e>
+    <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
+      <i c="1" l="1740303744045" />
+    </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="5" l="1740037148359" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="13" l="1740302933611" />
+      <i c="16" l="1740303817406" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="7" l="1740152605026" />
