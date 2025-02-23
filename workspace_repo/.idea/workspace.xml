@@ -121,7 +121,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.2886256" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.22094189" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4524048" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.35896128" />
@@ -152,7 +152,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DirectDashboardDaoTest (1)">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="DirectDashboardDaoTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -344,7 +344,7 @@
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
       <workItem from="1740301879255" duration="2696000" />
-      <workItem from="1740310448532" duration="753000" />
+      <workItem from="1740310448532" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
