@@ -4,13 +4,13 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="114" l="1740302642441" />
+      <i c="116" l="1740312407733" />
     </e>
     <e n="Annotate">
-      <i c="16" l="1740311084541" />
+      <i c="17" l="1740312290681" />
     </e>
     <e n="Back">
-      <i c="94" l="1740311319081" />
+      <i c="95" l="1740312351355" />
     </e>
     <e n="ChangesView.Move">
       <i c="3" l="1740296961387" />
@@ -34,7 +34,7 @@
       <i c="7" l="1740073750329" />
     </e>
     <e n="Debug">
-      <i c="60" l="1740302384478" />
+      <i c="61" l="1740311589742" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -49,7 +49,7 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="878" l="1740310511165" />
+      <i c="886" l="1740312302137" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="137" l="1740302446523" />
@@ -97,7 +97,7 @@
       <i c="123" l="1740153776566" />
     </e>
     <e n="EditorSelectWord">
-      <i c="183" l="1740311331892" />
+      <i c="185" l="1740312388723" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
@@ -115,7 +115,7 @@
       <i c="9" l="1740302356506" />
     </e>
     <e n="Forward">
-      <i c="3" l="1739968763755" />
+      <i c="4" l="1740312352905" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="10" l="1739171842865" />
@@ -133,7 +133,7 @@
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="270" l="1740311321375" />
+      <i c="272" l="1740312355350" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -142,7 +142,7 @@
       <i c="1" l="1740302678766" />
     </e>
     <e n="MoveStatementUp">
-      <i c="3" l="1740068100426" />
+      <i c="4" l="1740312298683" />
     </e>
     <e n="ReformatCode">
       <i c="7" l="1740153884533" />
@@ -151,7 +151,7 @@
       <i c="1" l="1739201152637" />
     </e>
     <e n="Resume">
-      <i c="313" l="1740302414430" />
+      <i c="314" l="1740311664746" />
     </e>
     <e n="RunClass">
       <i c="5" l="1740304506975" />
@@ -178,7 +178,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="99" l="1740311121747" />
+      <i c="101" l="1740312378079" />
     </e>
     <e n="Tree-selectChild">
       <i c="26" l="1740153604542" />
@@ -199,13 +199,13 @@
       <i c="2" l="1739263706460" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="3" l="1740068080532" />
+      <i c="4" l="1740312401955" />
     </e>
     <e n="XDebugger.CopyValue">
       <i c="1" l="1740073306361" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="97" l="1740302416866" />
+      <i c="99" l="1740312420098" />
     </e>
     <e n="XDebugger.RemoveWatch">
       <i c="1" l="1740154571212" />
@@ -226,10 +226,13 @@
       <i c="20" l="1740304554333" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="7" l="1740152605026" />
+      <i c="8" l="1740311588459" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="3" l="1740074110307" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="1" l="1740312318773" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="7" l="1740304683069" />
@@ -250,7 +253,7 @@
       <i c="7" l="1740304144606" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="79" l="1740296990936" />
+      <i c="80" l="1740312380231" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="2" l="1740056532479" />
