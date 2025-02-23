@@ -22,7 +22,7 @@
       <i c="14" l="1740303708447" />
     </e>
     <e n="CompileDirty">
-      <i c="2" l="1740043260792" />
+      <i c="3" l="1740303927776" />
     </e>
     <e n="CompileFile">
       <i c="1" l="1740303766814" />
@@ -35,6 +35,9 @@
     </e>
     <e n="Debug">
       <i c="60" l="1740302384478" />
+    </e>
+    <e n="DebugClass">
+      <i c="2" l="1740304151039" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1739964083319" />
@@ -55,7 +58,7 @@
       <i c="1" l="1739103195635" />
     </e>
     <e n="EditorCopy">
-      <i c="88" l="1740302968588" />
+      <i c="89" l="1740304014046" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1740153844465" />
@@ -148,7 +151,7 @@
       <i c="313" l="1740302414430" />
     </e>
     <e n="RunClass">
-      <i c="3" l="1740303691648" />
+      <i c="4" l="1740304063850" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1740038517006" />
@@ -163,7 +166,7 @@
       <i c="246" l="1740073234891" />
     </e>
     <e n="Stop">
-      <i c="37" l="1740303755735" />
+      <i c="38" l="1740303923283" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -172,7 +175,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="97" l="1740302381329" />
+      <i c="98" l="1740304144349" />
     </e>
     <e n="Tree-selectChild">
       <i c="26" l="1740153604542" />
@@ -217,7 +220,7 @@
       <i c="5" l="1740037148359" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="16" l="1740303817406" />
+      <i c="18" l="1740304002047" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="7" l="1740152605026" />
@@ -241,7 +244,7 @@
       <i c="4" l="1740074109802" />
     </e>
     <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
-      <i c="6" l="1740073308235" />
+      <i c="7" l="1740304144606" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="79" l="1740296990936" />
