@@ -37,7 +37,7 @@
       <i c="60" l="1740302384478" />
     </e>
     <e n="DebugClass">
-      <i c="2" l="1740304151039" />
+      <i c="3" l="1740304491857" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1739964083319" />
@@ -108,6 +108,9 @@
     <e n="EvaluateExpression">
       <i c="1" l="1739964390230" />
     </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="2" l="1740304194448" />
+    </e>
     <e n="FindInPath">
       <i c="9" l="1740302356506" />
     </e>
@@ -130,7 +133,7 @@
       <i c="3" l="1739263053266" />
     </e>
     <e n="GotoDeclaration">
-      <i c="260" l="1740303836344" />
+      <i c="265" l="1740304334428" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -151,7 +154,7 @@
       <i c="313" l="1740302414430" />
     </e>
     <e n="RunClass">
-      <i c="4" l="1740304063850" />
+      <i c="5" l="1740304506975" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1740038517006" />
@@ -166,7 +169,7 @@
       <i c="246" l="1740073234891" />
     </e>
     <e n="Stop">
-      <i c="38" l="1740303923283" />
+      <i c="39" l="1740304482014" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -220,7 +223,7 @@
       <i c="5" l="1740037148359" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="18" l="1740304002047" />
+      <i c="20" l="1740304554333" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="7" l="1740152605026" />

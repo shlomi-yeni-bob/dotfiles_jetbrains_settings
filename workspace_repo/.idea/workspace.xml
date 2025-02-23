@@ -38,6 +38,17 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="hibob" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibob" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibob" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -71,11 +82,14 @@
     "Gradle.DirectDashboardDaoTest (1).executor": "Run",
     "Gradle.DirectDashboardDaoTest.executor": "Run",
     "Gradle.Download Sources.executor": "Run",
+    "Gradle.FlightRiskFieldsAggregatorTest.executor": "Run",
     "Gradle.FlightRiskJobTest (1).executor": "Run",
     "Gradle.FlightRiskJobTest.executor": "Debug",
     "Gradle.KPIDaoTest.executor": "Run",
-    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Debug",
+    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Run",
     "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "Gradle.hibob [build].executor": "Run",
+    "Gradle.hibob [clean].executor": "Run",
     "JUnit.com.hibob.analytics.flightrisk in hibob.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -117,9 +131,9 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.19478673" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.4283567" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.4283567" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.35921842" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4524048" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.35921842" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -147,7 +161,31 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [build]">
+  <component name="RunManager" selected="Gradle.FlightRiskJobTest (1)">
+    <configuration name="FlightRiskFieldsAggregatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.analytics.flightrisk.FlightRiskFieldsAggregatorTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="FlightRiskJobTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -240,42 +278,13 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="FlightRiskJobTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="hibob.test" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Class" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobTest" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
+        <item itemvalue="Gradle.FlightRiskFieldsAggregatorTest" />
+        <item itemvalue="Gradle.Tests in 'com.hibob.analytics.flightrisk'" />
         <item itemvalue="Gradle.hibob [build]" />
         <item itemvalue="Gradle.hibob [clean]" />
-        <item itemvalue="Gradle.Tests in 'com.hibob.analytics.flightrisk'" />
-        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
-        <item itemvalue="ScalaTest.FlightRiskJobTest" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +348,7 @@
       <workItem from="1740072079113" duration="1925000" />
       <workItem from="1740152080888" duration="3171000" />
       <workItem from="1740296807387" duration="900000" />
-      <workItem from="1740301879255" duration="2296000" />
+      <workItem from="1740301879255" duration="2696000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
