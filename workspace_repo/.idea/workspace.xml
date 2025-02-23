@@ -136,7 +136,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.FlightRiskJobTest">
+  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics.flightrisk'">
     <configuration name="FlightRiskJobTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -151,6 +151,30 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;com.hibob.analytics.flightrisk.FlightRiskJobTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'com.hibob.analytics.flightrisk'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.analytics.flightrisk.*&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -236,10 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Tests in 'com.hibob.analytics.flightrisk'" />
+        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
         <item itemvalue="ScalaTest.FlightRiskJobTest" />
         <item itemvalue="JUnit.com.hibob.analytics.flightrisk in hibob.test" />
         <item itemvalue="ScalaTest.FlightRiskJobTest.run all went well" />
-        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
       </list>
     </recent_temporary>
   </component>
