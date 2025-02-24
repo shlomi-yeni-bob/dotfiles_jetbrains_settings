@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala" afterDir="false" />
+    </list>
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,11 +120,11 @@
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.30630213" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.23895434" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.23895434" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.28522503" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.23895434" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.23895434" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3191383" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
@@ -341,7 +343,7 @@
       <workItem from="1740296807387" duration="900000" />
       <workItem from="1740301879255" duration="2696000" />
       <workItem from="1740310448532" duration="4151000" />
-      <workItem from="1740392705995" duration="199000" />
+      <workItem from="1740392705995" duration="506000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -398,8 +400,18 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6c48fbdc-ce21-4f01-93d7-2952e177dad2" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="6c48fbdc-ce21-4f01-93d7-2952e177dad2">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
