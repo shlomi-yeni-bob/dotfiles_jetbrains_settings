@@ -4,13 +4,13 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="118" l="1740312810566" />
+      <i c="119" l="1740407360052" />
     </e>
     <e n="Annotate">
-      <i c="24" l="1740393404690" />
+      <i c="26" l="1740407402672" />
     </e>
     <e n="Back">
-      <i c="104" l="1740393992045" />
+      <i c="109" l="1740407319347" />
     </e>
     <e n="ChangesView.Move">
       <i c="3" l="1740296961387" />
@@ -19,7 +19,7 @@
       <i c="3" l="1740313607411" />
     </e>
     <e n="CommentByLineComment">
-      <i c="16" l="1740393473805" />
+      <i c="18" l="1740407398033" />
     </e>
     <e n="CompileDirty">
       <i c="3" l="1740303927776" />
@@ -31,10 +31,10 @@
       <i c="2" l="1739135113960" />
     </e>
     <e n="CopyReference">
-      <i c="9" l="1740313563564" />
+      <i c="10" l="1740407149918" />
     </e>
     <e n="Debug">
-      <i c="65" l="1740396112574" />
+      <i c="66" l="1740407405767" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -49,7 +49,7 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="891" l="1740394381880" />
+      <i c="892" l="1740407200950" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="137" l="1740302446523" />
@@ -100,7 +100,7 @@
       <i c="3" l="1740312996988" />
     </e>
     <e n="EditorSelectWord">
-      <i c="211" l="1740394555397" />
+      <i c="216" l="1740407356043" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
@@ -142,7 +142,7 @@
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="303" l="1740396301995" />
+      <i c="318" l="1740407312004" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -163,7 +163,7 @@
       <i c="1" l="1740314594393" />
     </e>
     <e n="Resume">
-      <i c="389" l="1740395271948" />
+      <i c="390" l="1740398252034" />
     </e>
     <e n="RunClass">
       <i c="5" l="1740304506975" />
@@ -181,7 +181,7 @@
       <i c="255" l="1740394704171" />
     </e>
     <e n="Stop">
-      <i c="42" l="1740396110326" />
+      <i c="43" l="1740407458752" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -190,7 +190,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="121" l="1740396371206" />
+      <i c="122" l="1740403747320" />
     </e>
     <e n="Tree-selectChild">
       <i c="26" l="1740153604542" />
@@ -212,6 +212,9 @@
     </e>
     <e n="Vcs.RollbackChangedLines">
       <i c="5" l="1740312798216" />
+    </e>
+    <e n="Vcs.ShowTabbedFileHistory">
+      <i c="1" l="1740397114859" />
     </e>
     <e n="XDebugger.CopyValue">
       <i c="1" l="1740073306361" />
@@ -256,16 +259,16 @@
       <i c="1" l="1739179119743" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="40" l="1740153676030" />
+      <i c="48" l="1740397461174" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="4" l="1740074109802" />
+      <i c="25" l="1740397464018" />
     </e>
     <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
       <i c="7" l="1740304144606" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="103" l="1740395492270" />
+      <i c="105" l="1740403937905" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="3" l="1740313210699" />
