@@ -106,7 +106,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.14244792" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.10488281" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.115429685" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -118,11 +118,11 @@
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.18298969" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.23895434" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.19624448" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.21759942" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3191383" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
@@ -341,7 +341,7 @@
       <workItem from="1740296807387" duration="900000" />
       <workItem from="1740301879255" duration="2696000" />
       <workItem from="1740310448532" duration="4151000" />
-      <workItem from="1740392705995" duration="2822000" />
+      <workItem from="1740392705995" duration="4101000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -477,6 +477,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
           <line>32</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIHistoryChangesProvider.scala</url>
+          <line>76</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
