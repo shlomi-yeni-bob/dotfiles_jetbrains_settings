@@ -122,7 +122,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.23895434" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.24484536" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.24705449" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3191383" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3905" />
@@ -341,7 +341,7 @@
       <workItem from="1740296807387" duration="900000" />
       <workItem from="1740301879255" duration="2696000" />
       <workItem from="1740310448532" duration="4151000" />
-      <workItem from="1740392705995" duration="860000" />
+      <workItem from="1740392705995" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -484,12 +484,9 @@
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedEmployeesFilterer.scala</url>
-          <line>28</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="55" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/views/resolver/EmployeesFilters.scala</url>
+          <line>41</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
