@@ -168,7 +168,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FlightRiskJobTest (1)">
+  <component name="RunManager" selected="Gradle.Tests in 'com.hibob.analytics.flightrisk'">
     <configuration name="FlightRiskJobTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -279,8 +279,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics.flightrisk'" />
+        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
         <item itemvalue="JUnit.FlightRiskJobTest,writable and 6 more" />
         <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="Gradle.hibob [build]" />
