@@ -156,7 +156,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="Gradle.FlightRiskFieldsAggregatorTest">
     <configuration name="FlightRiskFieldsAggregatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
