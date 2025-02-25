@@ -2,7 +2,4 @@
   <component name="ApplicationCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ScalaApplicationSettings">
-    <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
-  </component>
 </application>

@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="temurin-21" />
       <type value="JavaSDK" />
-      <version value="Eclipse Temurin 21.0.5" />
+      <version value="Eclipse Temurin 21.0.6" />
       <homePath value="/usr/lib/jvm/temurin-21-jdk-amd64" />
       <roots>
         <annotationsPath>
@@ -165,7 +165,7 @@
     <jdk version="2">
       <name value="temurin-17" />
       <type value="JavaSDK" />
-      <version value="Eclipse Temurin 17.0.13" />
+      <version value="Eclipse Temurin 17.0.14" />
       <homePath value="/usr/lib/jvm/temurin-17-jdk-amd64" />
       <roots>
         <annotationsPath>
@@ -329,7 +329,7 @@
     <jdk version="2">
       <name value="temurin-11" />
       <type value="JavaSDK" />
-      <version value="Eclipse Temurin 11.0.25" />
+      <version value="Eclipse Temurin 11.0.26" />
       <homePath value="/usr/lib/jvm/temurin-11-jdk-amd64" />
       <roots>
         <annotationsPath>

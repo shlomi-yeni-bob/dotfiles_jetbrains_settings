@@ -4,17 +4,12 @@
       <map>
         <entry key="/workspace/hibob">
           <value>
-            <RecentProjectMetaInfo frameTitle="hibob" opened="true" projectWorkspaceId="2sGnhDHzs96qkDM19J4pSqI9gHI">
-              <option name="activationTimestamp" value="1740476903463" />
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2tWu5saz5LV2BYj5YChTrL52UXo">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.24978.46" />
               <option name="buildTimestamp" value="1739284740000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="1728" y="25" width="1920" height="1055" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1740469145696" />
+              <option name="projectOpenTimestamp" value="1740479971491" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
