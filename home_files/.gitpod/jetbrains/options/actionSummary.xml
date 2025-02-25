@@ -4,13 +4,13 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="155" l="1740431284312" />
+      <i c="157" l="1740473472740" />
     </e>
     <e n="Annotate">
       <i c="27" l="1740431492935" />
     </e>
     <e n="Back">
-      <i c="130" l="1740432083582" />
+      <i c="134" l="1740474217631" />
     </e>
     <e n="ChangesView.Move">
       <i c="3" l="1740296961387" />
@@ -19,7 +19,7 @@
       <i c="4" l="1740428512961" />
     </e>
     <e n="CommentByLineComment">
-      <i c="21" l="1740431915678" />
+      <i c="25" l="1740469650937" />
     </e>
     <e n="CompileDirty">
       <i c="3" l="1740303927776" />
@@ -49,64 +49,64 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1140" l="1740432063579" />
+      <i c="1244" l="1740474212295" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="163" l="1740432071533" />
+      <i c="180" l="1740474154174" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740428941750" />
     </e>
     <e n="EditorCopy">
-      <i c="122" l="1740431726940" />
+      <i c="131" l="1740474087214" />
     </e>
     <e n="EditorCut">
-      <i c="14" l="1740431455152" />
+      <i c="15" l="1740473436044" />
     </e>
     <e n="EditorDown">
-      <i c="46" l="1740432001849" />
+      <i c="54" l="1740473633165" />
     </e>
     <e n="EditorDuplicate">
       <i c="13" l="1740302168555" />
     </e>
     <e n="EditorEnter">
-      <i c="102" l="1740431971159" />
+      <i c="124" l="1740474197659" />
     </e>
     <e n="EditorLeft">
-      <i c="193" l="1740431998390" />
+      <i c="199" l="1740473748414" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1740073672279" />
     </e>
     <e n="EditorLineEnd">
-      <i c="25" l="1740431998006" />
+      <i c="33" l="1740474162022" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="6" l="1740312997475" />
     </e>
     <e n="EditorLineStart">
-      <i c="23" l="1740431958054" />
+      <i c="29" l="1740474040442" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="3" l="1740431453825" />
+      <i c="5" l="1740473251674" />
     </e>
     <e n="EditorPaste">
-      <i c="134" l="1740432059850" />
+      <i c="147" l="1740474092070" />
     </e>
     <e n="EditorRight">
-      <i c="136" l="1740431998722" />
+      <i c="160" l="1740474090640" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="3" l="1740312996988" />
     </e>
     <e n="EditorSelectWord">
-      <i c="266" l="1740432062611" />
+      <i c="287" l="1740474175692" />
     </e>
     <e n="EditorTab">
-      <i c="2" l="1740073092949" />
+      <i c="6" l="1740474084181" />
     </e>
     <e n="EditorUp">
-      <i c="44" l="1740431997377" />
+      <i c="53" l="1740473736402" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="2" l="1740431453027" />
@@ -118,7 +118,7 @@
       <i c="2" l="1740304194448" />
     </e>
     <e n="FindInPath">
-      <i c="11" l="1740431474670" />
+      <i c="12" l="1740473755670" />
     </e>
     <e n="Forward">
       <i c="6" l="1740430547935" />
@@ -148,7 +148,7 @@
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="364" l="1740432079447" />
+      <i c="372" l="1740474192774" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -160,7 +160,7 @@
       <i c="4" l="1740312298683" />
     </e>
     <e n="ReformatCode">
-      <i c="12" l="1740431967454" />
+      <i c="13" l="1740469845288" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1739201152637" />
@@ -235,7 +235,7 @@
       <i c="2" l="1740313197834" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="31" l="1740431670945" />
+      <i c="32" l="1740473865124" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="6" l="1740297000211" />
@@ -250,7 +250,7 @@
       <i c="7" l="1740407696005" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="20" l="1740304554333" />
+      <i c="21" l="1740474220891" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="8" l="1740311588459" />

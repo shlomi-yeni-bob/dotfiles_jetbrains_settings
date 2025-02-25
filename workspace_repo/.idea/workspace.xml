@@ -7,6 +7,7 @@
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" afterDir="false" />
     </list>
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,9 +125,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3075829" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.18909952" />
       <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.12964775" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.43737474" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.48199052" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3191383" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.2433726" />
       <window_info anchor="right" id="sbt" />
@@ -155,7 +156,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FlightRiskFieldsAggregatorTest">
+  <component name="RunManager" selected="Gradle.FlightRiskJobTest (1)">
     <configuration name="FlightRiskFieldsAggregatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -274,10 +275,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics.flightrisk'" />
         <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="Gradle.hibob [build]" />
-        <item itemvalue="Gradle.FlightRiskJobTest (1)" />
         <item itemvalue="Gradle.FlightRiskFieldsAggregatorTest" />
       </list>
     </recent_temporary>
@@ -346,7 +347,7 @@
       <workItem from="1740310448532" duration="4151000" />
       <workItem from="1740392705995" duration="4101000" />
       <workItem from="1740407643315" duration="7889000" />
-      <workItem from="1740469147259" duration="394000" />
+      <workItem from="1740469147259" duration="3330000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
