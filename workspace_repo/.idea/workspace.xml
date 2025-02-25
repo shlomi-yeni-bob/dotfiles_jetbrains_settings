@@ -54,40 +54,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Bob Localhost.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.Build hibob.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskFieldsAggregatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.KPIDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.hibob [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [clean].executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FlightRiskJobTest,writable and 6 more.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.com.hibob.analytics.flightrisk in hibob.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run all went well.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run an exception occurred.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;shlomi-yeni/flight-risk-job-refactor-next-excution&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/hibob/app/com/hibob/analytics/kpis/shlomi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bob Localhost.executor": "Debug",
+    "Gradle.Build hibob.executor": "Run",
+    "Gradle.DirectDashboardDaoTest (1).executor": "Run",
+    "Gradle.DirectDashboardDaoTest.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.FlightRiskFieldsAggregatorTest.executor": "Run",
+    "Gradle.FlightRiskJobTest (1).executor": "Run",
+    "Gradle.FlightRiskJobTest.executor": "Debug",
+    "Gradle.KPIDaoTest.executor": "Run",
+    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Run",
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "Gradle.hibob [build].executor": "Run",
+    "Gradle.hibob [clean].executor": "Run",
+    "JUnit.FlightRiskJobTest,writable and 6 more.executor": "Run",
+    "JUnit.com.hibob.analytics.flightrisk in hibob.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ScalaTest.FlightRiskJobTest.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled.executor": "Debug",
+    "ScalaTest.FlightRiskJobTest.run all went well.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.run an exception occurred.executor": "Run",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "shlomi-yeni/flight-risk-job-refactor-next-excution",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/hibob/app/com/hibob/analytics/kpis/shlomi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -111,11 +112,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3075829" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.26492894" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.31990522" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.31990522" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.2433726" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" weight="0.31895733" />
+      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" visible="true" weight="0.31990522" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -127,8 +128,8 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.1549479" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
-      <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
-      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.2122396" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.15338542" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -357,6 +358,7 @@
       <workItem from="1740469147259" duration="5940000" />
       <workItem from="1740485597809" duration="2193000" />
       <workItem from="1740493285760" duration="1520000" />
+      <workItem from="1740498439418" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -497,6 +499,16 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
           <line>32</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
+          <line>67</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
+          <line>82</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
