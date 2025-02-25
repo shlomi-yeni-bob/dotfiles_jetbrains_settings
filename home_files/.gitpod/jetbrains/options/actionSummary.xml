@@ -4,13 +4,13 @@
       <i c="12" l="1739171764669" />
     </e>
     <e n="$Undo">
-      <i c="121" l="1740429166817" />
+      <i c="155" l="1740431284312" />
     </e>
     <e n="Annotate">
-      <i c="26" l="1740407402672" />
+      <i c="27" l="1740431492935" />
     </e>
     <e n="Back">
-      <i c="122" l="1740429020471" />
+      <i c="130" l="1740432083582" />
     </e>
     <e n="ChangesView.Move">
       <i c="3" l="1740296961387" />
@@ -19,7 +19,7 @@
       <i c="4" l="1740428512961" />
     </e>
     <e n="CommentByLineComment">
-      <i c="18" l="1740407398033" />
+      <i c="21" l="1740431915678" />
     </e>
     <e n="CompileDirty">
       <i c="3" l="1740303927776" />
@@ -34,7 +34,7 @@
       <i c="10" l="1740407149918" />
     </e>
     <e n="Debug">
-      <i c="69" l="1740428583025" />
+      <i c="70" l="1740430794601" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -49,64 +49,67 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1028" l="1740429185147" />
+      <i c="1140" l="1740432063579" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="154" l="1740429279832" />
+      <i c="163" l="1740432071533" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740428941750" />
     </e>
     <e n="EditorCopy">
-      <i c="112" l="1740429189476" />
+      <i c="122" l="1740431726940" />
     </e>
     <e n="EditorCut">
-      <i c="12" l="1740408613118" />
+      <i c="14" l="1740431455152" />
     </e>
     <e n="EditorDown">
-      <i c="41" l="1740429152666" />
+      <i c="46" l="1740432001849" />
     </e>
     <e n="EditorDuplicate">
       <i c="13" l="1740302168555" />
     </e>
     <e n="EditorEnter">
-      <i c="86" l="1740429249772" />
+      <i c="102" l="1740431971159" />
     </e>
     <e n="EditorLeft">
-      <i c="189" l="1740429162206" />
+      <i c="193" l="1740431998390" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1740073672279" />
     </e>
     <e n="EditorLineEnd">
-      <i c="23" l="1740429181123" />
+      <i c="25" l="1740431998006" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="6" l="1740312997475" />
     </e>
     <e n="EditorLineStart">
-      <i c="17" l="1740429262459" />
+      <i c="23" l="1740431958054" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="2" l="1740408254342" />
+      <i c="3" l="1740431453825" />
     </e>
     <e n="EditorPaste">
-      <i c="110" l="1740429193018" />
+      <i c="134" l="1740432059850" />
     </e>
     <e n="EditorRight">
-      <i c="125" l="1740429162579" />
+      <i c="136" l="1740431998722" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="3" l="1740312996988" />
     </e>
     <e n="EditorSelectWord">
-      <i c="245" l="1740429240463" />
+      <i c="266" l="1740432062611" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740073092949" />
     </e>
     <e n="EditorUp">
-      <i c="34" l="1740429262070" />
+      <i c="44" l="1740431997377" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="2" l="1740431453027" />
     </e>
     <e n="EvaluateExpression">
       <i c="1" l="1739964390230" />
@@ -115,10 +118,10 @@
       <i c="2" l="1740304194448" />
     </e>
     <e n="FindInPath">
-      <i c="9" l="1740302356506" />
+      <i c="11" l="1740431474670" />
     </e>
     <e n="Forward">
-      <i c="5" l="1740393972202" />
+      <i c="6" l="1740430547935" />
     </e>
     <e n="Generate">
       <i c="1" l="1740429110226" />
@@ -145,7 +148,7 @@
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="345" l="1740429292771" />
+      <i c="364" l="1740432079447" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -157,7 +160,7 @@
       <i c="4" l="1740312298683" />
     </e>
     <e n="ReformatCode">
-      <i c="9" l="1740408317373" />
+      <i c="12" l="1740431967454" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1739201152637" />
@@ -166,7 +169,7 @@
       <i c="1" l="1740314594393" />
     </e>
     <e n="Resume">
-      <i c="393" l="1740428798849" />
+      <i c="396" l="1740430873942" />
     </e>
     <e n="RunClass">
       <i c="5" l="1740304506975" />
@@ -184,10 +187,10 @@
       <i c="2" l="1739964080359" />
     </e>
     <e n="StepOver">
-      <i c="255" l="1740394704171" />
+      <i c="256" l="1740430868514" />
     </e>
     <e n="Stop">
-      <i c="44" l="1740427657885" />
+      <i c="45" l="1740430787444" />
     </e>
     <e n="Table-selectNextRow">
       <i c="162" l="1739105771194" />
@@ -217,7 +220,7 @@
       <i c="2" l="1739263706460" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="5" l="1740312798216" />
+      <i c="6" l="1740431287634" />
     </e>
     <e n="Vcs.ShowTabbedFileHistory">
       <i c="1" l="1740397114859" />
@@ -226,13 +229,13 @@
       <i c="1" l="1740073306361" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="116" l="1740428786653" />
+      <i c="117" l="1740430872956" />
     </e>
     <e n="XDebugger.RemoveWatch">
       <i c="2" l="1740313197834" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="28" l="1740408521200" />
+      <i c="31" l="1740431670945" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="6" l="1740297000211" />
@@ -253,7 +256,7 @@
       <i c="8" l="1740311588459" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="3" l="1740074110307" />
+      <i c="4" l="1740431482948" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1740312318773" />
@@ -268,10 +271,10 @@
       <i c="1" l="1739179119743" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="48" l="1740397461174" />
+      <i c="55" l="1740431481407" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="25" l="1740397464018" />
+      <i c="26" l="1740431481825" />
     </e>
     <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
       <i c="7" l="1740304144606" />
