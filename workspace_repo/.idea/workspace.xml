@@ -110,7 +110,7 @@
       <window_info anchor="bottom" id="Run" order="5" weight="0.4791469" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.4791469" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.2433726" />
-      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.2800948" />
+      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.556872" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -321,7 +321,7 @@
       <workItem from="1740392705995" duration="4101000" />
       <workItem from="1740407643315" duration="7889000" />
       <workItem from="1740469147259" duration="5940000" />
-      <workItem from="1740485597809" duration="1100000" />
+      <workItem from="1740485597809" duration="1458000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
