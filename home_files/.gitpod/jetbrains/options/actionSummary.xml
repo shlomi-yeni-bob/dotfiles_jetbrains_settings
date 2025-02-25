@@ -34,7 +34,7 @@
       <i c="10" l="1740407149918" />
     </e>
     <e n="Debug">
-      <i c="70" l="1740430794601" />
+      <i c="71" l="1740485797783" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -91,7 +91,7 @@
       <i c="5" l="1740473251674" />
     </e>
     <e n="EditorPaste">
-      <i c="154" l="1740475335262" />
+      <i c="155" l="1740486061031" />
     </e>
     <e n="EditorRight">
       <i c="160" l="1740474090640" />
@@ -118,7 +118,7 @@
       <i c="4" l="1740475958527" />
     </e>
     <e n="FindInPath">
-      <i c="12" l="1740473755670" />
+      <i c="13" l="1740486060253" />
     </e>
     <e n="Forward">
       <i c="6" l="1740430547935" />
@@ -256,10 +256,10 @@
       <i c="28" l="1740476531945" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="8" l="1740311588459" />
+      <i c="9" l="1740485796703" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="4" l="1740431482948" />
+      <i c="5" l="1740486062756" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1740312318773" />
@@ -289,7 +289,7 @@
       <i c="3" l="1740313210699" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
-      <i c="1" l="1740057303355" />
+      <i c="2" l="1740485701264" />
     </e>
     <e n="profiler.DisableProfileOnRunToCursor">
       <i c="1" l="1740068927223" />

@@ -24,29 +24,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="hibob" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="hibob" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="hibob" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="hibob" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="run" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -112,7 +90,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16067708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11692709" />
       <window_info id="Commit" order="1" weight="0.22019675" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
@@ -128,11 +106,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.23649289" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.12964775" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3028436" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.4791469" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.4791469" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.2433726" />
+      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.4251185" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -141,7 +119,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.2122396" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.2122396" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.1549479" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.33015046" />
@@ -343,7 +321,7 @@
       <workItem from="1740392705995" duration="4101000" />
       <workItem from="1740407643315" duration="7889000" />
       <workItem from="1740469147259" duration="5940000" />
-      <workItem from="1740485597809" duration="48000" />
+      <workItem from="1740485597809" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
