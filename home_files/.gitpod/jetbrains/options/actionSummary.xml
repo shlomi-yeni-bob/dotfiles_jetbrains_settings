@@ -10,7 +10,7 @@
       <i c="27" l="1740431492935" />
     </e>
     <e n="Back">
-      <i c="134" l="1740474217631" />
+      <i c="138" l="1740475423095" />
     </e>
     <e n="ChangesView.Move">
       <i c="3" l="1740296961387" />
@@ -19,13 +19,13 @@
       <i c="4" l="1740428512961" />
     </e>
     <e n="CommentByLineComment">
-      <i c="26" l="1740474373340" />
+      <i c="27" l="1740476063323" />
     </e>
     <e n="CompileDirty">
       <i c="3" l="1740303927776" />
     </e>
     <e n="CompileFile">
-      <i c="1" l="1740303766814" />
+      <i c="2" l="1740475841456" />
     </e>
     <e n="CompileProject">
       <i c="2" l="1739135113960" />
@@ -49,16 +49,16 @@
       <i c="1" l="1739964104378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1244" l="1740474212295" />
+      <i c="1261" l="1740476216599" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="180" l="1740474154174" />
+      <i c="184" l="1740475650182" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740428941750" />
     </e>
     <e n="EditorCopy">
-      <i c="131" l="1740474087214" />
+      <i c="137" l="1740475329586" />
     </e>
     <e n="EditorCut">
       <i c="15" l="1740473436044" />
@@ -73,7 +73,7 @@
       <i c="124" l="1740474197659" />
     </e>
     <e n="EditorLeft">
-      <i c="199" l="1740473748414" />
+      <i c="200" l="1740475449691" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1740073672279" />
@@ -91,7 +91,7 @@
       <i c="5" l="1740473251674" />
     </e>
     <e n="EditorPaste">
-      <i c="147" l="1740474092070" />
+      <i c="154" l="1740475335262" />
     </e>
     <e n="EditorRight">
       <i c="160" l="1740474090640" />
@@ -100,7 +100,7 @@
       <i c="3" l="1740312996988" />
     </e>
     <e n="EditorSelectWord">
-      <i c="287" l="1740474175692" />
+      <i c="309" l="1740476211500" />
     </e>
     <e n="EditorTab">
       <i c="6" l="1740474084181" />
@@ -115,7 +115,7 @@
       <i c="1" l="1739964390230" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="2" l="1740304194448" />
+      <i c="4" l="1740475958527" />
     </e>
     <e n="FindInPath">
       <i c="12" l="1740473755670" />
@@ -148,7 +148,7 @@
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="373" l="1740474441576" />
+      <i c="380" l="1740475399378" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -171,8 +171,11 @@
     <e n="Resume">
       <i c="396" l="1740430873942" />
     </e>
+    <e n="Run">
+      <i c="1" l="1740476066012" />
+    </e>
     <e n="RunClass">
-      <i c="5" l="1740304506975" />
+      <i c="6" l="1740475830645" />
     </e>
     <e n="RunToCursor">
       <i c="1" l="1740038517006" />
@@ -235,7 +238,7 @@
       <i c="2" l="1740313197834" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="32" l="1740473865124" />
+      <i c="36" l="1740475409787" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="6" l="1740297000211" />
@@ -247,10 +250,10 @@
       <i c="2" l="1740407814735" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="7" l="1740407696005" />
+      <i c="9" l="1740476036556" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="22" l="1740474378406" />
+      <i c="27" l="1740476223996" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="8" l="1740311588459" />
