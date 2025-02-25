@@ -10,7 +10,7 @@
       <i c="27" l="1740431492935" />
     </e>
     <e n="Back">
-      <i c="163" l="1740486853627" />
+      <i c="173" l="1740516328658" />
     </e>
     <e n="ChangesView.Move">
       <i c="3" l="1740296961387" />
@@ -31,10 +31,10 @@
       <i c="2" l="1739135113960" />
     </e>
     <e n="CopyReference">
-      <i c="10" l="1740407149918" />
+      <i c="12" l="1740516097785" />
     </e>
     <e n="Debug">
-      <i c="72" l="1740498704950" />
+      <i c="73" l="1740516345191" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -58,7 +58,7 @@
       <i c="2" l="1740428941750" />
     </e>
     <e n="EditorCopy">
-      <i c="161" l="1740502914529" />
+      <i c="164" l="1740516087901" />
     </e>
     <e n="EditorCut">
       <i c="17" l="1740502417148" />
@@ -148,7 +148,7 @@
       <i c="4" l="1740304703253" />
     </e>
     <e n="GotoDeclaration">
-      <i c="407" l="1740502376468" />
+      <i c="427" l="1740516326145" />
     </e>
     <e n="MakeModule">
       <i c="1" l="1740303778282" />
@@ -202,7 +202,7 @@
       <i c="6" l="1739105770102" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="129" l="1740498728657" />
+      <i c="130" l="1740516335830" />
     </e>
     <e n="Tree-selectChild">
       <i c="26" l="1740153604542" />
@@ -238,7 +238,7 @@
       <i c="2" l="1740313197834" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="36" l="1740475409787" />
+      <i c="37" l="1740516258894" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="9" l="1740513741765" />
@@ -256,7 +256,7 @@
       <i c="37" l="1740513753031" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="9" l="1740485796703" />
+      <i c="10" l="1740516343039" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="5" l="1740486062756" />
