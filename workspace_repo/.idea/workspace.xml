@@ -142,7 +142,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.FlightRiskJobTest.run an exception occurred">
+  <component name="RunManager" selected="ScalaTest.FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled">
     <configuration name="FlightRiskJobTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -191,22 +191,6 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="FlightRiskJobTest,writable and 6 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hibob.test" />
-      <option name="TEST_OBJECT" value="pattern" />
-      <patterns>
-        <pattern testClass="com.hibob.analytics.flightrisk.FlightRiskJobTest,writable" />
-        <pattern testClass="com.hibob.analytics.flightrisk.FlightRiskJobTest,after" />
-        <pattern testClass="com.hibob.analytics.flightrisk.FlightRiskJobTest,typeCheck" />
-        <pattern testClass="com.hibob.analytics.flightrisk.FlightRiskJobTest,empty" />
-        <pattern testClass="com.hibob.analytics.flightrisk.FlightRiskJobTest,compile" />
-        <pattern testClass="com.hibob.analytics.flightrisk.FlightRiskJobTest,matchPattern" />
-        <pattern testClass="com.hibob.analytics.flightrisk.FlightRiskJobTest,equal" />
-      </patterns>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FlightRiskJobTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -231,6 +215,36 @@
       <option name="testKind" value="Class" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobTest" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="hibob.test" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envFilePaths">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobTest" />
+      <option name="testName" value="flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -268,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled" />
         <item itemvalue="ScalaTest.FlightRiskJobTest.run an exception occurred" />
         <item itemvalue="ScalaTest.FlightRiskJobTest" />
         <item itemvalue="Gradle.FlightRiskJobTest (1)" />
         <item itemvalue="Gradle.Tests in 'com.hibob.analytics.flightrisk'" />
-        <item itemvalue="JUnit.FlightRiskJobTest,writable and 6 more" />
       </list>
     </recent_temporary>
   </component>
