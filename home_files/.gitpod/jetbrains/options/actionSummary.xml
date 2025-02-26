@@ -3,6 +3,9 @@
     <e n="Debug">
       <i c="1" l="1740568236243" />
     </e>
+    <e n="org.jetbrains.plugins.scala.compiler.CompileServerManager$Configure$">
+      <i c="1" l="1740569844062" />
+    </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1740568219226" />
     </e>
