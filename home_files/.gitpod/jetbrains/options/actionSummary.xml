@@ -34,7 +34,7 @@
       <i c="17" l="1740517640672" />
     </e>
     <e n="Debug">
-      <i c="73" l="1740516345191" />
+      <i c="74" l="1740563317408" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -292,7 +292,7 @@
       <i c="3" l="1740313210699" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
-      <i c="2" l="1740485701264" />
+      <i c="4" l="1740563095788" />
     </e>
     <e n="profiler.DisableProfileOnRunToCursor">
       <i c="1" l="1740068927223" />
