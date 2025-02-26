@@ -3,20 +3,44 @@
     <e n="Back">
       <i c="2" l="1740570771516" />
     </e>
+    <e n="CopyReference">
+      <i c="1" l="1740581279235" />
+    </e>
     <e n="Debug">
       <i c="1" l="1740568236243" />
     </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1740581225799" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1740581230246" />
+    </e>
+    <e n="EditorCopy">
+      <i c="3" l="1740581239175" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1740581181792" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="2" l="1740581216400" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1740581173600" />
+    </e>
     <e n="EditorSelectWord">
-      <i c="8" l="1740576363999" />
+      <i c="12" l="1740581273960" />
     </e>
     <e n="GotoDeclaration">
-      <i c="3" l="1740576353096" />
+      <i c="5" l="1740581233203" />
     </e>
     <e n="Resume">
       <i c="5" l="1740570791500" />
     </e>
     <e n="StepOver">
       <i c="5" l="1740570655686" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1740581159003" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="9" l="1740570751147" />
