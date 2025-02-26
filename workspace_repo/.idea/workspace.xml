@@ -130,11 +130,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2433726" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.30743742" />
-      <window_info anchor="bottom" id="Build" order="5" weight="0.30743742" />
-      <window_info anchor="bottom" id="Services" order="6" weight="0.2433726" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" weight="0.4650221" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.30743742" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.30743742" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.30743742" />
+      <window_info anchor="bottom" id="Services" order="6" weight="0.30743742" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" weight="0.30743742" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -144,7 +144,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.3298828" />
       <window_info anchor="right" id="Database" order="2" weight="0.3298828" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.3298828" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.15253906" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
@@ -357,7 +357,7 @@
       <workItem from="1740498439418" duration="319000" />
       <workItem from="1740501860918" duration="1137000" />
       <workItem from="1740513453932" duration="4396000" />
-      <workItem from="1740562399168" duration="2431000" />
+      <workItem from="1740562399168" duration="2871000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
