@@ -131,8 +131,8 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.2433726" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.3175147" />
-      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.30743742" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.30743742" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.30743742" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.2433726" />
       <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" weight="0.4650221" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
@@ -357,7 +357,7 @@
       <workItem from="1740498439418" duration="319000" />
       <workItem from="1740501860918" duration="1137000" />
       <workItem from="1740513453932" duration="4396000" />
-      <workItem from="1740562399168" duration="2016000" />
+      <workItem from="1740562399168" duration="2431000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
