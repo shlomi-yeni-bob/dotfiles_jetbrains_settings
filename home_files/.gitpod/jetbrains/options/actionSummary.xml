@@ -10,13 +10,13 @@
       <i c="1" l="1740568236243" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1" l="1740581225799" />
+      <i c="8" l="1740581585843" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1740581230246" />
     </e>
     <e n="EditorCopy">
-      <i c="3" l="1740581239175" />
+      <i c="5" l="1740581572588" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1740581181792" />
@@ -24,14 +24,20 @@
     <e n="EditorDuplicate">
       <i c="2" l="1740581216400" />
     </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1740581579701" />
+    </e>
     <e n="EditorPaste">
-      <i c="1" l="1740581173600" />
+      <i c="3" l="1740581575106" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1740581613978" />
     </e>
     <e n="EditorSelectWord">
-      <i c="12" l="1740581273960" />
+      <i c="15" l="1740581571862" />
     </e>
     <e n="GotoDeclaration">
-      <i c="5" l="1740581233203" />
+      <i c="6" l="1740581441033" />
     </e>
     <e n="Resume">
       <i c="5" l="1740570791500" />
