@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculatorTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/package.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="add logic to improve flight risk schedule distribution" />
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +99,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.17578125" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.119335935" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.1685547" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -123,7 +117,7 @@
       <window_info anchor="bottom" id="Run" order="4" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.2433726" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" visible="true" weight="0.33836526" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" visible="true" weight="0.4650221" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -382,7 +376,7 @@
       <workItem from="1740498439418" duration="319000" />
       <workItem from="1740501860918" duration="1137000" />
       <workItem from="1740513453932" duration="4396000" />
-      <workItem from="1740562399168" duration="1137000" />
+      <workItem from="1740562399168" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -432,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740152458393</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add logic to improve flight risk schedule distribution">
+      <option name="closed" value="true" />
+      <created>1740563927299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740563927299</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +481,8 @@
     <MESSAGE value="delete unused test" />
     <MESSAGE value="fix" />
     <MESSAGE value="unknown" />
-    <option name="LAST_COMMIT_MESSAGE" value="unknown" />
+    <MESSAGE value="add logic to improve flight risk schedule distribution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add logic to improve flight risk schedule distribution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
