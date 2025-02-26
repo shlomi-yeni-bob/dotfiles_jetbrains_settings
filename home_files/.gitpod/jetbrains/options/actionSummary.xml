@@ -1,13 +1,31 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="2" l="1740570771516" />
+    </e>
     <e n="Debug">
       <i c="1" l="1740568236243" />
     </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1740570743339" />
+    </e>
     <e n="Resume">
-      <i c="1" l="1740569893894" />
+      <i c="5" l="1740570791500" />
+    </e>
+    <e n="StepOver">
+      <i c="5" l="1740570655686" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="9" l="1740570751147" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="3" l="1740569893338" />
+      <i c="5" l="1740570790490" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
+      <i c="1" l="1740570500339" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="4" l="1740570768832" />
     </e>
     <e n="org.jetbrains.plugins.scala.compiler.CompileServerManager$Configure$">
       <i c="1" l="1740569844062" />

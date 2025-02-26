@@ -1,12 +1,12 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2478" height="456" />
-    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2478" height="456" />
-    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2478" height="456" />
-    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2478" height="456" />
-    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2478" height="456" />
-    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2478" height="456" />
-    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2478" height="456" />
-    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2478" height="456" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2478" height="373" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2478" height="373" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2478" height="373" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2478" height="373" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2478" height="373" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2478" height="373" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2478" height="373" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2478" height="373" />
   </component>
 </application>
