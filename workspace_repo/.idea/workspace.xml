@@ -24,7 +24,23 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibob" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibob" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hibob" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -50,47 +66,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Bob Localhost.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.Build hibob.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskFieldsAggregatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.KPIDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.hibob [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [clean].executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FlightRiskJobTest,writable and 6 more.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.com.hibob.analytics.flightrisk in hibob.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday and not later than next monday at midnight.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday at midnight.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than the current time.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)\nFlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled.executor&quot;: &quot;Debug&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run all went well.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run an exception occurred.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run no company found\nrun an exception occurred\nrun all went well.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;shlomi-yeni/flight-risk-job-refactor-next-excution&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/hibob/app/com/hibob/analytics/kpis/shlomi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bob Localhost.executor": "Debug",
+    "Gradle.Build hibob.executor": "Run",
+    "Gradle.DirectDashboardDaoTest (1).executor": "Run",
+    "Gradle.DirectDashboardDaoTest.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.FlightRiskFieldsAggregatorTest.executor": "Run",
+    "Gradle.FlightRiskJobTest (1).executor": "Run",
+    "Gradle.FlightRiskJobTest.executor": "Debug",
+    "Gradle.KPIDaoTest.executor": "Run",
+    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Run",
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "Gradle.hibob [build].executor": "Run",
+    "Gradle.hibob [clean].executor": "Run",
+    "JUnit.FlightRiskJobTest,writable and 6 more.executor": "Run",
+    "JUnit.Whole project.executor": "Run",
+    "JUnit.com.hibob.analytics.flightrisk in hibob.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday and not later than next monday at midnight.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday at midnight.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than the current time.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)\nFlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled.executor": "Debug",
+    "ScalaTest.FlightRiskJobTest.run all went well.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.run an exception occurred.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.run no company found\nrun an exception occurred\nrun all went well.executor": "Run",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "shlomi-yeni/flight-risk-job-refactor-next-excution",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/hibob/app/com/hibob/analytics/kpis/shlomi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -115,9 +132,9 @@
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.2433726" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.3175147" />
-      <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.30743742" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.2433726" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" visible="true" weight="0.4650221" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" weight="0.4650221" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -125,9 +142,9 @@
       <window_info anchor="right" id="Beans" />
       <window_info anchor="right" id="bsp" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.2122396" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.1549479" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3298828" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.3298828" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
@@ -145,7 +162,17 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="JUnit.Whole project">
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -201,36 +228,6 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobNextExecutionCalculatorTest" />
       <option name="testName" value="FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday and not later than next monday at midnight" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday at midnight" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="hibob.test" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobNextExecutionCalculatorTest" />
-      <option name="testName" value="FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday at midnight" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -298,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Whole project" />
         <item itemvalue="ScalaTest.FlightRiskJobTest.run no company found&#10;run an exception occurred&#10;run all went well" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)&#10;FlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday and not later than next monday at midnight" />
-        <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday at midnight" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +373,7 @@
       <workItem from="1740498439418" duration="319000" />
       <workItem from="1740501860918" duration="1137000" />
       <workItem from="1740513453932" duration="4396000" />
-      <workItem from="1740562399168" duration="1601000" />
+      <workItem from="1740562399168" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
