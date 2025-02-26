@@ -77,6 +77,7 @@
     "Gradle.FlightRiskJobTest (1).executor": "Run",
     "Gradle.FlightRiskJobTest.executor": "Debug",
     "Gradle.KPIDaoTest.executor": "Run",
+    "Gradle.Rebuild Twirl Templates.executor": "Run",
     "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Run",
     "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
     "Gradle.hibob [build].executor": "Run",
@@ -162,7 +163,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [build]">
+  <component name="RunManager" selected="Gradle.Rebuild Twirl Templates">
     <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -357,7 +358,7 @@
       <workItem from="1740498439418" duration="319000" />
       <workItem from="1740501860918" duration="1137000" />
       <workItem from="1740513453932" duration="4396000" />
-      <workItem from="1740562399168" duration="3133000" />
+      <workItem from="1740562399168" duration="3967000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
