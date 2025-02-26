@@ -1,16 +1,43 @@
 <application>
+  <component name="BuiltInServerOptions" builtInServerPort="63936" />
+  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
   <component name="NotRoamableUiSettings">
+    <option name="ideAAType" value="Greyscale" />
+    <option name="editorAAType" value="Greyscale" />
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
     <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "BuildView.Splitter.Proportion": "0.5497812",
+    "InstalledPluginsSearchHistory": "scala\nsca",
+    "MultipleBuildsView.Splitter.Proportion": "0.33319673",
+    "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "defaultJdkConfigured": "true",
+    "evlsprt3.251": "3",
     "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.22821.72",
     "fileTypeChangedCounter": "1",
-    "installed.kotlin.plugin.version": "243.24978.46-IJ",
+    "fontSizeToResetConsole": "16.0",
+    "fontSizeToResetEditor": "16.0",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "251.22821.72-IJ",
+    "kotlin.lastUpdateCheck": "1740563968622",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "previousColorScheme": "_@client_Dark",
+    "registry.to.advanced.settings.migration.build": "IU-251.22821.72",
+    "rider.trace.scenarios": "",
+    "scala.last.updated": "1740563966445",
     "ts.lib.d.ts.version": "5.6.3"
   },
   "keyToStringList": {
