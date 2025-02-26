@@ -37,7 +37,7 @@
       <i c="17" l="1740517640672" />
     </e>
     <e n="Debug">
-      <i c="75" l="1740564095361" />
+      <i c="77" l="1740567833416" />
     </e>
     <e n="DebugClass">
       <i c="3" l="1740304491857" />
@@ -67,7 +67,7 @@
       <i c="2" l="1740428941750" />
     </e>
     <e n="EditorCopy">
-      <i c="167" l="1740518145678" />
+      <i c="169" l="1740567916659" />
     </e>
     <e n="EditorCut">
       <i c="17" l="1740502417148" />
@@ -109,7 +109,7 @@
       <i c="7" l="1740501946015" />
     </e>
     <e n="EditorSelectWord">
-      <i c="358" l="1740566191547" />
+      <i c="360" l="1740567915856" />
     </e>
     <e n="EditorTab">
       <i c="6" l="1740474084181" />
@@ -170,6 +170,9 @@
     </e>
     <e n="MoveStatementUp">
       <i c="4" l="1740312298683" />
+    </e>
+    <e n="OpenModuleSettings">
+      <i c="1" l="1740567686607" />
     </e>
     <e n="ReformatCode">
       <i c="13" l="1740469845288" />
@@ -268,7 +271,7 @@
       <i c="37" l="1740513753031" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="11" l="1740565591922" />
+      <i c="12" l="1740567798840" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="6" l="1740564565294" />
