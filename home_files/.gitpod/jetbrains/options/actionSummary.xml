@@ -51,6 +51,12 @@
     <e n="Docker.RemoteServers.StartAllComposeApp">
       <i c="1" l="1739964104378" />
     </e>
+    <e n="EditCustomProperties">
+      <i c="1" l="1740565301835" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1740565307555" />
+    </e>
     <e n="EditorBackSpace">
       <i c="1434" l="1740563911607" />
     </e>
@@ -295,7 +301,7 @@
       <i c="3" l="1740313210699" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
-      <i c="5" l="1740564999310" />
+      <i c="6" l="1740565292237" />
     </e>
     <e n="profiler.DisableProfileOnRunToCursor">
       <i c="1" l="1740068927223" />
