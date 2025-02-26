@@ -15,8 +15,10 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "defaultJdkConfigured": "true",
+    "evlsprt3.243": "4",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.switch": "true",
     "experimental.ui.used.version": "243.24978.46",

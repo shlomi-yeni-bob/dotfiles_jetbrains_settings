@@ -8,5 +8,6 @@
     <entry key="enable.connection.configuration.widget" value="false" source="SYSTEM" />
     <entry key="ide.text.fractional.metrics" value="[Auto|Disabled*|Enabled]" source="SYSTEM" />
     <entry key="editor.text.fractional.metrics" value="[Auto|Disabled|Enabled*]" source="SYSTEM" />
+    <entry key="scala.erase.compiler.process.jdk.once" value="false" source="SYSTEM" />
   </component>
 </application>
