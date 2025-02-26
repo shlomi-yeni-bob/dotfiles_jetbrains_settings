@@ -6,8 +6,11 @@
     <e n="Debug">
       <i c="1" l="1740568236243" />
     </e>
+    <e n="EditorSelectWord">
+      <i c="8" l="1740576363999" />
+    </e>
     <e n="GotoDeclaration">
-      <i c="1" l="1740570743339" />
+      <i c="3" l="1740576353096" />
     </e>
     <e n="Resume">
       <i c="5" l="1740570791500" />
@@ -17,6 +20,9 @@
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="9" l="1740570751147" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1740573121718" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
       <i c="5" l="1740570790490" />
