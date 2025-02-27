@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala" afterDir="false" />
+    </list>
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +156,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.25214845" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.13925782" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -365,7 +367,7 @@
       <workItem from="1740562399168" duration="3967000" />
       <workItem from="1740567592692" duration="326000" />
       <workItem from="1740568147802" duration="10663000" />
-      <workItem from="1740643404076" duration="3291000" />
+      <workItem from="1740643404076" duration="4992000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
