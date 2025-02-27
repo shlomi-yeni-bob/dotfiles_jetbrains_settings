@@ -10,7 +10,7 @@
       <i c="2" l="1740644682164" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8" l="1740581585843" />
+      <i c="18" l="1740644893520" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1740581653534" />
@@ -37,10 +37,13 @@
       <i c="2" l="1740581613978" />
     </e>
     <e n="EditorSelectWord">
-      <i c="15" l="1740581571862" />
+      <i c="16" l="1740644872855" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1740644918418" />
     </e>
     <e n="GotoDeclaration">
-      <i c="7" l="1740582114899" />
+      <i c="8" l="1740644792521" />
     </e>
     <e n="Resume">
       <i c="5" l="1740570791500" />
@@ -49,7 +52,7 @@
       <i c="5" l="1740570655686" />
     </e>
     <e n="Stop">
-      <i c="1" l="1740581159003" />
+      <i c="2" l="1740644813173" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="9" l="1740570751147" />
@@ -60,8 +63,14 @@
     <e n="XDebugger.MuteBreakpoints">
       <i c="5" l="1740570790490" />
     </e>
+    <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
+      <i c="1" l="1740644758656" />
+    </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1740570500339" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1740644800636" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="1" l="1740644680748" />
@@ -74,6 +83,9 @@
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1740568219226" />
+    </e>
+    <e n="profiler.DisableProfileOnRunToCursor">
+      <i c="1" l="1740644744449" />
     </e>
   </component>
 </application>
