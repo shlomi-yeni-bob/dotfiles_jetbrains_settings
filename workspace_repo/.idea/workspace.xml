@@ -169,7 +169,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="ScalaTest.FlightRiskJobNextExecutionCalculatorTest">
     <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -224,7 +224,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="FlightRiskJobNextExecutionCalculatorTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
       <option name="allowRunningInParallel" value="false" />
@@ -245,10 +245,9 @@
       <option name="selectedOptions">
         <list />
       </option>
-      <option name="testKind" value="Test name" />
+      <option name="testKind" value="Class" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobNextExecutionCalculatorTest" />
-      <option name="testName" value="FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -286,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest" />
         <item itemvalue="Gradle.hibob [build]" />
         <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="JUnit.Whole project" />
         <item itemvalue="ScalaTest.FlightRiskJobTest.run no company found&#10;run an exception occurred&#10;run all went well" />
-        <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies" />
       </list>
     </recent_temporary>
   </component>

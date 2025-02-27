@@ -7,7 +7,7 @@
       <i c="1" l="1740581279235" />
     </e>
     <e n="Debug">
-      <i c="1" l="1740568236243" />
+      <i c="2" l="1740644682164" />
     </e>
     <e n="EditorBackSpace">
       <i c="8" l="1740581585843" />
@@ -62,6 +62,9 @@
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1740570500339" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="1" l="1740644680748" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="10" l="1740571050391" />
