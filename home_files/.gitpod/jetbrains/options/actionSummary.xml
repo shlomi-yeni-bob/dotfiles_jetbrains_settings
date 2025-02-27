@@ -7,7 +7,7 @@
       <i c="53" l="1740668488706" />
     </e>
     <e n="Back">
-      <i c="4" l="1740667910360" />
+      <i c="6" l="1740672949277" />
     </e>
     <e n="CommentByLineComment">
       <i c="7" l="1740667941910" />
@@ -19,16 +19,16 @@
       <i c="3" l="1740655616721" />
     </e>
     <e n="EditorBackSpace">
-      <i c="379" l="1740670259973" />
+      <i c="391" l="1740673101357" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="34" l="1740670293077" />
+      <i c="35" l="1740672979306" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1740655386345" />
     </e>
     <e n="EditorCopy">
-      <i c="34" l="1740668541894" />
+      <i c="42" l="1740673117277" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -43,25 +43,25 @@
       <i c="52" l="1740670164946" />
     </e>
     <e n="EditorLeft">
-      <i c="15" l="1740660334435" />
+      <i c="17" l="1740673026435" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="7" l="1740654906836" />
+      <i c="15" l="1740673028779" />
     </e>
     <e n="EditorLineEnd">
-      <i c="11" l="1740668503812" />
+      <i c="12" l="1740672969269" />
     </e>
     <e n="EditorLineStart">
       <i c="8" l="1740659960733" />
     </e>
     <e n="EditorPaste">
-      <i c="37" l="1740668543338" />
+      <i c="47" l="1740673545076" />
     </e>
     <e n="EditorRight">
-      <i c="27" l="1740668446658" />
+      <i c="40" l="1740673031223" />
     </e>
     <e n="EditorSelectWord">
-      <i c="82" l="1740670289693" />
+      <i c="98" l="1740673461994" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740661160927" />
@@ -76,10 +76,10 @@
       <i c="1" l="1740644918418" />
     </e>
     <e n="GotoDeclaration">
-      <i c="35" l="1740667913676" />
+      <i c="38" l="1740672973782" />
     </e>
     <e n="ReformatCode">
-      <i c="2" l="1740668003066" />
+      <i c="3" l="1740673549117" />
     </e>
     <e n="Resume">
       <i c="6" l="1740655511069" />
@@ -115,7 +115,7 @@
       <i c="7" l="1740655570585" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="2" l="1740665717814" />
+      <i c="3" l="1740672938437" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="1" l="1740644758656" />
