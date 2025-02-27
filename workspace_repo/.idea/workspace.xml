@@ -154,7 +154,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
-      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.25214845" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.25214845" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -365,7 +365,7 @@
       <workItem from="1740562399168" duration="3967000" />
       <workItem from="1740567592692" duration="326000" />
       <workItem from="1740568147802" duration="10663000" />
-      <workItem from="1740643404076" duration="2891000" />
+      <workItem from="1740643404076" duration="3291000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
