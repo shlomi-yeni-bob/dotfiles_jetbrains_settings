@@ -19,7 +19,7 @@
       <i c="1" l="1740581279235" />
     </e>
     <e n="Debug">
-      <i c="12" l="1740946001394" />
+      <i c="13" l="1740947763080" />
     </e>
     <e n="EditorBackSpace">
       <i c="674" l="1740946377774" />
@@ -90,6 +90,9 @@
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1740644918418" />
     </e>
+    <e n="GitCheckoutAction">
+      <i c="1" l="1740947754243" />
+    </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1740946480419" />
     </e>
@@ -130,7 +133,10 @@
       <i c="31" l="1740945748464" />
     </e>
     <e n="Vcs.Push">
-      <i c="3" l="1740946554891" />
+      <i c="4" l="1740947122069" />
+    </e>
+    <e n="Vcs.Push.Force">
+      <i c="1" l="1740947127788" />
     </e>
     <e n="Vcs.RollbackChangedLines">
       <i c="4" l="1740660313032" />
