@@ -172,7 +172,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)&#10;FlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week&#10;FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies&#10;FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies">
     <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -256,7 +256,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlightRiskJobTest.run no company found&#10;run an exception occurred&#10;run all went well" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)&#10;FlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week&#10;FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies&#10;FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
       <option name="allowRunningInParallel" value="false" />
@@ -279,8 +279,8 @@
       </option>
       <option name="testKind" value="Test name" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobTest" />
-      <option name="testName" value="run no company found&#10;run an exception occurred&#10;run all went well" />
+      <option name="testClassPath" value="com.hibob.analytics.flightrisk.FlightRiskJobNextExecutionCalculatorTest" />
+      <option name="testName" value="FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)&#10;FlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week&#10;FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies&#10;FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -288,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)&#10;FlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week&#10;FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies&#10;FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest" />
         <item itemvalue="Gradle.hibob [build]" />
         <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="JUnit.Whole project" />
-        <item itemvalue="ScalaTest.FlightRiskJobTest.run no company found&#10;run an exception occurred&#10;run all went well" />
       </list>
     </recent_temporary>
   </component>
