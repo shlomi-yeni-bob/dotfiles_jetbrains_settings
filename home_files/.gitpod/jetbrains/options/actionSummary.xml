@@ -19,16 +19,16 @@
       <i c="4" l="1740917404070" />
     </e>
     <e n="EditorBackSpace">
-      <i c="397" l="1740917256115" />
+      <i c="409" l="1740919705894" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="40" l="1740917288309" />
+      <i c="44" l="1740919692596" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1740655386345" />
     </e>
     <e n="EditorCopy">
-      <i c="43" l="1740917292138" />
+      <i c="44" l="1740919708418" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -40,7 +40,7 @@
       <i c="4" l="1740655519246" />
     </e>
     <e n="EditorEnter">
-      <i c="55" l="1740917239190" />
+      <i c="56" l="1740919649357" />
     </e>
     <e n="EditorLeft">
       <i c="17" l="1740673026435" />
@@ -55,13 +55,13 @@
       <i c="9" l="1740917251494" />
     </e>
     <e n="EditorPaste">
-      <i c="47" l="1740673545076" />
+      <i c="48" l="1740919711853" />
     </e>
     <e n="EditorRight">
-      <i c="42" l="1740917285384" />
+      <i c="43" l="1740919687027" />
     </e>
     <e n="EditorSelectWord">
-      <i c="100" l="1740917291510" />
+      <i c="104" l="1740919717952" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740661160927" />
@@ -76,7 +76,7 @@
       <i c="1" l="1740644918418" />
     </e>
     <e n="GotoDeclaration">
-      <i c="38" l="1740672973782" />
+      <i c="39" l="1740919635938" />
     </e>
     <e n="ReformatCode">
       <i c="3" l="1740673549117" />
@@ -118,7 +118,7 @@
       <i c="3" l="1740672938437" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="1" l="1740644758656" />
+      <i c="2" l="1740919621482" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1740570500339" />
