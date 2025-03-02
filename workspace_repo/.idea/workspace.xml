@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculatorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculatorTest.scala" afterDir="false" />
     </list>
@@ -127,7 +126,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.18144532" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.19464286" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.2248264" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -141,7 +140,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33044806" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.09931507" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.21391752" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.3943299" />
@@ -373,7 +372,7 @@
       <workItem from="1740643404076" duration="4992000" />
       <workItem from="1740670116250" duration="3533000" />
       <workItem from="1740917063902" duration="2508000" />
-      <workItem from="1740941856641" duration="620000" />
+      <workItem from="1740941856641" duration="1470000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
