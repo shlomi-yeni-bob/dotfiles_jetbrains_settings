@@ -371,7 +371,7 @@
       <workItem from="1740568147802" duration="10663000" />
       <workItem from="1740643404076" duration="4992000" />
       <workItem from="1740670116250" duration="3533000" />
-      <workItem from="1740917063902" duration="786000" />
+      <workItem from="1740917063902" duration="1539000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -575,6 +575,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala</url>
           <line>23</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala</url>
+          <line>51</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
