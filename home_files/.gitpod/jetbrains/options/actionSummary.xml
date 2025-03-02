@@ -22,7 +22,7 @@
       <i c="8" l="1740928559799" />
     </e>
     <e n="EditorBackSpace">
-      <i c="493" l="1740944061311" />
+      <i c="516" l="1740944359611" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="51" l="1740926525328" />
@@ -31,13 +31,13 @@
       <i c="1" l="1740655386345" />
     </e>
     <e n="EditorCopy">
-      <i c="56" l="1740926781755" />
+      <i c="57" l="1740944391756" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
     </e>
     <e n="EditorDown">
-      <i c="23" l="1740925506741" />
+      <i c="24" l="1740944108085" />
     </e>
     <e n="EditorDuplicate">
       <i c="4" l="1740655519246" />
@@ -46,13 +46,16 @@
       <i c="58" l="1740942683706" />
     </e>
     <e n="EditorLeft">
-      <i c="39" l="1740926523291" />
+      <i c="40" l="1740944113794" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="15" l="1740673028779" />
+      <i c="16" l="1740944109386" />
     </e>
     <e n="EditorLineEnd">
       <i c="19" l="1740920385185" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="1" l="1740944109078" />
     </e>
     <e n="EditorLineStart">
       <i c="9" l="1740917251494" />
@@ -63,8 +66,11 @@
     <e n="EditorRight">
       <i c="49" l="1740926072920" />
     </e>
+    <e n="EditorRightWithSelection">
+      <i c="8" l="1740944116031" />
+    </e>
     <e n="EditorSelectWord">
-      <i c="125" l="1740944034006" />
+      <i c="129" l="1740944303685" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1740661160927" />
@@ -124,13 +130,13 @@
       <i c="3" l="1740672938437" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="3" l="1740944096187" />
+      <i c="4" l="1740944330658" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1740570500339" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="12" l="1740928370154" />
+      <i c="13" l="1740944137436" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="3" l="1740928558362" />
@@ -145,7 +151,7 @@
       <i c="89" l="1740654968112" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="14" l="1740920550856" />
+      <i c="15" l="1740944328123" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />
