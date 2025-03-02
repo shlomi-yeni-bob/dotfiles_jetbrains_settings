@@ -82,16 +82,16 @@
       <i c="3" l="1740673549117" />
     </e>
     <e n="Resume">
-      <i c="6" l="1740655511069" />
+      <i c="9" l="1740917846864" />
     </e>
     <e n="StepOver">
-      <i c="5" l="1740570655686" />
+      <i c="22" l="1740917831073" />
     </e>
     <e n="Stop">
       <i c="6" l="1740655846196" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="10" l="1740655287686" />
+      <i c="13" l="1740917841596" />
     </e>
     <e n="Tree-selectChild">
       <i c="5" l="1740655817759" />
@@ -136,7 +136,7 @@
       <i c="89" l="1740654968112" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="10" l="1740571050391" />
+      <i c="12" l="1740917846116" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />

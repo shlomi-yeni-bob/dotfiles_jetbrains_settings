@@ -140,11 +140,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33574468" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33574468" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.21391752" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.3943299" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" weight="0.44960862" />
+      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" visible="true" weight="0.33574468" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -371,7 +371,7 @@
       <workItem from="1740568147802" duration="10663000" />
       <workItem from="1740643404076" duration="4992000" />
       <workItem from="1740670116250" duration="3533000" />
-      <workItem from="1740917063902" duration="341000" />
+      <workItem from="1740917063902" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -570,6 +570,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
           <line>106</line>
           <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala</url>
+          <line>23</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
