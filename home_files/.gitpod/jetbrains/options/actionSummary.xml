@@ -7,7 +7,7 @@
       <i c="69" l="1740944733910" />
     </e>
     <e n="Back">
-      <i c="15" l="1740948523930" />
+      <i c="21" l="1740950296322" />
     </e>
     <e n="CommentByLineComment">
       <i c="7" l="1740667941910" />
@@ -73,7 +73,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="140" l="1740946329469" />
+      <i c="141" l="1740950230814" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -86,6 +86,9 @@
     </e>
     <e n="FindInPath">
       <i c="4" l="1740923414554" />
+    </e>
+    <e n="Forward">
+      <i c="1" l="1740950186822" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1740644918418" />
@@ -100,13 +103,13 @@
       <i c="1" l="1740946463570" />
     </e>
     <e n="GotoDeclaration">
-      <i c="65" l="1740948516243" />
+      <i c="83" l="1740950293335" />
     </e>
     <e n="ReformatCode">
       <i c="3" l="1740673549117" />
     </e>
     <e n="Resume">
-      <i c="28" l="1740948648211" />
+      <i c="30" l="1740949440431" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -118,7 +121,7 @@
       <i c="9" l="1740946243968" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="25" l="1740948449881" />
+      <i c="26" l="1740949403698" />
     </e>
     <e n="Tree-selectChild">
       <i c="6" l="1740945749047" />
@@ -142,10 +145,10 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="19" l="1740948647479" />
+      <i c="21" l="1740949439243" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="8" l="1740948110480" />
+      <i c="9" l="1740949282501" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="6" l="1740945886403" />
@@ -172,7 +175,7 @@
       <i c="89" l="1740654968112" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="22" l="1740948449209" />
+      <i c="27" l="1740950197368" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />
