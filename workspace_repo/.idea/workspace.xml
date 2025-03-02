@@ -143,10 +143,10 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32534248" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.30772993" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.30772993" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.30772993" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.3943299" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" weight="0.30772993" />
+      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" visible="true" weight="0.30772993" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -394,7 +394,7 @@
       <workItem from="1740643404076" duration="4992000" />
       <workItem from="1740670116250" duration="3533000" />
       <workItem from="1740917063902" duration="2508000" />
-      <workItem from="1740941856641" duration="2927000" />
+      <workItem from="1740941856641" duration="3230000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -603,14 +603,6 @@
           <url>file://$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculatorTest.scala</url>
           <line>73</line>
           <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculatorTest.scala</url>
-          <line>69</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
