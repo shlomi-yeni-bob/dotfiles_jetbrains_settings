@@ -64,7 +64,7 @@
       <i c="9" l="1740917251494" />
     </e>
     <e n="EditorPaste">
-      <i c="68" l="1740945908117" />
+      <i c="70" l="1740948050027" />
     </e>
     <e n="EditorRight">
       <i c="60" l="1740945926795" />
@@ -100,7 +100,7 @@
       <i c="1" l="1740946463570" />
     </e>
     <e n="GotoDeclaration">
-      <i c="54" l="1740945811317" />
+      <i c="59" l="1740948126045" />
     </e>
     <e n="ReformatCode">
       <i c="3" l="1740673549117" />
@@ -118,7 +118,7 @@
       <i c="9" l="1740946243968" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="20" l="1740945268674" />
+      <i c="21" l="1740948128701" />
     </e>
     <e n="Tree-selectChild">
       <i c="6" l="1740945749047" />
@@ -145,7 +145,7 @@
       <i c="16" l="1740946173707" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="3" l="1740672938437" />
+      <i c="8" l="1740948110480" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="6" l="1740945886403" />
