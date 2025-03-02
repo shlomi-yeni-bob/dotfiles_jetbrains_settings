@@ -19,10 +19,10 @@
       <i c="1" l="1740581279235" />
     </e>
     <e n="Debug">
-      <i c="9" l="1740945553161" />
+      <i c="11" l="1740945856091" />
     </e>
     <e n="EditorBackSpace">
-      <i c="594" l="1740945522657" />
+      <i c="599" l="1740945852552" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="69" l="1740945499707" />
@@ -31,7 +31,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="62" l="1740945514058" />
+      <i c="64" l="1740945790018" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -64,7 +64,7 @@
       <i c="9" l="1740917251494" />
     </e>
     <e n="EditorPaste">
-      <i c="64" l="1740945515469" />
+      <i c="66" l="1740945791006" />
     </e>
     <e n="EditorRight">
       <i c="58" l="1740945521311" />
@@ -88,19 +88,19 @@
       <i c="1" l="1740644918418" />
     </e>
     <e n="GotoDeclaration">
-      <i c="53" l="1740945225301" />
+      <i c="54" l="1740945811317" />
     </e>
     <e n="ReformatCode">
       <i c="3" l="1740673549117" />
     </e>
     <e n="Resume">
-      <i c="17" l="1740926357909" />
+      <i c="20" l="1740945822738" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
     </e>
     <e n="StepOver">
-      <i c="40" l="1740926337956" />
+      <i c="44" l="1740945736972" />
     </e>
     <e n="Stop">
       <i c="8" l="1740945487001" />
@@ -109,7 +109,7 @@
       <i c="20" l="1740945268674" />
     </e>
     <e n="Tree-selectChild">
-      <i c="5" l="1740655817759" />
+      <i c="6" l="1740945749047" />
     </e>
     <e n="Tree-selectNext">
       <i c="37" l="1740655829057" />
@@ -118,7 +118,7 @@
       <i c="8" l="1740655829443" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="30" l="1740655831045" />
+      <i c="31" l="1740945748464" />
     </e>
     <e n="Vcs.Push">
       <i c="1" l="1740573121718" />
@@ -127,7 +127,7 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="10" l="1740926356468" />
+      <i c="15" l="1740945820905" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="3" l="1740672938437" />
@@ -139,7 +139,7 @@
       <i c="1" l="1740570500339" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="16" l="1740945527348" />
+      <i c="17" l="1740945694210" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="3" l="1740928558362" />
@@ -154,7 +154,7 @@
       <i c="89" l="1740654968112" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="15" l="1740944328123" />
+      <i c="16" l="1740945739682" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />
