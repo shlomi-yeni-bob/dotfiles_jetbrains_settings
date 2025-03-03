@@ -22,16 +22,16 @@
       <i c="13" l="1740947763080" />
     </e>
     <e n="EditorBackSpace">
-      <i c="674" l="1740946377774" />
+      <i c="694" l="1740991472977" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="71" l="1740945942890" />
+      <i c="73" l="1740991379015" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="67" l="1740946571246" />
+      <i c="70" l="1740991387095" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -43,19 +43,19 @@
       <i c="7" l="1740945934174" />
     </e>
     <e n="EditorEnter">
-      <i c="61" l="1740945904634" />
+      <i c="65" l="1740991486973" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="65" l="1740945950022" />
+      <i c="66" l="1740991370900" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="16" l="1740944109386" />
     </e>
     <e n="EditorLineEnd">
-      <i c="21" l="1740945943909" />
+      <i c="23" l="1740991370199" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="1" l="1740944109078" />
@@ -64,16 +64,16 @@
       <i c="9" l="1740917251494" />
     </e>
     <e n="EditorPaste">
-      <i c="70" l="1740948050027" />
+      <i c="76" l="1740991458553" />
     </e>
     <e n="EditorRight">
-      <i c="60" l="1740945926795" />
+      <i c="61" l="1740991368593" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="141" l="1740950230814" />
+      <i c="149" l="1740991391969" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -82,7 +82,7 @@
       <i c="2" l="1740661160927" />
     </e>
     <e n="EditorUp">
-      <i c="18" l="1740945489267" />
+      <i c="22" l="1740991486172" />
     </e>
     <e n="FindInPath">
       <i c="4" l="1740923414554" />
@@ -103,10 +103,10 @@
       <i c="1" l="1740946463570" />
     </e>
     <e n="GotoDeclaration">
-      <i c="90" l="1740950466351" />
+      <i c="93" l="1740991301280" />
     </e>
     <e n="ReformatCode">
-      <i c="3" l="1740673549117" />
+      <i c="4" l="1740991283036" />
     </e>
     <e n="Resume">
       <i c="35" l="1740950528951" />
@@ -157,7 +157,7 @@
       <i c="1" l="1740570500339" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="18" l="1740945955146" />
+      <i c="19" l="1740991331783" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="4" l="1740945999831" />
@@ -175,7 +175,7 @@
       <i c="89" l="1740654968112" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="27" l="1740950197368" />
+      <i c="28" l="1740991328602" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />
