@@ -31,7 +31,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="78" l="1740996968315" />
+      <i c="80" l="1740999419734" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -76,7 +76,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="169" l="1740997189750" />
+      <i c="170" l="1740999213742" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -106,25 +106,25 @@
       <i c="1" l="1740946463570" />
     </e>
     <e n="GotoDeclaration">
-      <i c="94" l="1740996677960" />
+      <i c="95" l="1740999344010" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
     </e>
     <e n="Resume">
-      <i c="35" l="1740950528951" />
+      <i c="38" l="1740999368345" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
     </e>
     <e n="StepOver">
-      <i c="51" l="1740948475977" />
+      <i c="56" l="1740999382023" />
     </e>
     <e n="Stop">
-      <i c="10" l="1740988445260" />
+      <i c="11" l="1740999412370" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="28" l="1740950468856" />
+      <i c="30" l="1740999346180" />
     </e>
     <e n="Tree-selectChild">
       <i c="6" l="1740945749047" />
@@ -148,13 +148,13 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="23" l="1740950527785" />
+      <i c="25" l="1740999338692" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="10" l="1740950403870" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="7" l="1740997024582" />
+      <i c="8" l="1740999146613" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1740570500339" />
