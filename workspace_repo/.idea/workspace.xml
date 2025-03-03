@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets">
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJob.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/package.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculatorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobNextExecutionCalculatorTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/FlightRiskJobTest.scala" afterDir="false" />
@@ -143,7 +144,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3080448" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.154277" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.30772993" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3080448" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.3943299" />
@@ -397,7 +398,7 @@
       <workItem from="1740917063902" duration="2508000" />
       <workItem from="1740941856641" duration="3230000" />
       <workItem from="1740947063017" duration="5716000" />
-      <workItem from="1740992932476" duration="633000" />
+      <workItem from="1740992932476" duration="2465000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
