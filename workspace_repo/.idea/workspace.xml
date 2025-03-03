@@ -176,7 +176,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.FlightRiskJobTest">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="hibob [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -405,7 +405,7 @@
       <workItem from="1740917063902" duration="2508000" />
       <workItem from="1740941856641" duration="3230000" />
       <workItem from="1740947063017" duration="5716000" />
-      <workItem from="1740992932476" duration="2465000" />
+      <workItem from="1740992932476" duration="2805000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
