@@ -176,7 +176,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [build]">
+  <component name="RunManager" selected="ScalaTest.FlightRiskJobNextExecutionCalculatorTest">
     <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -312,9 +312,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)&#10;FlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week&#10;FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies&#10;FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies" />
-        <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest" />
         <item itemvalue="Gradle.hibob [clean]" />
         <item itemvalue="Gradle.hibob [build]" />
       </list>
