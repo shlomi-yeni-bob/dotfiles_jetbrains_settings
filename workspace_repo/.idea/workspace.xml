@@ -141,7 +141,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" weight="0.39677104" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.42710373" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -405,7 +405,7 @@
       <workItem from="1740917063902" duration="2508000" />
       <workItem from="1740941856641" duration="3230000" />
       <workItem from="1740947063017" duration="5716000" />
-      <workItem from="1740992932476" duration="3892000" />
+      <workItem from="1740992932476" duration="4695000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
