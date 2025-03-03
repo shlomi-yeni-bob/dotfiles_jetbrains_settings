@@ -9,6 +9,12 @@
     <e n="Back">
       <i c="21" l="1740950296322" />
     </e>
+    <e n="ChangesView.Refresh">
+      <i c="1" l="1741004262828" />
+    </e>
+    <e n="ChangesView.ShelveSilently">
+      <i c="1" l="1741003918118" />
+    </e>
     <e n="CommentByLineComment">
       <i c="8" l="1740996576337" />
     </e>
@@ -19,13 +25,13 @@
       <i c="1" l="1740581279235" />
     </e>
     <e n="Debug">
-      <i c="15" l="1740999532654" />
+      <i c="16" l="1741001780135" />
     </e>
     <e n="EditorBackSpace">
       <i c="752" l="1740997164600" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="76" l="1740999486187" />
+      <i c="77" l="1741001770884" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
@@ -76,7 +82,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="173" l="1740999508028" />
+      <i c="177" l="1741004383489" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -96,8 +102,11 @@
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1740644918418" />
     </e>
+    <e n="Git.Pull">
+      <i c="1" l="1741003932102" />
+    </e>
     <e n="GitCheckoutAction">
-      <i c="2" l="1740991160285" />
+      <i c="4" l="1741004230001" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1740946480419" />
@@ -106,25 +115,31 @@
       <i c="1" l="1740946463570" />
     </e>
     <e n="GotoDeclaration">
-      <i c="95" l="1740999344010" />
+      <i c="96" l="1741001730142" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
     </e>
+    <e n="Rerun">
+      <i c="1" l="1741004261980" />
+    </e>
     <e n="Resume">
-      <i c="39" l="1740999610924" />
+      <i c="41" l="1741002017618" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
     </e>
+    <e n="ShelveChanges.UnshelveWithDialog">
+      <i c="1" l="1741004248976" />
+    </e>
     <e n="StepOver">
-      <i c="56" l="1740999382023" />
+      <i c="62" l="1741001997992" />
     </e>
     <e n="Stop">
-      <i c="11" l="1740999412370" />
+      <i c="12" l="1741003925575" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="30" l="1740999346180" />
+      <i c="31" l="1741001915488" />
     </e>
     <e n="Tree-selectChild">
       <i c="6" l="1740945749047" />
@@ -148,13 +163,13 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="26" l="1740999610227" />
+      <i c="28" l="1741002016758" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="10" l="1740950403870" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="9" l="1740999516320" />
+      <i c="10" l="1741004280797" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1740570500339" />
@@ -178,7 +193,7 @@
       <i c="89" l="1740654968112" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="28" l="1740991328602" />
+      <i c="29" l="1741003548742" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />
