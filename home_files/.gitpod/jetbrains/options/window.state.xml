@@ -2,7 +2,7 @@
   <component name="DimensionService">
     <location key="find.popup.0.0.2560.1440" x="956" y="345" />
     <location key="find.popup.1728.-83.1920.1200" x="2364" y="310" />
-    <location key="find.popup.0.0.3456.2234@192dpi" x="1256" y="800" />
+    <location key="find.popup.0.0.3456.2234@192dpi" x="1256" y="814" />
     <location key="find.popup.1728.0.1920.1080" x="2364" y="396" />
     <size key="GridCell.Tab.0.right.0.0.2560.1440" width="1237" height="601" />
     <size key="GridCell.Tab.0.left.0.0.2560.1440" width="1237" height="601" />
@@ -30,7 +30,7 @@
     <size key="GridCell.Tab.1.center.1728.-83.1920.1200" width="1838" height="235" />
     <size key="GridCell.Tab.1.right.1728.-83.1920.1200" width="1838" height="235" />
     <size key="GridCell.Tab.1.bottom.1728.-83.1920.1200" width="1838" height="235" />
-    <size key="find.popup.0.0.3456.2234@192dpi" width="1300" height="630" />
+    <size key="find.popup.0.0.3456.2234@192dpi" width="1300" height="604" />
     <size key="GridCell.Tab.0.left.1728.0.1920.1080" width="1838" height="369" />
     <size key="GridCell.Tab.0.center.1728.0.1920.1080" width="1838" height="369" />
     <size key="GridCell.Tab.0.right.1728.0.1920.1080" width="1838" height="369" />
