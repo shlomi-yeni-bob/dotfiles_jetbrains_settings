@@ -4,16 +4,19 @@
       <i c="1" l="1740654930505" />
     </e>
     <e n="$Undo">
-      <i c="79" l="1741104456148" />
+      <i c="82" l="1741122670256" />
     </e>
     <e n="Annotate">
       <i c="6" l="1741102388943" />
     </e>
     <e n="Back">
-      <i c="123" l="1741121654726" />
+      <i c="129" l="1741123414916" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1741123007471" />
     </e>
     <e n="ChangesView.ShelveSilently">
       <i c="2" l="1741009036263" />
@@ -28,22 +31,22 @@
       <i c="8" l="1741101592115" />
     </e>
     <e n="Debug">
-      <i c="33" l="1741122381908" />
+      <i c="37" l="1741123018678" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="783" l="1741122374339" />
+      <i c="789" l="1741123229408" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="79" l="1741121115077" />
+      <i c="85" l="1741123226616" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="98" l="1741122232002" />
+      <i c="99" l="1741122688275" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -52,7 +55,7 @@
       <i c="31" l="1740996605809" />
     </e>
     <e n="EditorDuplicate">
-      <i c="11" l="1741122486896" />
+      <i c="12" l="1741122665067" />
     </e>
     <e n="EditorEnter">
       <i c="69" l="1741104426603" />
@@ -79,7 +82,7 @@
       <i c="1" l="1740996597642" />
     </e>
     <e n="EditorPaste">
-      <i c="98" l="1741122372336" />
+      <i c="101" l="1741122697206" />
     </e>
     <e n="EditorRight">
       <i c="93" l="1741122227630" />
@@ -88,7 +91,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="211" l="1741122488246" />
+      <i c="215" l="1741123451969" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -100,7 +103,7 @@
       <i c="24" l="1741104428450" />
     </e>
     <e n="FindInPath">
-      <i c="10" l="1741121427667" />
+      <i c="12" l="1741123453123" />
     </e>
     <e n="Forward">
       <i c="3" l="1741099821635" />
@@ -121,7 +124,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="243" l="1741121650744" />
+      <i c="256" l="1741123444636" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
@@ -130,7 +133,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="215" l="1741121556496" />
+      <i c="223" l="1741123305007" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -145,25 +148,25 @@
       <i c="2" l="1741011579855" />
     </e>
     <e n="StepOver">
-      <i c="172" l="1741121249798" />
+      <i c="174" l="1741123290221" />
     </e>
     <e n="Stop">
-      <i c="23" l="1741121797059" />
+      <i c="26" l="1741123476219" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="71" l="1741121525212" />
+      <i c="74" l="1741123303405" />
     </e>
     <e n="Tree-selectChild">
-      <i c="73" l="1741121145034" />
+      <i c="75" l="1741123241155" />
     </e>
     <e n="Tree-selectNext">
-      <i c="341" l="1741121142867" />
+      <i c="359" l="1741123272186" />
     </e>
     <e n="Tree-selectParent">
-      <i c="30" l="1741121147543" />
+      <i c="32" l="1741123273757" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="127" l="1741121149294" />
+      <i c="137" l="1741123273280" />
     </e>
     <e n="Vcs.Push">
       <i c="5" l="1741017552595" />
@@ -175,10 +178,10 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="69" l="1741121555556" />
+      <i c="74" l="1741123145786" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="35" l="1741104403463" />
+      <i c="38" l="1741123402081" />
     </e>
     <e n="com.intellij.compiler.progress.BuildOutputService$4">
       <i c="1" l="1741016481033" />
@@ -208,10 +211,13 @@
       <i c="1" l="1740946452517" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="116" l="1741106753995" />
+      <i c="148" l="1741123463134" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="9" l="1741123433920" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="55" l="1741121077639" />
+      <i c="61" l="1741123306996" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
