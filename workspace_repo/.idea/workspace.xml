@@ -396,7 +396,7 @@
       <workItem from="1741008890851" duration="551000" />
       <workItem from="1741016946007" duration="300000" />
       <workItem from="1741086616653" duration="5868000" />
-      <workItem from="1741098910273" duration="404000" />
+      <workItem from="1741098910273" duration="919000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -603,15 +603,23 @@
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsKPIOptionsFactory.scala</url>
-          <line>44</line>
-          <option name="timeStamp" value="99" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/SupportsOptionValues.scala</url>
+          <line>22</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/SupportsOptionValues.scala</url>
+          <line>27</line>
+          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="GradleRunConfiguration">
         <watch expression="Json.obj(path.last -&gt; value)" language="Scala" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="widgetConfiguration.getKPIMetadataByName" language="Scala" />
       </configuration>
     </watches-manager>
   </component>

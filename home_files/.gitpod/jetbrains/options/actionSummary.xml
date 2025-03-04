@@ -10,7 +10,7 @@
       <i c="2" l="1741089335603" />
     </e>
     <e n="Back">
-      <i c="56" l="1741098101844" />
+      <i c="60" l="1741099819953" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -43,7 +43,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="88" l="1741098190360" />
+      <i c="89" l="1741099609973" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -79,7 +79,7 @@
       <i c="1" l="1740996597642" />
     </e>
     <e n="EditorPaste">
-      <i c="90" l="1741098192935" />
+      <i c="91" l="1741099611375" />
     </e>
     <e n="EditorRight">
       <i c="87" l="1740996852006" />
@@ -103,7 +103,7 @@
       <i c="6" l="1741098192242" />
     </e>
     <e n="Forward">
-      <i c="1" l="1740950186822" />
+      <i c="3" l="1741099821635" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1740644918418" />
@@ -121,7 +121,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="154" l="1741098085910" />
+      <i c="163" l="1741099769429" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
@@ -130,7 +130,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="82" l="1741099304460" />
+      <i c="145" l="1741099767663" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -145,13 +145,13 @@
       <i c="2" l="1741011579855" />
     </e>
     <e n="StepOver">
-      <i c="108" l="1741096443603" />
+      <i c="110" l="1741099526342" />
     </e>
     <e n="Stop">
       <i c="20" l="1741098243188" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="45" l="1741099298640" />
+      <i c="49" l="1741099679289" />
     </e>
     <e n="Tree-selectChild">
       <i c="28" l="1741015237318" />
@@ -175,10 +175,10 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="45" l="1741097068547" />
+      <i c="50" l="1741099765289" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="30" l="1741099286882" />
+      <i c="32" l="1741099772440" />
     </e>
     <e n="com.intellij.compiler.progress.BuildOutputService$4">
       <i c="1" l="1741016481033" />
@@ -208,7 +208,10 @@
       <i c="89" l="1740654968112" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="39" l="1741096458593" />
+      <i c="42" l="1741099601532" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
+      <i c="1" l="1741099619579" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />
