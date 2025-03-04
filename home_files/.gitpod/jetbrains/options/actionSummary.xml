@@ -28,7 +28,7 @@
       <i c="5" l="1741089053239" />
     </e>
     <e n="Debug">
-      <i c="24" l="1741097968900" />
+      <i c="25" l="1741099048654" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -130,7 +130,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="76" l="1741096456938" />
+      <i c="82" l="1741099304460" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -151,7 +151,7 @@
       <i c="20" l="1741098243188" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="44" l="1741096083765" />
+      <i c="45" l="1741099298640" />
     </e>
     <e n="Tree-selectChild">
       <i c="28" l="1741015237318" />
@@ -178,7 +178,7 @@
       <i c="45" l="1741097068547" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="29" l="1741098087940" />
+      <i c="30" l="1741099286882" />
     </e>
     <e n="com.intellij.compiler.progress.BuildOutputService$4">
       <i c="1" l="1741016481033" />
@@ -193,7 +193,7 @@
       <i c="32" l="1741017383594" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="7" l="1741014915528" />
+      <i c="8" l="1741099044022" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1740657628005" />
