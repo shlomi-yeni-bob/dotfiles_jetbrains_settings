@@ -28,13 +28,13 @@
       <i c="8" l="1741101592115" />
     </e>
     <e n="Debug">
-      <i c="31" l="1741121811066" />
+      <i c="33" l="1741122381908" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="780" l="1741104445468" />
+      <i c="783" l="1741122374339" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="79" l="1741121115077" />
@@ -43,7 +43,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="97" l="1741121800290" />
+      <i c="98" l="1741122232002" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -52,7 +52,7 @@
       <i c="31" l="1740996605809" />
     </e>
     <e n="EditorDuplicate">
-      <i c="8" l="1741121779368" />
+      <i c="11" l="1741122486896" />
     </e>
     <e n="EditorEnter">
       <i c="69" l="1741104426603" />
@@ -61,7 +61,7 @@
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="81" l="1740996849306" />
+      <i c="82" l="1741122228015" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="16" l="1740944109386" />
@@ -79,16 +79,16 @@
       <i c="1" l="1740996597642" />
     </e>
     <e n="EditorPaste">
-      <i c="96" l="1741121802835" />
+      <i c="98" l="1741122372336" />
     </e>
     <e n="EditorRight">
-      <i c="87" l="1740996852006" />
+      <i c="93" l="1741122227630" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="202" l="1741121799616" />
+      <i c="211" l="1741122488246" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -184,10 +184,10 @@
       <i c="1" l="1741016481033" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="13" l="1741014604504" />
+      <i c="14" l="1741122342827" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
-      <i c="1" l="1740570500339" />
+      <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="32" l="1741017383594" />
