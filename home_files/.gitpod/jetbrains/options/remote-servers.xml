@@ -5,7 +5,6 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="autoDetectExePaths" value="true" />
         <option name="certificatesPath" />
-        <option name="connected" value="true" />
         <option name="customConfiguratorId" value="DockerDefaultConnectionConfigurator" />
         <option name="dockerComposeExePath" value="/usr/bin/docker" />
         <option name="dockerExePath" value="/usr/bin/docker" />
