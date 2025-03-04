@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsGroupByFieldsProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/AnalyticsGroupByFieldsProvider.scala" afterDir="false" />
+    </list>
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -398,7 +400,7 @@
       <workItem from="1741086616653" duration="5868000" />
       <workItem from="1741098910273" duration="3579000" />
       <workItem from="1741105851681" duration="636000" />
-      <workItem from="1741120650840" duration="814000" />
+      <workItem from="1741120650840" duration="1161000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -643,6 +645,22 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIGroupByReader.scala</url>
           <line>54</line>
           <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIGroupByReader.scala</url>
+          <line>44</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIGroupByReader.scala</url>
+          <line>36</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
