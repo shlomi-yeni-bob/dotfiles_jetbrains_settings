@@ -124,7 +124,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.20130208" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.122656256" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.21556713" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -139,10 +139,10 @@
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3075829" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3080448" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3080448" />
-      <window_info anchor="bottom" id="Services" order="6" weight="0.6644603" />
-      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.18436019" />
+      <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.24217221" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -398,6 +398,7 @@
       <workItem from="1741086616653" duration="5868000" />
       <workItem from="1741098910273" duration="3579000" />
       <workItem from="1741105851681" duration="636000" />
+      <workItem from="1741120650840" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -589,11 +590,6 @@
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
-          <line>106</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/PointInTimePeriodicallyDataCalculator.scala</url>
           <line>17</line>
           <option name="timeStamp" value="97" />
@@ -602,16 +598,6 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
           <line>128</line>
           <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/SupportsOptionValues.scala</url>
-          <line>22</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metadata/options/SupportsOptionValues.scala</url>
-          <line>27</line>
-          <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/PointInTimePeriodicallyDataCalculator.scala</url>

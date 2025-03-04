@@ -28,7 +28,7 @@
       <i c="8" l="1741101592115" />
     </e>
     <e n="Debug">
-      <i c="28" l="1741105087465" />
+      <i c="30" l="1741120750491" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -43,7 +43,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="94" l="1741103602682" />
+      <i c="96" l="1741120300663" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -79,7 +79,7 @@
       <i c="1" l="1740996597642" />
     </e>
     <e n="EditorPaste">
-      <i c="92" l="1741104495503" />
+      <i c="94" l="1741106771455" />
     </e>
     <e n="EditorRight">
       <i c="87" l="1740996852006" />
@@ -88,7 +88,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="197" l="1741104618732" />
+      <i c="199" l="1741120299472" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -100,7 +100,7 @@
       <i c="24" l="1741104428450" />
     </e>
     <e n="FindInPath">
-      <i c="7" l="1741104494557" />
+      <i c="9" l="1741106770800" />
     </e>
     <e n="Forward">
       <i c="3" l="1741099821635" />
@@ -121,7 +121,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="228" l="1741104613402" />
+      <i c="233" l="1741121080362" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
@@ -130,7 +130,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="209" l="1741104680623" />
+      <i c="211" l="1741120815990" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -175,7 +175,7 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="64" l="1741104693192" />
+      <i c="66" l="1741121054965" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="35" l="1741104403463" />
@@ -193,10 +193,13 @@
       <i c="32" l="1741017383594" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="8" l="1741099044022" />
+      <i c="11" l="1741120749189" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="1" l="1740657628005" />
+      <i c="2" l="1741106760080" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="1" l="1741106774160" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="2" l="1741012052575" />
@@ -205,10 +208,10 @@
       <i c="1" l="1740946452517" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="89" l="1740654968112" />
+      <i c="116" l="1741106753995" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="50" l="1741104635763" />
+      <i c="55" l="1741121077639" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
