@@ -395,7 +395,7 @@
       <workItem from="1740992932476" duration="4695000" />
       <workItem from="1741008890851" duration="551000" />
       <workItem from="1741016946007" duration="300000" />
-      <workItem from="1741086616653" duration="2852000" />
+      <workItem from="1741086616653" duration="3552000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -585,6 +585,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
+          <line>106</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
