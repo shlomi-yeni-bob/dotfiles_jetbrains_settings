@@ -10,7 +10,7 @@
       <i c="2" l="1741089335603" />
     </e>
     <e n="Back">
-      <i c="46" l="1741096380532" />
+      <i c="56" l="1741098101844" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -28,7 +28,10 @@
       <i c="5" l="1741089053239" />
     </e>
     <e n="Debug">
-      <i c="22" l="1741088077071" />
+      <i c="24" l="1741097968900" />
+    </e>
+    <e n="Docker.AddDockerConnection">
+      <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
       <i c="774" l="1741087188250" />
@@ -40,7 +43,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="86" l="1741087616890" />
+      <i c="87" l="1741097993735" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -85,7 +88,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="186" l="1741089045950" />
+      <i c="187" l="1741097992874" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -118,7 +121,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="139" l="1741096433007" />
+      <i c="154" l="1741098085910" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
@@ -135,6 +138,9 @@
     <e n="RunToCursor">
       <i c="1" l="1741096067774" />
     </e>
+    <e n="ServiceView.AddService">
+      <i c="1" l="1741098147252" />
+    </e>
     <e n="ShelveChanges.UnshelveWithDialog">
       <i c="2" l="1741011579855" />
     </e>
@@ -142,7 +148,7 @@
       <i c="108" l="1741096443603" />
     </e>
     <e n="Stop">
-      <i c="18" l="1741015243396" />
+      <i c="19" l="1741097961699" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="44" l="1741096083765" />
@@ -169,10 +175,10 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="44" l="1741096455583" />
+      <i c="45" l="1741097068547" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="21" l="1741095959669" />
+      <i c="29" l="1741098087940" />
     </e>
     <e n="com.intellij.compiler.progress.BuildOutputService$4">
       <i c="1" l="1741016481033" />
