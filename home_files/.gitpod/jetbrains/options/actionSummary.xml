@@ -1,0 +1,220 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1740654930505" />
+    </e>
+    <e n="$Undo">
+      <i c="71" l="1741017352543" />
+    </e>
+    <e n="Annotate">
+      <i c="2" l="1741089335603" />
+    </e>
+    <e n="Back">
+      <i c="36" l="1741096170806" />
+    </e>
+    <e n="ChangesView.Refresh">
+      <i c="1" l="1741004262828" />
+    </e>
+    <e n="ChangesView.ShelveSilently">
+      <i c="2" l="1741009036263" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="8" l="1740996576337" />
+    </e>
+    <e n="ConfigurationXDebuggerResumeAction">
+      <i c="1" l="1740920241551" />
+    </e>
+    <e n="CopyReference">
+      <i c="5" l="1741089053239" />
+    </e>
+    <e n="Debug">
+      <i c="22" l="1741088077071" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="774" l="1741087188250" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="77" l="1741001770884" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="2" l="1740945349243" />
+    </e>
+    <e n="EditorCopy">
+      <i c="86" l="1741087616890" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1740659937572" />
+    </e>
+    <e n="EditorDown">
+      <i c="31" l="1740996605809" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="7" l="1740945934174" />
+    </e>
+    <e n="EditorEnter">
+      <i c="68" l="1741015253515" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1740944732668" />
+    </e>
+    <e n="EditorLeft">
+      <i c="81" l="1740996849306" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="16" l="1740944109386" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="25" l="1740996813436" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="1" l="1740944109078" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="12" l="1741015253099" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1740996597642" />
+    </e>
+    <e n="EditorPaste">
+      <i c="89" l="1741015254019" />
+    </e>
+    <e n="EditorRight">
+      <i c="87" l="1740996852006" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="8" l="1740944116031" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="186" l="1741089045950" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="2" l="1740946369200" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1740661160927" />
+    </e>
+    <e n="EditorUp">
+      <i c="23" l="1741015253803" />
+    </e>
+    <e n="FindInPath">
+      <i c="5" l="1741089414785" />
+    </e>
+    <e n="Forward">
+      <i c="1" l="1740950186822" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1740644918418" />
+    </e>
+    <e n="Git.Pull">
+      <i c="3" l="1741009305520" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="7" l="1741086660406" />
+    </e>
+    <e n="GitRebaseBranchAction">
+      <i c="2" l="1741017491949" />
+    </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="2" l="1741017476517" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="136" l="1741096224587" />
+    </e>
+    <e n="ReformatCode">
+      <i c="5" l="1740996722727" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1741004261980" />
+    </e>
+    <e n="Resume">
+      <i c="72" l="1741096048984" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1740926637627" />
+    </e>
+    <e n="RunToCursor">
+      <i c="1" l="1741096067774" />
+    </e>
+    <e n="ShelveChanges.UnshelveWithDialog">
+      <i c="2" l="1741011579855" />
+    </e>
+    <e n="StepOver">
+      <i c="97" l="1741096056941" />
+    </e>
+    <e n="Stop">
+      <i c="18" l="1741015243396" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="44" l="1741096083765" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="28" l="1741015237318" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="131" l="1741015237042" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="8" l="1740655829443" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="33" l="1741015208189" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="5" l="1741017552595" />
+    </e>
+    <e n="Vcs.Push.Force">
+      <i c="2" l="1741017557541" />
+    </e>
+    <e n="Vcs.RollbackChangedLines">
+      <i c="4" l="1740660313032" />
+    </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="43" l="1741096093327" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="21" l="1741095959669" />
+    </e>
+    <e n="com.intellij.compiler.progress.BuildOutputService$4">
+      <i c="1" l="1741016481033" />
+    </e>
+    <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
+      <i c="13" l="1741014604504" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
+      <i c="1" l="1740570500339" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="32" l="1741017383594" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="7" l="1741014915528" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1740657628005" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1741012052575" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1740946452517" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="89" l="1740654968112" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="38" l="1741095917636" />
+    </e>
+    <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
+      <i c="1" l="1740660339772" />
+    </e>
+    <e n="org.jetbrains.plugins.scala.compiler.CompileServerManager$Configure$">
+      <i c="1" l="1740569844062" />
+    </e>
+    <e n="performancePlugin.ShowMemoryDialogAction">
+      <i c="1" l="1740568219226" />
+    </e>
+    <e n="profiler.DisableProfileOnRunToCursor">
+      <i c="1" l="1740644744449" />
+    </e>
+  </component>
+</application>
