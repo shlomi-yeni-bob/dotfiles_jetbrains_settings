@@ -139,7 +139,7 @@
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.1355186" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.2245597" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3080448" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
       <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.36350292" />
@@ -170,7 +170,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [build]">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -399,7 +399,7 @@
       <workItem from="1741098910273" duration="3579000" />
       <workItem from="1741105851681" duration="636000" />
       <workItem from="1741120650840" duration="2828000" />
-      <workItem from="1741191595308" duration="940000" />
+      <workItem from="1741191595308" duration="3551000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -639,6 +639,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedDateRangeExtractor.scala</url>
           <line>56</line>
           <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedDateRangeExtractor.scala</url>
+          <line>31</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
