@@ -10,7 +10,7 @@
       <i c="6" l="1741102388943" />
     </e>
     <e n="Back">
-      <i c="131" l="1741194832576" />
+      <i c="143" l="1741195103302" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -28,10 +28,10 @@
       <i c="1" l="1740920241551" />
     </e>
     <e n="CopyReference">
-      <i c="8" l="1741101592115" />
+      <i c="9" l="1741194858568" />
     </e>
     <e n="Debug">
-      <i c="37" l="1741123018678" />
+      <i c="38" l="1741195145910" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -91,7 +91,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="216" l="1741194129139" />
+      <i c="217" l="1741194998979" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -124,7 +124,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="269" l="1741194823605" />
+      <i c="282" l="1741195101316" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
@@ -154,7 +154,7 @@
       <i c="26" l="1741123476219" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="74" l="1741123303405" />
+      <i c="75" l="1741195135323" />
     </e>
     <e n="Tree-selectChild">
       <i c="75" l="1741123241155" />
@@ -196,7 +196,7 @@
       <i c="32" l="1741017383594" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="11" l="1741120749189" />
+      <i c="12" l="1741195141060" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="3" l="1741192500008" />
