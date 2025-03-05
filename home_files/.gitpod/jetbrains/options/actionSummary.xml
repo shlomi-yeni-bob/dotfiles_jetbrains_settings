@@ -82,7 +82,7 @@
       <i c="1" l="1740996597642" />
     </e>
     <e n="EditorPaste">
-      <i c="101" l="1741122697206" />
+      <i c="102" l="1741192494881" />
     </e>
     <e n="EditorRight">
       <i c="93" l="1741122227630" />
@@ -103,7 +103,7 @@
       <i c="24" l="1741104428450" />
     </e>
     <e n="FindInPath">
-      <i c="12" l="1741123453123" />
+      <i c="13" l="1741192494110" />
     </e>
     <e n="Forward">
       <i c="3" l="1741099821635" />
@@ -124,7 +124,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="257" l="1741191969444" />
+      <i c="263" l="1741192515240" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
@@ -199,7 +199,7 @@
       <i c="11" l="1741120749189" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="2" l="1741106760080" />
+      <i c="3" l="1741192500008" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1741106774160" />
@@ -211,7 +211,7 @@
       <i c="1" l="1740946452517" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="148" l="1741123463134" />
+      <i c="151" l="1741192499439" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="9" l="1741123433920" />
