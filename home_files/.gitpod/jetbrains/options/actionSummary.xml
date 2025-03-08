@@ -31,13 +31,13 @@
       <i c="9" l="1741194858568" />
     </e>
     <e n="Debug">
-      <i c="38" l="1741195145910" />
+      <i c="39" l="1741468994224" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="789" l="1741123229408" />
+      <i c="790" l="1741468987919" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="85" l="1741123226616" />
@@ -154,7 +154,7 @@
       <i c="26" l="1741123476219" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="81" l="1741196089042" />
+      <i c="82" l="1741469698858" />
     </e>
     <e n="Tree-selectChild">
       <i c="92" l="1741196144590" />
@@ -217,7 +217,7 @@
       <i c="9" l="1741123433920" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="66" l="1741195997788" />
+      <i c="67" l="1741469697967" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
