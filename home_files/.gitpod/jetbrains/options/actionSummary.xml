@@ -1,16 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$SelectAll">
-      <i c="1" l="1740654930505" />
+      <i c="2" l="1741521753266" />
     </e>
     <e n="$Undo">
       <i c="82" l="1741122670256" />
     </e>
     <e n="Annotate">
-      <i c="6" l="1741102388943" />
+      <i c="8" l="1741514844992" />
     </e>
     <e n="Back">
-      <i c="171" l="1741514371553" />
+      <i c="181" l="1741515717078" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -31,13 +31,13 @@
       <i c="9" l="1741194858568" />
     </e>
     <e n="Debug">
-      <i c="40" l="1741512922215" />
+      <i c="41" l="1741521930032" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="790" l="1741468987919" />
+      <i c="797" l="1741521753465" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="85" l="1741123226616" />
@@ -91,7 +91,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="221" l="1741470231029" />
+      <i c="222" l="1741520755428" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -103,10 +103,10 @@
       <i c="24" l="1741104428450" />
     </e>
     <e n="FindInPath">
-      <i c="13" l="1741192494110" />
+      <i c="15" l="1741521744604" />
     </e>
     <e n="Forward">
-      <i c="3" l="1741099821635" />
+      <i c="4" l="1741515407966" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1740644918418" />
@@ -124,7 +124,10 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="318" l="1741514311041" />
+      <i c="353" l="1741521956615" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="1" l="1741515716151" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
@@ -133,7 +136,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="257" l="1741513026407" />
+      <i c="333" l="1741521712221" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -148,25 +151,25 @@
       <i c="2" l="1741011579855" />
     </e>
     <e n="StepOver">
-      <i c="251" l="1741514390936" />
+      <i c="297" l="1741521085674" />
     </e>
     <e n="Stop">
-      <i c="27" l="1741470791665" />
+      <i c="28" l="1741521923314" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="86" l="1741514307731" />
+      <i c="104" l="1741521871634" />
     </e>
     <e n="Tree-selectChild">
       <i c="124" l="1741470599249" />
     </e>
     <e n="Tree-selectNext">
-      <i c="609" l="1741470599438" />
+      <i c="611" l="1741514521765" />
     </e>
     <e n="Tree-selectParent">
       <i c="62" l="1741470601630" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="285" l="1741470600442" />
+      <i c="288" l="1741514520998" />
     </e>
     <e n="Vcs.Push">
       <i c="5" l="1741017552595" />
@@ -178,10 +181,10 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="87" l="1741514278792" />
+      <i c="114" l="1741521887332" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="40" l="1741196079919" />
+      <i c="42" l="1741520656426" />
     </e>
     <e n="com.intellij.compiler.progress.BuildOutputService$4">
       <i c="1" l="1741016481033" />
@@ -205,7 +208,7 @@
       <i c="1" l="1741106774160" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="2" l="1741012052575" />
+      <i c="3" l="1741521743503" />
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1740946452517" />
@@ -217,7 +220,7 @@
       <i c="9" l="1741123433920" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="70" l="1741469765938" />
+      <i c="90" l="1741521681860" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
