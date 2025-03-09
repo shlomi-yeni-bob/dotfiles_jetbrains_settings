@@ -37,10 +37,10 @@
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="797" l="1741521753465" />
+      <i c="801" l="1741525476411" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="85" l="1741123226616" />
+      <i c="86" l="1741525468326" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
@@ -124,7 +124,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="368" l="1741525278082" />
+      <i c="370" l="1741525673793" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1741515716151" />
@@ -136,7 +136,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="360" l="1741525117532" />
+      <i c="375" l="1741525634350" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -154,13 +154,13 @@
       <i c="2" l="1741524983612" />
     </e>
     <e n="StepOver">
-      <i c="304" l="1741525215141" />
+      <i c="307" l="1741525713330" />
     </e>
     <e n="Stop">
       <i c="28" l="1741521923314" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="110" l="1741525116064" />
+      <i c="111" l="1741525568839" />
     </e>
     <e n="Tree-selectChild">
       <i c="124" l="1741470599249" />
@@ -184,7 +184,7 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="120" l="1741524797945" />
+      <i c="122" l="1741525593750" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="42" l="1741520656426" />
@@ -221,6 +221,9 @@
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="9" l="1741123433920" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
+      <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="99" l="1741524856606" />
