@@ -124,7 +124,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.20130208" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.11487269" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.09288195" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -139,10 +139,10 @@
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.31327015" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3233855" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3080448" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.3282779" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.5582192" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -402,7 +402,7 @@
       <workItem from="1741191595308" duration="4691000" />
       <workItem from="1741468805795" duration="1739000" />
       <workItem from="1741512502167" duration="1486000" />
-      <workItem from="1741524329935" duration="307000" />
+      <workItem from="1741524329935" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -599,54 +599,9 @@
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeUpdaterService.scala</url>
-          <line>23</line>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIGroupByDataCalculator.scala</url>
-          <line>37</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeUpdaterService.scala</url>
-          <line>33</line>
-          <option name="timeStamp" value="113" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
-          <line>253</line>
-          <option name="timeStamp" value="114" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
-          <line>270</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
-          <line>319</line>
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
-          <line>247</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
-          <line>251</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
           <line>128</line>
           <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIEmployeeWorkPeriodFilterer.scala</url>
-          <line>30</line>
-          <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/OverallAttritionMetricCalculator.scala</url>
@@ -667,6 +622,29 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/EmployeeTimeBasedMetricService.scala</url>
           <line>527</line>
           <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/MonthIntervalAggregator.scala</url>
+          <line>18</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/TimeBasedWindowCalculatorFacade.scala</url>
+          <line>35</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/RollingMonthsWindowCalculator.scala</url>
+          <line>60</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/RollingMonthsWindowCalculator.scala</url>
+          <line>66</line>
+          <option name="timeStamp" value="140" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

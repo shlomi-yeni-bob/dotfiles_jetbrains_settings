@@ -20,6 +20,7 @@
     "bidi.content.notification.disable": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "debugger.smart.chooser.counter": "1",
     "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
