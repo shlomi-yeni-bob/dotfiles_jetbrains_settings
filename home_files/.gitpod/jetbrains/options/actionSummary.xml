@@ -46,7 +46,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="104" l="1741610142206" />
+      <i c="105" l="1741618445756" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -103,7 +103,7 @@
       <i c="24" l="1741104428450" />
     </e>
     <e n="FindInPath">
-      <i c="16" l="1741526236870" />
+      <i c="18" l="1741620051415" />
     </e>
     <e n="Forward">
       <i c="4" l="1741515407966" />
@@ -211,7 +211,7 @@
       <i c="1" l="1741106774160" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="3" l="1741521743503" />
+      <i c="4" l="1741620049889" />
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1740946452517" />
