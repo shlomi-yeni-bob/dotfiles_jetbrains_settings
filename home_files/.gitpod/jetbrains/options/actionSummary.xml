@@ -37,7 +37,7 @@
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="803" l="1741526239673" />
+      <i c="814" l="1741609534493" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="86" l="1741525468326" />
@@ -46,7 +46,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="102" l="1741609318997" />
+      <i c="103" l="1741609645342" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -91,7 +91,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="222" l="1741520755428" />
+      <i c="223" l="1741609456227" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -136,7 +136,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="398" l="1741609385072" />
+      <i c="404" l="1741609448461" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -154,7 +154,7 @@
       <i c="2" l="1741524983612" />
     </e>
     <e n="StepOver">
-      <i c="326" l="1741609356752" />
+      <i c="332" l="1741609439890" />
     </e>
     <e n="Stop">
       <i c="29" l="1741526594677" />
@@ -184,7 +184,7 @@
       <i c="4" l="1740660313032" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="129" l="1741609387953" />
+      <i c="131" l="1741609410321" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="42" l="1741520656426" />
@@ -226,7 +226,7 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="102" l="1741608709603" />
+      <i c="104" l="1741609430260" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
