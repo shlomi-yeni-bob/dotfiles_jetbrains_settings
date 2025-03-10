@@ -404,7 +404,7 @@
       <workItem from="1741512502167" duration="1486000" />
       <workItem from="1741524329935" duration="2273000" />
       <workItem from="1741597661890" duration="1041000" />
-      <workItem from="1741608188761" duration="750000" />
+      <workItem from="1741608188761" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -667,6 +667,29 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalGrowthMetricCalculator.scala</url>
           <line>64</line>
           <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalGrowthMetricCalculator.scala</url>
+          <line>78</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalGrowthMetricCalculator.scala</url>
+          <line>93</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalGrowthMetricCalculator.scala</url>
+          <line>158</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalGrowthMetricCalculator.scala</url>
+          <line>163</line>
+          <option name="timeStamp" value="150" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
