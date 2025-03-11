@@ -123,8 +123,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20130208" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.1779514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2259838" />
+      <window_info id="Commit" order="1" weight="0.1779514" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -139,10 +139,10 @@
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3175147" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.13258317" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3080448" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.19520548" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.13258317" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -170,7 +170,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [build]">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -405,7 +405,7 @@
       <workItem from="1741524329935" duration="2273000" />
       <workItem from="1741597661890" duration="1041000" />
       <workItem from="1741608188761" duration="7482000" />
-      <workItem from="1741697420270" duration="436000" />
+      <workItem from="1741697420270" duration="1415000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -643,12 +643,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalGrowthMetricCalculator.scala</url>
-          <line>78</line>
+          <line>80</line>
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalGrowthMetricCalculator.scala</url>
-          <line>93</line>
+          <line>94</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -669,7 +669,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/PeriodicallyWindowCalculator.scala</url>
-          <line>77</line>
+          <line>79</line>
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
