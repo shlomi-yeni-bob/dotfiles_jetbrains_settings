@@ -4,7 +4,7 @@
       <i c="2" l="1741521753266" />
     </e>
     <e n="$Undo">
-      <i c="94" l="1741776131304" />
+      <i c="95" l="1741788214105" />
     </e>
     <e n="Annotate">
       <i c="13" l="1741787587409" />
@@ -40,13 +40,13 @@
       <i c="894" l="1741776193545" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="95" l="1741776072928" />
+      <i c="96" l="1741788471446" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="122" l="1741776237506" />
+      <i c="123" l="1741788350529" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -58,7 +58,7 @@
       <i c="13" l="1741776179809" />
     </e>
     <e n="EditorEnter">
-      <i c="71" l="1741774931728" />
+      <i c="72" l="1741788452086" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
@@ -82,7 +82,7 @@
       <i c="1" l="1740996597642" />
     </e>
     <e n="EditorPaste">
-      <i c="114" l="1741776238975" />
+      <i c="115" l="1741788453100" />
     </e>
     <e n="EditorRight">
       <i c="100" l="1741776182505" />
@@ -91,7 +91,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="253" l="1741786758728" />
+      <i c="255" l="1741788349853" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -124,7 +124,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="454" l="1741787958189" />
+      <i c="463" l="1741788518616" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1741515716151" />
@@ -226,7 +226,7 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="122" l="1741786708867" />
+      <i c="123" l="1741788236314" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />

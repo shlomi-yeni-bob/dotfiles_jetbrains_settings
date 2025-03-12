@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" afterDir="false" />
     </list>
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
@@ -410,7 +411,7 @@
       <workItem from="1741697420270" duration="1415000" />
       <workItem from="1741708064332" duration="742000" />
       <workItem from="1741765561819" duration="2427000" />
-      <workItem from="1741783504710" duration="2973000" />
+      <workItem from="1741783504710" duration="3485000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -686,11 +687,6 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalHeadcountMetricCalculator.scala</url>
           <line>35</line>
           <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/payroll/salary/SalaryCalculator.scala</url>
-          <line>18</line>
-          <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala</url>
