@@ -4,13 +4,13 @@
       <i c="2" l="1741521753266" />
     </e>
     <e n="$Undo">
-      <i c="113" l="1741800326167" />
+      <i c="135" l="1741805645412" />
     </e>
     <e n="Annotate">
       <i c="13" l="1741787587409" />
     </e>
     <e n="Back">
-      <i c="209" l="1741790521666" />
+      <i c="221" l="1741805616037" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -21,8 +21,11 @@
     <e n="ChangesView.ShelveSilently">
       <i c="2" l="1741009036263" />
     </e>
+    <e n="CollapseSelection">
+      <i c="1" l="1741804477412" />
+    </e>
     <e n="CommentByLineComment">
-      <i c="10" l="1741790985685" />
+      <i c="13" l="1741804490638" />
     </e>
     <e n="ConfigurationXDebuggerResumeAction">
       <i c="1" l="1740920241551" />
@@ -31,28 +34,28 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="52" l="1741790445552" />
+      <i c="53" l="1741805686546" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="987" l="1741800312827" />
+      <i c="1029" l="1741805681538" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="118" l="1741796041159" />
+      <i c="127" l="1741805669276" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="129" l="1741791515418" />
+      <i c="132" l="1741804680795" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
     </e>
     <e n="EditorDown">
-      <i c="56" l="1741791607541" />
+      <i c="57" l="1741805513976" />
     </e>
     <e n="EditorDuplicate">
       <i c="15" l="1741791358507" />
@@ -64,13 +67,13 @@
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="146" l="1741791399804" />
+      <i c="149" l="1741805571359" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="16" l="1740944109386" />
     </e>
     <e n="EditorLineEnd">
-      <i c="34" l="1741791353088" />
+      <i c="35" l="1741804532892" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="3" l="1741789176930" />
@@ -82,16 +85,16 @@
       <i c="2" l="1741790869527" />
     </e>
     <e n="EditorPaste">
-      <i c="120" l="1741800313738" />
+      <i c="121" l="1741804711177" />
     </e>
     <e n="EditorRight">
-      <i c="141" l="1741791628084" />
+      <i c="143" l="1741804526615" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="287" l="1741796034738" />
+      <i c="297" l="1741805681035" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -127,7 +130,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="480" l="1741800203643" />
+      <i c="490" l="1741805608914" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1741515716151" />
@@ -184,7 +187,7 @@
       <i c="2" l="1741017557541" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="4" l="1740660313032" />
+      <i c="5" l="1741805628880" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
       <i c="153" l="1741790612159" />
