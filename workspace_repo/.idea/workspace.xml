@@ -105,6 +105,7 @@
     "ScalaTest.FlightRiskJobTest.run an exception occurred.executor": "Run",
     "ScalaTest.FlightRiskJobTest.run no company found\nrun an exception occurred\nrun all went well.executor": "Run",
     "ScalaTest.YearsWithSameSalaryBulkFetcherTest.executor": "Run",
+    "ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
     "git-widget-placeholder": "shlomi-yeni/fix-salary-change-risk-indicator-calculation",
     "kotlin-language-version-configured": "true",
@@ -140,14 +141,14 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.42710373" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.029843444" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.21183953" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.029843444" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -175,29 +176,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryBulkFetcherTest">
-    <configuration name="hibob [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade">
     <configuration name="FlightRiskJobNextExecutionCalculatorTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -316,13 +295,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="hibob.test" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envFilePaths">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsWithSameSalaryBulkFetcherTest" />
+      <option name="testName" value="fetch Should return the period since the last salary upgrade" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryBulkFetcherTest" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)&#10;FlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week&#10;FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies&#10;FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies" />
         <item itemvalue="ScalaTest.FlightRiskJobNextExecutionCalculatorTest" />
-        <item itemvalue="Gradle.hibob [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +430,7 @@
       <workItem from="1741708064332" duration="742000" />
       <workItem from="1741765561819" duration="2427000" />
       <workItem from="1741783504710" duration="11279000" />
-      <workItem from="1741809218822" duration="712000" />
+      <workItem from="1741809218822" duration="1099000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
