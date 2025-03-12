@@ -1,10 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1741810750303" />
+    </e>
     <e n="$SelectAll">
       <i c="2" l="1741521753266" />
     </e>
     <e n="$Undo">
-      <i c="166" l="1741810263597" />
+      <i c="179" l="1741810662266" />
     </e>
     <e n="Annotate">
       <i c="15" l="1741810139306" />
@@ -40,16 +43,16 @@
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1115" l="1741810305095" />
+      <i c="1126" l="1741810857721" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="142" l="1741809896777" />
+      <i c="145" l="1741810849175" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="141" l="1741810576053" />
+      <i c="147" l="1741810822580" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -61,19 +64,19 @@
       <i c="15" l="1741791358507" />
     </e>
     <e n="EditorEnter">
-      <i c="93" l="1741810143462" />
+      <i c="101" l="1741810866091" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="158" l="1741809856101" />
+      <i c="162" l="1741810775893" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="16" l="1740944109386" />
     </e>
     <e n="EditorLineEnd">
-      <i c="40" l="1741809850442" />
+      <i c="41" l="1741810864610" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="3" l="1741789176930" />
@@ -85,16 +88,16 @@
       <i c="3" l="1741806677214" />
     </e>
     <e n="EditorPaste">
-      <i c="131" l="1741810581301" />
+      <i c="136" l="1741810860709" />
     </e>
     <e n="EditorRight">
-      <i c="147" l="1741809761733" />
+      <i c="149" l="1741810834310" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="316" l="1741810593042" />
+      <i c="328" l="1741810832642" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -103,7 +106,7 @@
       <i c="3" l="1741767662164" />
     </e>
     <e n="EditorUp">
-      <i c="38" l="1741791609049" />
+      <i c="40" l="1741810841528" />
     </e>
     <e n="FindInPath">
       <i c="19" l="1741787637192" />
@@ -130,13 +133,16 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="496" l="1741810513639" />
+      <i c="497" l="1741810879490" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1741515716151" />
     </e>
     <e n="ReformatCode">
       <i c="5" l="1740996722727" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1741810736348" />
     </e>
     <e n="Rerun">
       <i c="1" l="1741004261980" />
@@ -149,6 +155,9 @@
     </e>
     <e n="RunToCursor">
       <i c="2" l="1741470331382" />
+    </e>
+    <e n="Scala.NewClass">
+      <i c="1" l="1741810758227" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1741098147252" />
@@ -218,6 +227,9 @@
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="4" l="1741620049889" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1741810764120" />
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1740946452517" />
