@@ -139,10 +139,10 @@
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3175147" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3080448" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.36741683" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.4417808" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -170,7 +170,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.hibob [build]">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="hibob [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -407,7 +407,7 @@
       <workItem from="1741608188761" duration="7482000" />
       <workItem from="1741697420270" duration="1415000" />
       <workItem from="1741708064332" duration="742000" />
-      <workItem from="1741765561819" duration="304000" />
+      <workItem from="1741765561819" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
