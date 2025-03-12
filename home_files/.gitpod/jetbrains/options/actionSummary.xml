@@ -34,13 +34,13 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="54" l="1741806315982" />
+      <i c="55" l="1741809369379" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1071" l="1741806989728" />
+      <i c="1088" l="1741809343184" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="135" l="1741806998730" />
@@ -49,13 +49,13 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="135" l="1741807031422" />
+      <i c="138" l="1741809327793" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
     </e>
     <e n="EditorDown">
-      <i c="57" l="1741805513976" />
+      <i c="58" l="1741809337534" />
     </e>
     <e n="EditorDuplicate">
       <i c="15" l="1741791358507" />
@@ -85,16 +85,16 @@
       <i c="3" l="1741806677214" />
     </e>
     <e n="EditorPaste">
-      <i c="126" l="1741807033236" />
+      <i c="129" l="1741809330467" />
     </e>
     <e n="EditorRight">
-      <i c="144" l="1741806676654" />
+      <i c="145" l="1741809274612" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="303" l="1741807032383" />
+      <i c="311" l="1741809327147" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -208,7 +208,7 @@
       <i c="32" l="1741017383594" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="17" l="1741767384085" />
+      <i c="18" l="1741809357344" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="3" l="1741192500008" />
@@ -232,7 +232,7 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="124" l="1741806164652" />
+      <i c="126" l="1741809365011" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
