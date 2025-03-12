@@ -34,7 +34,7 @@
     <feature id="jar.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="13" last-shown="0" last-used="1741804490642" shown-count="0" />
+    <feature id="codeassists.comment.line" count="15" last-shown="0" last-used="1741806938513" shown-count="0" />
     <feature id="editing.completion.second.smarttype.chain" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -45,12 +45,12 @@
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="127" last-shown="0" last-used="1741805669299" shown-count="0" />
+    <feature id="editing.completion.basic" count="135" last-shown="0" last-used="1741806998742" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="297" last-shown="0" last-used="1741805681037" shown-count="0" />
+    <feature id="editing.select.word" count="303" last-shown="0" last-used="1741807032385" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -89,7 +89,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="1" last-shown="0" last-used="1741790757040" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="490" last-shown="0" last-used="1741805608919" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="492" last-shown="0" last-used="1741806279301" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -136,17 +136,17 @@
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="spring.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="471" />
-      <option name="invocations" value="67" />
+      <option name="sparedCharacters" value="493" />
+      <option name="invocations" value="70" />
       <option name="startDate" value="1740528000000" />
       <option name="dayCount" value="6" />
       <option name="lastDate" value="1741737600000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="5" />
+      <option name="invocations" value="6" />
       <option name="startDate" value="1740614400000" />
-      <option name="dayCount" value="3" />
-      <option name="lastDate" value="1740960000000" />
+      <option name="dayCount" value="4" />
+      <option name="lastDate" value="1741737600000" />
     </fixesStatsTag>
   </component>
 </application>
