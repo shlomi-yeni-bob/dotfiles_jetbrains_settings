@@ -25,7 +25,7 @@
       <i c="1" l="1741804477412" />
     </e>
     <e n="CommentByLineComment">
-      <i c="15" l="1741806938503" />
+      <i c="16" l="1741810491451" />
     </e>
     <e n="ConfigurationXDebuggerResumeAction">
       <i c="1" l="1740920241551" />
@@ -49,7 +49,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="140" l="1741809912273" />
+      <i c="141" l="1741810576053" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -85,7 +85,7 @@
       <i c="3" l="1741806677214" />
     </e>
     <e n="EditorPaste">
-      <i c="130" l="1741809921730" />
+      <i c="131" l="1741810581301" />
     </e>
     <e n="EditorRight">
       <i c="147" l="1741809761733" />
@@ -94,7 +94,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="315" l="1741809848438" />
+      <i c="316" l="1741810593042" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -112,7 +112,7 @@
       <i c="4" l="1741515407966" />
     </e>
     <e n="Generate">
-      <i c="1" l="1741790756974" />
+      <i c="2" l="1741810525554" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1740644918418" />
@@ -130,7 +130,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="493" l="1741809823896" />
+      <i c="496" l="1741810513639" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1741515716151" />
@@ -187,7 +187,7 @@
       <i c="2" l="1741017557541" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="5" l="1741805628880" />
+      <i c="8" l="1741810556190" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
       <i c="155" l="1741806488623" />
@@ -221,6 +221,9 @@
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1740946452517" />
+    </e>
+    <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
+      <i c="1" l="1741810527772" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="151" l="1741192499439" />
