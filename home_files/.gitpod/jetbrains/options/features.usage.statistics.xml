@@ -136,8 +136,8 @@
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="spring.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="468" />
-      <option name="invocations" value="66" />
+      <option name="sparedCharacters" value="471" />
+      <option name="invocations" value="67" />
       <option name="startDate" value="1740528000000" />
       <option name="dayCount" value="6" />
       <option name="lastDate" value="1741737600000" />
