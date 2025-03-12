@@ -91,7 +91,7 @@
       <i c="8" l="1740944116031" />
     </e>
     <e n="EditorSelectWord">
-      <i c="252" l="1741776238565" />
+      <i c="253" l="1741786758728" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -124,7 +124,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="441" l="1741776250296" />
+      <i c="442" l="1741786839258" />
     </e>
     <e n="ParameterInfo">
       <i c="1" l="1741515716151" />
@@ -136,7 +136,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="473" l="1741774649103" />
+      <i c="478" l="1741786889628" />
     </e>
     <e n="Run">
       <i c="2" l="1740926637627" />
@@ -154,13 +154,13 @@
       <i c="2" l="1741524983612" />
     </e>
     <e n="StepOver">
-      <i c="358" l="1741774651080" />
+      <i c="363" l="1741786886511" />
     </e>
     <e n="Stop">
       <i c="32" l="1741774853497" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="142" l="1741786565200" />
+      <i c="147" l="1741786767457" />
     </e>
     <e n="Tree-selectChild">
       <i c="153" l="1741774750345" />
@@ -226,7 +226,7 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="119" l="1741786564766" />
+      <i c="122" l="1741786708867" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
