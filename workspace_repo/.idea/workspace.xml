@@ -125,7 +125,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12008102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2427662" />
       <window_info id="Commit" order="1" weight="0.1779514" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
@@ -410,7 +410,7 @@
       <workItem from="1741697420270" duration="1415000" />
       <workItem from="1741708064332" duration="742000" />
       <workItem from="1741765561819" duration="2427000" />
-      <workItem from="1741783504710" duration="1873000" />
+      <workItem from="1741783504710" duration="2973000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
