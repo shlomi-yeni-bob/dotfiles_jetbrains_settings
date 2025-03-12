@@ -46,7 +46,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="108" l="1741699718034" />
+      <i c="109" l="1741765860134" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -233,6 +233,9 @@
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1740660339772" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1741765834322" />
     </e>
     <e n="org.jetbrains.plugins.scala.compiler.CompileServerManager$Configure$">
       <i c="1" l="1740569844062" />
