@@ -13,7 +13,7 @@
       <i c="15" l="1741810139306" />
     </e>
     <e n="Back">
-      <i c="237" l="1741813936911" />
+      <i c="241" l="1741880883684" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -43,7 +43,7 @@
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1178" l="1741814057492" />
+      <i c="1179" l="1741880892535" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="156" l="1741812381419" />
@@ -52,7 +52,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="154" l="1741814038460" />
+      <i c="155" l="1741880898963" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -73,7 +73,7 @@
       <i c="176" l="1741812346011" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="16" l="1740944109386" />
+      <i c="31" l="1741880898007" />
     </e>
     <e n="EditorLineEnd">
       <i c="43" l="1741812188803" />
@@ -88,10 +88,10 @@
       <i c="3" l="1741806677214" />
     </e>
     <e n="EditorPaste">
-      <i c="144" l="1741814040546" />
+      <i c="145" l="1741880902102" />
     </e>
     <e n="EditorRight">
-      <i c="195" l="1741814055689" />
+      <i c="204" l="1741880894526" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="8" l="1740944116031" />
@@ -133,7 +133,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="517" l="1741813929533" />
+      <i c="519" l="1741880863044" />
     </e>
     <e n="ParameterInfo">
       <i c="3" l="1741811127416" />
@@ -214,7 +214,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="48" l="1741814082706" />
+      <i c="50" l="1741880905239" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="18" l="1741809357344" />
