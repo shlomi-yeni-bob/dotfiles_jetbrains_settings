@@ -78,62 +78,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Bob Localhost.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.Build hibob.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DirectDashboardDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskFieldsAggregatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightRiskJobTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.KPIDaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Rebuild Twirl Templates.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.hibob [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.hibob [clean].executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FlightRiskJobTest,writable and 6 more.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Whole project.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.com.hibob.analytics.flightrisk in hibob.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies.executor&quot;: &quot;Debug&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday and not later than next monday at midnight.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday at midnight.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than the current time.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)\nFlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week\nFlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies\nFlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)\nFlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobNextExecutionCalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled.executor&quot;: &quot;Debug&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run all went well.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run an exception occurred.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.FlightRiskJobTest.run no company found\nrun an exception occurred\nrun all went well.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries\nYearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.YearsWithSameSalaryBulkFetcherTest.executor&quot;: &quot;Run&quot;,
-    &quot;ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;shlomi-yeni/fix-salary-change-risk-indicator-calculation&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/hibob/app/com/hibob/analytics/kpis/shlomi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.5448276&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bob Localhost.executor": "Debug",
+    "Gradle.Build hibob.executor": "Run",
+    "Gradle.DirectDashboardDaoTest (1).executor": "Run",
+    "Gradle.DirectDashboardDaoTest.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.FlightRiskFieldsAggregatorTest.executor": "Run",
+    "Gradle.FlightRiskJobTest (1).executor": "Run",
+    "Gradle.FlightRiskJobTest.executor": "Debug",
+    "Gradle.KPIDaoTest.executor": "Run",
+    "Gradle.Rebuild Twirl Templates.executor": "Run",
+    "Gradle.Tests in 'com.hibob.analytics.flightrisk'.executor": "Run",
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "Gradle.hibob [build].executor": "Run",
+    "Gradle.hibob [clean].executor": "Run",
+    "JUnit.FlightRiskJobTest,writable and 6 more.executor": "Run",
+    "JUnit.Whole project.executor": "Run",
+    "JUnit.com.hibob.analytics.flightrisk in hibob.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies.executor": "Debug",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday and not later than next monday at midnight.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than next monday at midnight.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should return the execution time later than the current time.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)\nFlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week\nFlightRiskJobNextExecutionCalculator tests should generate different next execution times for different companies\nFlightRiskJobNextExecutionCalculator tests should distribute execution times evenly across many companies.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.FlightRiskJobNextExecutionCalculator tests should schedule the next execution time after the start of the upcoming week (next Monday at midnight)\nFlightRiskJobNextExecutionCalculator tests should schedule the next execution time within the boundaries of the upcoming week.executor": "Run",
+    "ScalaTest.FlightRiskJobNextExecutionCalculatorTest.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.flight risk next schedule nextExecution returns expected time for company 1 when scheduling is enabled.executor": "Debug",
+    "ScalaTest.FlightRiskJobTest.run all went well.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.run an exception occurred.executor": "Run",
+    "ScalaTest.FlightRiskJobTest.run no company found\nrun an exception occurred\nrun all went well.executor": "Run",
+    "ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries\nYearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries.executor": "Run",
+    "ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries.executor": "Run",
+    "ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries.executor": "Run",
+    "ScalaTest.YearsWithSameSalaryBulkFetcherTest.executor": "Run",
+    "ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade.executor": "Run",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "git-widget-placeholder": "shlomi-yeni/fix-salary-change-risk-indicator-calculation",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/hibob/app/com/hibob/analytics/kpis/shlomi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.5448276",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -153,11 +154,11 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.11399217" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49979824" side_tool="true" visible="true" weight="0.37349823" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.50030375" visible="true" weight="0.22932863" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.50020176" weight="0.4689046" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
       <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.19520548" />
@@ -174,7 +175,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.27089846" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.20722656" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -194,7 +195,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries">
+  <component name="RunManager" selected="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries">
     <configuration name="YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -346,9 +347,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries&#10;YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
-        <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryBulkFetcherTest" />
       </list>
@@ -451,7 +452,7 @@
       <workItem from="1741783504710" duration="11279000" />
       <workItem from="1741809218822" duration="1684000" />
       <workItem from="1741813590730" duration="472000" />
-      <workItem from="1741879208541" duration="1196000" />
+      <workItem from="1741879208541" duration="1516000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
