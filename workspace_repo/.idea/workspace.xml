@@ -142,7 +142,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119335935" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21821427" />
       <window_info id="Commit" order="1" weight="0.1779514" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
@@ -154,7 +154,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49979824" side_tool="true" visible="true" weight="0.37349823" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49979824" side_tool="true" visible="true" weight="0.5381874" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -175,7 +175,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.20722656" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.37892857" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -452,7 +452,7 @@
       <workItem from="1741783504710" duration="11279000" />
       <workItem from="1741809218822" duration="1684000" />
       <workItem from="1741813590730" duration="472000" />
-      <workItem from="1741879208541" duration="1516000" />
+      <workItem from="1741879208541" duration="2124000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
