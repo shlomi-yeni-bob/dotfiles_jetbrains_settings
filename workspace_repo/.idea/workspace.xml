@@ -156,7 +156,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49979824" side_tool="true" visible="true" weight="0.28620353" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49979824" side_tool="true" visible="true" weight="0.20890412" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -177,7 +177,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
-      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.29427084" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.29427084" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -455,7 +455,7 @@
       <workItem from="1741809218822" duration="1684000" />
       <workItem from="1741813590730" duration="472000" />
       <workItem from="1741879208541" duration="2124000" />
-      <workItem from="1741944086225" duration="3205000" />
+      <workItem from="1741944086225" duration="3510000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -731,21 +731,6 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalHeadcountMetricCalculator.scala</url>
           <line>35</line>
           <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>40</line>
-          <option name="timeStamp" value="169" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>30</line>
-          <option name="timeStamp" value="170" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>38</line>
-          <option name="timeStamp" value="171" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
