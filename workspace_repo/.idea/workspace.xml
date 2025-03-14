@@ -118,6 +118,7 @@
     "ScalaTest.YearsWithSameSalaryBulkFetcherTest.executor": "Run",
     "ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade.executor": "Run",
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.executor": "Run",
+    "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch no entries\nfetch one entry a year ago\nfetch one entry a year ago but different ccy\nfetch 2 entries, it was downgrade\nfetch 3 entries, first is downgrade and then upgrade ,it was downgrade\nfetch there was a downgrade and there are several records with same salary\nfetch same salary for a long time but the employee was rehired with the same salary.executor": "Run",
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch one entry a year ago.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
@@ -156,11 +157,11 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.7032199" side_tool="true" visible="true" weight="0.20988259" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.7032199" side_tool="true" visible="true" weight="0.23727985" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.29678005" visible="true" weight="0.21868885" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.29678005" weight="0.21868885" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
       <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" weight="0.4241683" />
@@ -440,7 +441,7 @@
       <workItem from="1741879208541" duration="2124000" />
       <workItem from="1741944086225" duration="3510000" />
       <workItem from="1741951842857" duration="2359000" />
-      <workItem from="1741986538813" duration="389000" />
+      <workItem from="1741986538813" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
