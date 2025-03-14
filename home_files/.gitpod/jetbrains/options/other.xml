@@ -14,6 +14,8 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "JUnit.Splitter.Proportion": "0.29112354",
+    "JUnitSupport.hidePassedTests": "false",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.24978.46",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "UltimateProfiler.RunWidget.Splitter.Proportion.Run": "0.6376811",

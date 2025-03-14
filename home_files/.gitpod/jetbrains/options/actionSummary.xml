@@ -42,6 +42,9 @@
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
+    <e n="EditSource">
+      <i c="1" l="1741957884902" />
+    </e>
     <e n="EditorBackSpace">
       <i c="1259" l="1741951911422" />
     </e>
@@ -216,11 +219,14 @@
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
       <i c="19" l="1741950163034" />
     </e>
+    <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
+      <i c="1" l="1741955657034" />
+    </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="56" l="1741950108325" />
+      <i c="57" l="1741958086225" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="20" l="1741949820895" />
@@ -239,6 +245,9 @@
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="1" l="1740946452517" />
+    </e>
+    <e n="com.intellij.profiler.ui.ExpandablePanel$MyCollapseAction">
+      <i c="1" l="1741958008244" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="1" l="1741810527772" />
