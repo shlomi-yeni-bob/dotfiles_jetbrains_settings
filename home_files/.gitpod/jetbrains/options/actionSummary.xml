@@ -43,10 +43,10 @@
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1196" l="1741948894764" />
+      <i c="1217" l="1741949401558" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="161" l="1741948898842" />
+      <i c="163" l="1741949043882" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
@@ -70,7 +70,7 @@
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="226" l="1741944795663" />
+      <i c="231" l="1741949111309" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="40" l="1741948891676" />
@@ -91,13 +91,13 @@
       <i c="148" l="1741948868892" />
     </e>
     <e n="EditorRight">
-      <i c="218" l="1741948894308" />
+      <i c="222" l="1741949093236" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="12" l="1741948634596" />
     </e>
     <e n="EditorSelectWord">
-      <i c="346" l="1741948892825" />
+      <i c="350" l="1741949400638" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -214,7 +214,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="52" l="1741948922189" />
+      <i c="54" l="1741949404005" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="19" l="1741944268921" />

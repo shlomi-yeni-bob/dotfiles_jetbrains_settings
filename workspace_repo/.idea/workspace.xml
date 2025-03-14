@@ -116,6 +116,7 @@
     "ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries.executor": "Run",
     "ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries with different pay periods.executor": "Run",
     "ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries.executor": "Run",
+    "ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.executor": "Run",
     "ScalaTest.YearsWithSameSalaryBulkFetcherTest.executor": "Run",
     "ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
@@ -143,8 +144,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17679398" />
-      <window_info id="Commit" order="1" weight="0.1779514" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17679398" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17679398" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -155,7 +156,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49979824" side_tool="true" visible="true" weight="0.24804306" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49979824" side_tool="true" visible="true" weight="0.28620353" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -196,7 +197,36 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries with different pay periods">
+  <component name="RunManager" selected="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest">
+    <configuration name="YearsOfLastSalaryUpgradeCalculatorTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="hibob.test" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envFilePaths">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsOfLastSalaryUpgradeCalculatorTest" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -317,43 +347,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="hibob.test" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsWithSameSalaryBulkFetcherTest" />
-      <option name="testName" value="fetch Should return the period since the last salary upgrade" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries with different pay periods" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries&#10;YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
-        <item itemvalue="ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +455,7 @@
       <workItem from="1741809218822" duration="1684000" />
       <workItem from="1741813590730" duration="472000" />
       <workItem from="1741879208541" duration="2124000" />
-      <workItem from="1741944086225" duration="2724000" />
+      <workItem from="1741944086225" duration="3205000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
