@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="refactor code to account for the pay period" />
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="refactor code to account for the pay period">
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala" afterDir="false" />
+    </list>
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +155,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.7032199" side_tool="true" visible="true" weight="0.13454011" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.7032199" side_tool="true" visible="true" weight="0.20988259" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -436,7 +438,7 @@
       <workItem from="1741813590730" duration="472000" />
       <workItem from="1741879208541" duration="2124000" />
       <workItem from="1741944086225" duration="3510000" />
-      <workItem from="1741951842857" duration="1891000" />
+      <workItem from="1741951842857" duration="2359000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
