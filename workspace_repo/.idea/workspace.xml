@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="use existing method for creating offsets">
-      <change afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculatorTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcherTest.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="refactor code to account for the pay period" />
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,8 +139,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17679398" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17679398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37181714" />
+      <window_info id="Commit" order="1" weight="0.37181714" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -160,7 +155,7 @@
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.50020176" weight="0.36252445" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.50020176" visible="true" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
       <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" weight="0.4241683" />
@@ -177,7 +172,7 @@
       <window_info anchor="right" id="Key Promoter X" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.29427084" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.23813657" />
     </layout>
   </component>
   <component name="ReactorSettings">
@@ -456,6 +451,7 @@
       <workItem from="1741813590730" duration="472000" />
       <workItem from="1741879208541" duration="2124000" />
       <workItem from="1741944086225" duration="3510000" />
+      <workItem from="1741951842857" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -521,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740644921024</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refactor code to account for the pay period">
+      <option name="closed" value="true" />
+      <created>1741951962835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741951962835</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,14 +574,15 @@
     <MESSAGE value="unknown" />
     <MESSAGE value="add logic to improve flight risk schedule distribution" />
     <MESSAGE value="use existing method for creating offsets" />
-    <option name="LAST_COMMIT_MESSAGE" value="use existing method for creating offsets" />
+    <MESSAGE value="refactor code to account for the pay period" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor code to account for the pay period" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/dao/DirectDashboardDaoTest.scala</url>
-          <line>273</line>
+          <line>275</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
@@ -587,7 +592,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/integrationTest/scala/com/hibob/analytics/kpis/custom/dao/DirectDashboardDaoTest.scala</url>
-          <line>241</line>
+          <line>243</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
@@ -597,12 +602,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIGraphWriter.scala</url>
-          <line>41</line>
+          <line>43</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/KPIGraphWriter.scala</url>
-          <line>45</line>
+          <line>47</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
@@ -630,7 +635,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/PointInTimeAggregatedDataCalculator.scala</url>
-          <line>16</line>
+          <line>17</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
