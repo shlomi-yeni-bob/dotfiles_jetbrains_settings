@@ -7,7 +7,7 @@
       <i c="3" l="1741948730376" />
     </e>
     <e n="$Undo">
-      <i c="202" l="1741949503327" />
+      <i c="206" l="1741949802077" />
     </e>
     <e n="Annotate">
       <i c="15" l="1741810139306" />
@@ -37,13 +37,13 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="56" l="1741944270398" />
+      <i c="57" l="1741949822345" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1233" l="1741949689620" />
+      <i c="1241" l="1741950914242" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="164" l="1741949636797" />
@@ -52,7 +52,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="164" l="1741949644120" />
+      <i c="166" l="1741951024097" />
     </e>
     <e n="EditorCut">
       <i c="3" l="1741949663241" />
@@ -94,13 +94,13 @@
       <i c="154" l="1741949666313" />
     </e>
     <e n="EditorRight">
-      <i c="222" l="1741949093236" />
+      <i c="229" l="1741950915664" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="12" l="1741948634596" />
     </e>
     <e n="EditorSelectWord">
-      <i c="359" l="1741949643304" />
+      <i c="362" l="1741951023345" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -124,7 +124,7 @@
       <i c="2" l="1741810525554" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="1" l="1740644918418" />
+      <i c="2" l="1741951168200" />
     </e>
     <e n="Git.Pull">
       <i c="6" l="1741697853978" />
@@ -178,7 +178,7 @@
       <i c="375" l="1741811876984" />
     </e>
     <e n="Stop">
-      <i c="38" l="1741944756745" />
+      <i c="39" l="1741950217955" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="155" l="1741944626556" />
@@ -214,16 +214,16 @@
       <i c="1" l="1741016481033" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="16" l="1741949538509" />
+      <i c="19" l="1741950163034" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="55" l="1741949708525" />
+      <i c="56" l="1741950108325" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="19" l="1741944268921" />
+      <i c="20" l="1741949820895" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="6" l="1741948853491" />
