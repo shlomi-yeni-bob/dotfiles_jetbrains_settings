@@ -46,16 +46,16 @@
       <i c="1" l="1741957884902" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1285" l="1741958863690" />
+      <i c="1291" l="1741986910482" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="171" l="1741958811218" />
+      <i c="172" l="1741986889046" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="176" l="1741958871796" />
+      <i c="180" l="1741986918902" />
     </e>
     <e n="EditorCut">
       <i c="3" l="1741949663241" />
@@ -70,19 +70,19 @@
       <i c="15" l="1741791358507" />
     </e>
     <e n="EditorEnter">
-      <i c="122" l="1741958862131" />
+      <i c="125" l="1741986896413" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="235" l="1741958676150" />
+      <i c="237" l="1741986897943" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="53" l="1741958686560" />
     </e>
     <e n="EditorLineEnd">
-      <i c="45" l="1741948850337" />
+      <i c="47" l="1741986897476" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="7" l="1741949660800" />
@@ -94,16 +94,16 @@
       <i c="5" l="1741948633579" />
     </e>
     <e n="EditorPaste">
-      <i c="163" l="1741958876335" />
+      <i c="166" l="1741986921065" />
     </e>
     <e n="EditorRight">
-      <i c="240" l="1741958784621" />
+      <i c="241" l="1741986920640" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="12" l="1741948634596" />
     </e>
     <e n="EditorSelectWord">
-      <i c="372" l="1741958806604" />
+      <i c="378" l="1741986918049" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -112,7 +112,7 @@
       <i c="3" l="1741767662164" />
     </e>
     <e n="EditorUp">
-      <i c="57" l="1741958863179" />
+      <i c="58" l="1741986897090" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1" l="1741949659867" />
@@ -142,7 +142,7 @@
       <i c="3" l="1741955593436" />
     </e>
     <e n="GotoDeclaration">
-      <i c="536" l="1741958723735" />
+      <i c="537" l="1741986837178" />
     </e>
     <e n="ParameterInfo">
       <i c="3" l="1741811127416" />
@@ -217,7 +217,7 @@
       <i c="1" l="1741016481033" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="19" l="1741950163034" />
+      <i c="20" l="1741986787096" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1741955657034" />
@@ -226,7 +226,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="57" l="1741958086225" />
+      <i c="58" l="1741986926905" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="20" l="1741949820895" />

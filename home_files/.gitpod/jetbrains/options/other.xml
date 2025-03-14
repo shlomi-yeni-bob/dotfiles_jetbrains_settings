@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="52268" />
+  <component name="BuiltInServerOptions" builtInServerPort="58508" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -43,7 +43,7 @@
     "previousColorScheme": "_@client_Dark",
     "registry.to.advanced.settings.migration.build": "IU-243.24978.46",
     "rider.trace.scenarios": "",
-    "scala.last.updated": "1741880889716",
+    "scala.last.updated": "1741986875218",
     "ts.lib.d.ts.version": "5.6.3"
   },
   "keyToStringList": {
