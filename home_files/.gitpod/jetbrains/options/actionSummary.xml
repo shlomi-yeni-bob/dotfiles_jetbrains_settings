@@ -4,16 +4,16 @@
       <i c="1" l="1741810750303" />
     </e>
     <e n="$SelectAll">
-      <i c="2" l="1741521753266" />
+      <i c="3" l="1741948730376" />
     </e>
     <e n="$Undo">
-      <i c="192" l="1741812279042" />
+      <i c="193" l="1741948679017" />
     </e>
     <e n="Annotate">
       <i c="15" l="1741810139306" />
     </e>
     <e n="Back">
-      <i c="248" l="1741945142565" />
+      <i c="250" l="1741948781010" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -43,16 +43,16 @@
       <i c="1" l="1741098151484" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1179" l="1741880892535" />
+      <i c="1196" l="1741948894764" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="156" l="1741812381419" />
+      <i c="161" l="1741948898842" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="156" l="1741945172274" />
+      <i c="160" l="1741948859966" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1740659937572" />
@@ -64,7 +64,7 @@
       <i c="15" l="1741791358507" />
     </e>
     <e n="EditorEnter">
-      <i c="111" l="1741814030438" />
+      <i c="113" l="1741948574299" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
@@ -73,31 +73,31 @@
       <i c="226" l="1741944795663" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="31" l="1741880898007" />
+      <i c="40" l="1741948891676" />
     </e>
     <e n="EditorLineEnd">
-      <i c="44" l="1741944761994" />
+      <i c="45" l="1741948850337" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="5" l="1741812198629" />
+      <i c="6" l="1741948632617" />
     </e>
     <e n="EditorLineStart">
-      <i c="18" l="1741810962544" />
+      <i c="19" l="1741948849684" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="3" l="1741806677214" />
+      <i c="5" l="1741948633579" />
     </e>
     <e n="EditorPaste">
-      <i c="145" l="1741880902102" />
+      <i c="148" l="1741948868892" />
     </e>
     <e n="EditorRight">
-      <i c="205" l="1741944796272" />
+      <i c="218" l="1741948894308" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="8" l="1740944116031" />
+      <i c="12" l="1741948634596" />
     </e>
     <e n="EditorSelectWord">
-      <i c="337" l="1741814037774" />
+      <i c="346" l="1741948892825" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -109,7 +109,7 @@
       <i c="52" l="1741944790846" />
     </e>
     <e n="FindInPath">
-      <i c="20" l="1741811256162" />
+      <i c="22" l="1741948830167" />
     </e>
     <e n="Forward">
       <i c="5" l="1741812305185" />
@@ -133,7 +133,7 @@
       <i c="2" l="1741017476517" />
     </e>
     <e n="GotoDeclaration">
-      <i c="521" l="1741945156839" />
+      <i c="529" l="1741948824715" />
     </e>
     <e n="ParameterInfo">
       <i c="3" l="1741811127416" />
@@ -214,13 +214,13 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="51" l="1741944809949" />
+      <i c="52" l="1741948922189" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="19" l="1741944268921" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="4" l="1741811268959" />
+      <i c="6" l="1741948853491" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1741106774160" />
@@ -238,10 +238,10 @@
       <i c="1" l="1741810527772" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="210" l="1741811267377" />
+      <i c="238" l="1741948843889" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="9" l="1741123433920" />
+      <i c="12" l="1741948743323" />
     </e>
     <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
       <i c="1" l="1741525461251" />
