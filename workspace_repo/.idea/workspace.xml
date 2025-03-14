@@ -192,7 +192,21 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest">
+  <component name="RunManager" selected="JUnit.com.hibob.analytics in hibob.test">
+    <configuration name="com.hibob.analytics in hibob.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibob.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibob.analytics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hibob.analytics" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="YearsOfLastSalaryUpgradeCalculatorTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -247,36 +261,6 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsOfLastSalaryUpgradeCalculatorTest" />
       <option name="testName" value="YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries&#10;YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="hibob.test" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsOfLastSalaryUpgradeCalculatorTest" />
-      <option name="testName" value="YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries&#10;YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -344,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.hibob.analytics in hibob.test" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries with different pay periods" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
         <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries" />
-        <item itemvalue="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries&#10;YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries" />
       </list>
     </recent_temporary>
   </component>
