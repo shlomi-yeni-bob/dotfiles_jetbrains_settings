@@ -195,7 +195,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="ScalaTest.YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return SingleValueData when there are salary entries">
     <configuration name="YearsOfLastSalaryUpgradeCalculatorTest.YearsOfLastSalaryUpgradeCalculator tests should return NoData when there are no salary entries" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
