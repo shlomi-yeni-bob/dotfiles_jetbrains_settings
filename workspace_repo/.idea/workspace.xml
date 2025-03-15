@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="refactor code to account for the pay period">
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala" afterDir="false" />
     </list>
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
@@ -145,8 +146,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1345486" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.1345486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21903935" />
+      <window_info id="Commit" order="1" weight="0.21903935" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -161,10 +162,10 @@
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.29678005" weight="0.21868885" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.29678005" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.3075829" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.20112017" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" weight="0.4241683" />
+      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.3175147" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -443,6 +444,7 @@
       <workItem from="1741951842857" duration="2359000" />
       <workItem from="1741986538813" duration="849000" />
       <workItem from="1742046953415" duration="607000" />
+      <workItem from="1742048125057" duration="392000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -727,6 +729,11 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalHeadcountMetricCalculator.scala</url>
           <line>35</line>
           <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
+          <line>30</line>
+          <option name="timeStamp" value="160" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
