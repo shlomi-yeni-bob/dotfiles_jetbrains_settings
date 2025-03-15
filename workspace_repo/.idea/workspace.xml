@@ -198,7 +198,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch no entries&#10;fetch one entry a year ago&#10;fetch one entry a year ago but different ccy&#10;fetch 2 entries, it was downgrade&#10;fetch 3 entries, first is downgrade and then upgrade ,it was downgrade&#10;fetch there was a downgrade and there are several records with same salary&#10;fetch same salary for a long time but the employee was rehired with the same salary">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="com.hibob.analytics in hibob.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hibob.test" />
       <extension name="coverage">
