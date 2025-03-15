@@ -28,7 +28,7 @@
       <i c="1" l="1741804477412" />
     </e>
     <e n="CommentByLineComment">
-      <i c="16" l="1741810491451" />
+      <i c="18" l="1742049408296" />
     </e>
     <e n="ConfigurationXDebuggerResumeAction">
       <i c="1" l="1740920241551" />
@@ -46,64 +46,64 @@
       <i c="1" l="1741957884902" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1295" l="1742048294326" />
+      <i c="1311" l="1742049752749" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="175" l="1741987346833" />
+      <i c="177" l="1742049736221" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="186" l="1741987857284" />
+      <i c="190" l="1742049660656" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1741987335669" />
     </e>
     <e n="EditorDown">
-      <i c="65" l="1741812193904" />
+      <i c="70" l="1742049680984" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="3" l="1741949660244" />
     </e>
     <e n="EditorDuplicate">
-      <i c="16" l="1741987356428" />
+      <i c="17" l="1742049471979" />
     </e>
     <e n="EditorEnter">
-      <i c="127" l="1741987337629" />
+      <i c="132" l="1742049745450" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="237" l="1741986897943" />
+      <i c="244" l="1742049746633" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="53" l="1741958686560" />
     </e>
     <e n="EditorLineEnd">
-      <i c="47" l="1741986897476" />
+      <i c="52" l="1742049746246" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="7" l="1741949660800" />
     </e>
     <e n="EditorLineStart">
-      <i c="21" l="1741958658302" />
+      <i c="24" l="1742049743902" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="6" l="1742048291256" />
+      <i c="7" l="1742049550026" />
     </e>
     <e n="EditorPaste">
-      <i c="169" l="1741987455547" />
+      <i c="173" l="1742049663238" />
     </e>
     <e n="EditorRight">
-      <i c="242" l="1741987124170" />
+      <i c="245" l="1742049565219" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="21" l="1742048293484" />
+      <i c="22" l="1742049550413" />
     </e>
     <e n="EditorSelectWord">
-      <i c="384" l="1741987856943" />
+      <i c="392" l="1742049661954" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -112,7 +112,7 @@
       <i c="3" l="1741767662164" />
     </e>
     <e n="EditorUp">
-      <i c="58" l="1741986897090" />
+      <i c="64" l="1742049745760" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1" l="1741949659867" />
@@ -148,7 +148,7 @@
       <i c="3" l="1741811127416" />
     </e>
     <e n="ReformatCode">
-      <i c="7" l="1741949687246" />
+      <i c="8" l="1742049674177" />
     </e>
     <e n="RenameElement">
       <i c="2" l="1741810736348" />
@@ -226,7 +226,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="60" l="1741987033527" />
+      <i c="63" l="1742049758646" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="21" l="1742048352973" />
