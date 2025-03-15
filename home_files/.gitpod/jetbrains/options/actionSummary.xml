@@ -13,7 +13,7 @@
       <i c="15" l="1741810139306" />
     </e>
     <e n="Back">
-      <i c="254" l="1741958452253" />
+      <i c="262" l="1742050180670" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -37,7 +37,7 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="61" l="1742050119383" />
+      <i c="62" l="1742050331445" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -46,7 +46,7 @@
       <i c="1" l="1741957884902" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1311" l="1742049752749" />
+      <i c="1314" l="1742050446085" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="177" l="1742049736221" />
@@ -55,7 +55,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="190" l="1742049660656" />
+      <i c="192" l="1742050474608" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1741987335669" />
@@ -94,7 +94,7 @@
       <i c="7" l="1742049550026" />
     </e>
     <e n="EditorPaste">
-      <i c="173" l="1742049663238" />
+      <i c="175" l="1742050476079" />
     </e>
     <e n="EditorRight">
       <i c="245" l="1742049565219" />
@@ -103,7 +103,7 @@
       <i c="22" l="1742049550413" />
     </e>
     <e n="EditorSelectWord">
-      <i c="392" l="1742049661954" />
+      <i c="395" l="1742050475537" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -121,7 +121,7 @@
       <i c="22" l="1741948830167" />
     </e>
     <e n="Forward">
-      <i c="5" l="1741812305185" />
+      <i c="6" l="1742050182397" />
     </e>
     <e n="Generate">
       <i c="2" l="1741810525554" />
@@ -142,7 +142,7 @@
       <i c="3" l="1741955593436" />
     </e>
     <e n="GotoDeclaration">
-      <i c="548" l="1742049832750" />
+      <i c="551" l="1742050323993" />
     </e>
     <e n="ParameterInfo">
       <i c="3" l="1741811127416" />
@@ -157,7 +157,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="491" l="1742050114776" />
+      <i c="497" l="1742050420284" />
     </e>
     <e n="Run">
       <i c="5" l="1741814061894" />
@@ -184,19 +184,19 @@
       <i c="40" l="1742049321646" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="158" l="1742050112810" />
+      <i c="161" l="1742050241221" />
     </e>
     <e n="Tree-selectChild">
-      <i c="165" l="1742050063935" />
+      <i c="189" l="1742050400800" />
     </e>
     <e n="Tree-selectNext">
-      <i c="740" l="1742050065092" />
+      <i c="806" l="1742050406652" />
     </e>
     <e n="Tree-selectParent">
-      <i c="83" l="1742049865044" />
+      <i c="90" l="1742050291584" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="357" l="1742050066852" />
+      <i c="394" l="1742050406115" />
     </e>
     <e n="Vcs.Push">
       <i c="5" l="1741017552595" />
@@ -208,7 +208,7 @@
       <i c="10" l="1741987025547" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="163" l="1742050116802" />
+      <i c="166" l="1742050419531" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="53" l="1742049808111" />
@@ -226,7 +226,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="63" l="1742049758646" />
+      <i c="64" l="1742050479080" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="21" l="1742048352973" />
@@ -262,7 +262,7 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="130" l="1741949543495" />
+      <i c="132" l="1742050242387" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />

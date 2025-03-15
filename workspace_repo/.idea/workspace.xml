@@ -119,7 +119,7 @@
     "ScalaTest.YearsWithSameSalaryBulkFetcherTest.executor": "Run",
     "ScalaTest.YearsWithSameSalaryBulkFetcherTest.fetch Should return the period since the last salary upgrade.executor": "Run",
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.executor": "Run",
-    "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 2 entries, it was downgrade.executor": "Debug",
+    "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 2 entries, it was downgrade.executor": "Run",
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch no entries\nfetch one entry a year ago\nfetch one entry a year ago but different ccy\nfetch 2 entries, it was downgrade\nfetch 3 entries, first is downgrade and then upgrade ,it was downgrade\nfetch there was a downgrade and there are several records with same salary\nfetch same salary for a long time but the employee was rehired with the same salary.executor": "Run",
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch one entry a year ago.executor": "Run",
     "Shell Script.gradle flyway.executor": "Debug",
@@ -159,7 +159,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.34393346" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" weight="0.34393346" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -446,7 +446,7 @@
       <workItem from="1741951842857" duration="2359000" />
       <workItem from="1741986538813" duration="849000" />
       <workItem from="1742046953415" duration="607000" />
-      <workItem from="1742048125057" duration="1809000" />
+      <workItem from="1742048125057" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -746,6 +746,14 @@
           <url>file://$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala</url>
           <line>87</line>
           <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala</url>
+          <line>53</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="165" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
