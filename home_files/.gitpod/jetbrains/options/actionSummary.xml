@@ -10,10 +10,10 @@
       <i c="218" l="1742119806774" />
     </e>
     <e n="Annotate">
-      <i c="15" l="1741810139306" />
+      <i c="16" l="1742120544041" />
     </e>
     <e n="Back">
-      <i c="267" l="1742119463796" />
+      <i c="269" l="1742120545811" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -37,7 +37,7 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="70" l="1742120518366" />
+      <i c="71" l="1742120535623" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -61,7 +61,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="201" l="1742120296218" />
+      <i c="202" l="1742120697366" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1742120275789" />
@@ -235,7 +235,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="80" l="1742120366585" />
+      <i c="82" l="1742120600069" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="23" l="1742109042124" />
