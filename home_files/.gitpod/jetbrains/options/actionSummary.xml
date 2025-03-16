@@ -7,7 +7,7 @@
       <i c="3" l="1741948730376" />
     </e>
     <e n="$Undo">
-      <i c="225" l="1742125806282" />
+      <i c="231" l="1742126460315" />
     </e>
     <e n="Annotate">
       <i c="16" l="1742120544041" />
@@ -37,7 +37,7 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="73" l="1742125635387" />
+      <i c="74" l="1742126645071" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -52,7 +52,7 @@
       <i c="1" l="1741957884902" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1458" l="1742126139147" />
+      <i c="1542" l="1742126523759" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="189" l="1742126140486" />
@@ -76,7 +76,7 @@
       <i c="17" l="1742049471979" />
     </e>
     <e n="EditorEnter">
-      <i c="156" l="1742126022690" />
+      <i c="157" l="1742126456499" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
@@ -88,13 +88,13 @@
       <i c="53" l="1741958686560" />
     </e>
     <e n="EditorLineEnd">
-      <i c="63" l="1742126141747" />
+      <i c="64" l="1742126512524" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="7" l="1741949660800" />
     </e>
     <e n="EditorLineStart">
-      <i c="26" l="1742120278801" />
+      <i c="27" l="1742126511429" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="8" l="1742119340628" />
@@ -109,16 +109,16 @@
       <i c="22" l="1742049550413" />
     </e>
     <e n="EditorSelectWord">
-      <i c="410" l="1742125769632" />
+      <i c="411" l="1742126498909" />
     </e>
     <e n="EditorStartNewLine">
-      <i c="2" l="1740946369200" />
+      <i c="3" l="1742126513937" />
     </e>
     <e n="EditorTab">
       <i c="5" l="1742120138242" />
     </e>
     <e n="EditorUp">
-      <i c="83" l="1742126019112" />
+      <i c="85" l="1742126458297" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1" l="1741949659867" />
@@ -142,10 +142,10 @@
       <i c="7" l="1741086660406" />
     </e>
     <e n="GitRebaseBranchAction">
-      <i c="3" l="1741955627757" />
+      <i c="4" l="1742126636071" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="3" l="1741955593436" />
+      <i c="4" l="1742126604198" />
     </e>
     <e n="GotoDeclaration">
       <i c="571" l="1742125820229" />
@@ -226,7 +226,7 @@
       <i c="1" l="1741016481033" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="29" l="1742119535323" />
+      <i c="31" l="1742126448800" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1741955657034" />
@@ -235,16 +235,19 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="83" l="1742125242813" />
+      <i c="84" l="1742126406616" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="23" l="1742109042124" />
+      <i c="24" l="1742126643483" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="6" l="1741948853491" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1741106774160" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1742126576919" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="4" l="1741620049889" />
@@ -271,13 +274,13 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="147" l="1742125648087" />
+      <i c="153" l="1742126469759" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
-      <i c="1" l="1740660339772" />
+      <i c="3" l="1742126292737" />
     </e>
     <e n="editRunConfigurations">
       <i c="2" l="1741765834322" />

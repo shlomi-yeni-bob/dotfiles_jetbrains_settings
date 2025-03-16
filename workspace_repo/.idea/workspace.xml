@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="refactor code to account for the pay period">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8b402d74-b505-4648-a736-fe5520a7475e" name="Changes" comment="- refactor integration test.&#10;- add pay period validation" />
     <list id="b4a9d91b-bf7f-4867-bffe-7ef39531ee66" name="unknown" comment="unknown" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +149,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.21903935" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.1171875" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.25318286" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -164,14 +160,14 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.540401" side_tool="true" weight="0.3605675" />
+      <window_info active="true" anchor="bottom" x="82" y="481" width="1646" height="280" id="Run" order="0" sideWeight="0.540401" side_tool="true" type="FLOATING" weight="0.27446184" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
-      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="3" visible="true" weight="0.27446184" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.3806197" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4158566" weight="0.30772993" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.23825832" />
-      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.45959902" visible="true" weight="0.27446184" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.45959902" weight="0.27446184" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -205,7 +201,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="YearsWithSameSalaryFeatureDataFetcherTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -470,7 +466,7 @@
       <workItem from="1742048125057" duration="3260000" />
       <workItem from="1742107839134" duration="3416000" />
       <workItem from="1742119099597" duration="1416000" />
-      <workItem from="1742125161276" duration="1021000" />
+      <workItem from="1742125161276" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -544,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741951962835</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- refactor integration test.&#10;- add pay period validation">
+      <option name="closed" value="true" />
+      <created>1742126572813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742126572813</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +598,8 @@
     <MESSAGE value="add logic to improve flight risk schedule distribution" />
     <MESSAGE value="use existing method for creating offsets" />
     <MESSAGE value="refactor code to account for the pay period" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor code to account for the pay period" />
+    <MESSAGE value="- refactor integration test.&#10;- add pay period validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="- refactor integration test.&#10;- add pay period validation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -755,42 +760,6 @@
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/kpis/metric/TotalHeadcountMetricCalculator.scala</url>
           <line>35</line>
           <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>30</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>38</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/test/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryFeatureDataFetcherTest.scala</url>
-          <line>88</line>
-          <option name="timeStamp" value="162" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>41</line>
-          <option name="timeStamp" value="175" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>44</line>
-          <properties>
-            <option name="lambda-ordinal" value="0" />
-          </properties>
-          <option name="timeStamp" value="176" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>55</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="179" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
