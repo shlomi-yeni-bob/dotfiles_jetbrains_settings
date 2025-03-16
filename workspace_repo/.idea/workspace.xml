@@ -200,7 +200,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bob Localhost">
+  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 2 entries, it was downgrade">
     <configuration name="com.hibob.analytics in hibob.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hibob.test" />
       <extension name="coverage">
