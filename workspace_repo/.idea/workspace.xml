@@ -166,7 +166,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.37272173" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4158566" weight="0.30772993" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.23825832" />
-      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.49168298" />
+      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.3576321" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -447,7 +447,7 @@
       <workItem from="1741986538813" duration="849000" />
       <workItem from="1742046953415" duration="607000" />
       <workItem from="1742048125057" duration="3260000" />
-      <workItem from="1742107839134" duration="1587000" />
+      <workItem from="1742107839134" duration="2138000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -763,14 +763,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/history/EmployeeFieldsHistory.scala</url>
-          <line>109</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/history/EmployeeFieldsHistory.scala</url>
           <line>88</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
@@ -778,20 +770,14 @@
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/history/EmployeeFieldsHistory.scala</url>
-          <line>105</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="170" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala</url>
+          <line>40</line>
+          <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/history/EmployeeFieldsHistory.scala</url>
-          <line>98</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="172" />
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala</url>
+          <line>50</line>
+          <option name="timeStamp" value="174" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
