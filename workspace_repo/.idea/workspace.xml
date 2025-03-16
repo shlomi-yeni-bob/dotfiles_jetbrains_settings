@@ -201,7 +201,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 3 entries, first is downgrade and then upgrade ,it was downgrade">
+  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest">
     <configuration name="YearsWithSameSalaryFeatureDataFetcherTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -353,10 +353,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 3 entries, first is downgrade and then upgrade ,it was downgrade" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch no entries&#10;fetch one entry a year ago&#10;fetch one entry a year ago but different ccy&#10;fetch 2 entries, it was downgrade&#10;fetch 3 entries, first is downgrade and then upgrade ,it was downgrade&#10;fetch there was a downgrade and there are several records with same salary&#10;fetch same salary for a long time but the employee was rehired with the same salary" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 2 entries, it was downgrade" />
-        <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch one entry a year ago" />
       </list>
     </recent_temporary>
