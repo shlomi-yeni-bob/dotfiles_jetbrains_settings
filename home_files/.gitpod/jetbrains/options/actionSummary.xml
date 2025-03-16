@@ -52,7 +52,7 @@
       <i c="1" l="1741957884902" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1361" l="1742119814883" />
+      <i c="1417" l="1742120139422" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="188" l="1742119743900" />
@@ -61,7 +61,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="197" l="1742119637621" />
+      <i c="198" l="1742119882843" />
     </e>
     <e n="EditorCut">
       <i c="5" l="1742119604320" />
@@ -76,7 +76,7 @@
       <i c="17" l="1742049471979" />
     </e>
     <e n="EditorEnter">
-      <i c="150" l="1742119822552" />
+      <i c="154" l="1742120030419" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
@@ -88,7 +88,7 @@
       <i c="53" l="1741958686560" />
     </e>
     <e n="EditorLineEnd">
-      <i c="59" l="1742119823997" />
+      <i c="60" l="1742120028279" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="7" l="1741949660800" />
@@ -100,7 +100,7 @@
       <i c="8" l="1742119340628" />
     </e>
     <e n="EditorPaste">
-      <i c="183" l="1742119653424" />
+      <i c="184" l="1742119887117" />
     </e>
     <e n="EditorRight">
       <i c="260" l="1742119823490" />
@@ -109,13 +109,13 @@
       <i c="22" l="1742049550413" />
     </e>
     <e n="EditorSelectWord">
-      <i c="402" l="1742119762686" />
+      <i c="405" l="1742120121275" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
     </e>
     <e n="EditorTab">
-      <i c="3" l="1741767662164" />
+      <i c="5" l="1742120138242" />
     </e>
     <e n="EditorUp">
       <i c="78" l="1742119810034" />
@@ -148,7 +148,7 @@
       <i c="3" l="1741955593436" />
     </e>
     <e n="GotoDeclaration">
-      <i c="566" l="1742119457201" />
+      <i c="567" l="1742120111020" />
     </e>
     <e n="ParameterInfo">
       <i c="3" l="1741811127416" />
@@ -235,7 +235,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="78" l="1742119830843" />
+      <i c="79" l="1742119890171" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="23" l="1742109042124" />
