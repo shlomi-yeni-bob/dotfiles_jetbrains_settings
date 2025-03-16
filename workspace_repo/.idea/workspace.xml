@@ -203,7 +203,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch same salary for a long time but the employee was rehired with the same salary">
+  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch two entries, upgrade with different pay period">
     <configuration name="YearsWithSameSalaryFeatureDataFetcherTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="hibob.test" />
       <option name="VMParameters" value="" />
@@ -258,36 +258,6 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsWithSameSalaryFeatureDataFetcherTest" />
       <option name="testName" value="fetch 3 entries, first is downgrade and then upgrade ,it was downgrade" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="YearsWithSameSalaryFeatureDataFetcherTest.fetch no entries&#10;fetch one entry a year ago&#10;fetch one entry a year ago but different ccy&#10;fetch 2 entries, it was downgrade&#10;fetch 3 entries, first is downgrade and then upgrade ,it was downgrade&#10;fetch there was a downgrade and there are several records with same salary&#10;fetch same salary for a long time but the employee was rehired with the same salary" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="hibob.test" />
-      <option name="VMParameters" value="" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="alternativeJrePath" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="classpathModifications">
-        <list />
-      </option>
-      <option name="envFilePaths">
-        <list />
-      </option>
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsWithSameSalaryFeatureDataFetcherTest" />
-      <option name="testName" value="fetch no entries&#10;fetch one entry a year ago&#10;fetch one entry a year ago but different ccy&#10;fetch 2 entries, it was downgrade&#10;fetch 3 entries, first is downgrade and then upgrade ,it was downgrade&#10;fetch there was a downgrade and there are several records with same salary&#10;fetch same salary for a long time but the employee was rehired with the same salary" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -353,13 +323,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YearsWithSameSalaryFeatureDataFetcherTest.fetch two entries, upgrade with different pay period" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="hibob.test" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envFilePaths">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="testClassPath" value="com.hibob.analytics.flightrisk.feature.salary.YearsWithSameSalaryFeatureDataFetcherTest" />
+      <option name="testName" value="fetch two entries, upgrade with different pay period" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch two entries, upgrade with different pay period" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch same salary for a long time but the employee was rehired with the same salary" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch there was a downgrade and there are several records with same salary" />
         <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 3 entries, first is downgrade and then upgrade ,it was downgrade" />
-        <item itemvalue="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch no entries&#10;fetch one entry a year ago&#10;fetch one entry a year ago but different ccy&#10;fetch 2 entries, it was downgrade&#10;fetch 3 entries, first is downgrade and then upgrade ,it was downgrade&#10;fetch there was a downgrade and there are several records with same salary&#10;fetch same salary for a long time but the employee was rehired with the same salary" />
       </list>
     </recent_temporary>
   </component>
