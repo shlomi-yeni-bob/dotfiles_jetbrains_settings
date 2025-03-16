@@ -200,7 +200,7 @@
       <recent name="com.hibob.analytics.kpis.dashboard" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch 2 entries, it was downgrade">
+  <component name="RunManager" selected="Application.Bob Localhost">
     <configuration name="com.hibob.analytics in hibob.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hibob.test" />
       <extension name="coverage">
@@ -447,7 +447,7 @@
       <workItem from="1741986538813" duration="849000" />
       <workItem from="1742046953415" duration="607000" />
       <workItem from="1742048125057" duration="3260000" />
-      <workItem from="1742107839134" duration="512000" />
+      <workItem from="1742107839134" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
