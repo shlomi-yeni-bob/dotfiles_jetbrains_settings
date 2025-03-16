@@ -42,6 +42,12 @@
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
     </e>
+    <e n="Docker.RemoteServers.RestartComposeApp">
+      <i c="1" l="1742109146596" />
+    </e>
+    <e n="Docker.RemoteServers.StartAllComposeApp">
+      <i c="1" l="1742109161778" />
+    </e>
     <e n="EditSource">
       <i c="1" l="1741957884902" />
     </e>
@@ -157,7 +163,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="523" l="1742108843530" />
+      <i c="526" l="1742109421029" />
     </e>
     <e n="Run">
       <i c="5" l="1741814061894" />
@@ -184,19 +190,19 @@
       <i c="43" l="1742052054617" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="166" l="1742108336869" />
+      <i c="168" l="1742109334931" />
     </e>
     <e n="Tree-selectChild">
-      <i c="246" l="1742108317967" />
+      <i c="247" l="1742109269112" />
     </e>
     <e n="Tree-selectNext">
-      <i c="1044" l="1742108322484" />
+      <i c="1056" l="1742109378209" />
     </e>
     <e n="Tree-selectParent">
       <i c="111" l="1742108235838" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="543" l="1742108321623" />
+      <i c="544" l="1742109381671" />
     </e>
     <e n="Vcs.Push">
       <i c="5" l="1741017552595" />
@@ -208,7 +214,7 @@
       <i c="10" l="1741987025547" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="176" l="1742109030953" />
+      <i c="179" l="1742109420202" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="53" l="1742049808111" />
@@ -262,7 +268,7 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="136" l="1742107964926" />
+      <i c="137" l="1742109334508" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
