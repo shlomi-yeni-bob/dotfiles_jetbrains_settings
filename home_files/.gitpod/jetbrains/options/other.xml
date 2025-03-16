@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="60776" />
+  <component name="BuiltInServerOptions" builtInServerPort="64996" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -18,7 +18,7 @@
     "JUnitSupport.hidePassedTests": "false",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.24978.46",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
-    "Scala.Splitter.Proportion": "0.38671634",
+    "Scala.Splitter.Proportion": "0.2272175",
     "UltimateProfiler.RunWidget.Splitter.Proportion.Run": "0.6376811",
     "Vcs.Push.Splitter.Tree.Proportion": "0.665",
     "bidi.content.notification.disable": "true",

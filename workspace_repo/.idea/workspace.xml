@@ -152,7 +152,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.21903935" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.14496528" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.1171875" />
       <window_info id="Welcome to GitHub Copilot" order="2" weight="0.1561194" />
       <window_info id="VcsChanges" order="3" weight="0.15130208" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -163,14 +163,14 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.48972604" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.540401" side_tool="true" weight="0.3605675" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.42739975" weight="0.2979452" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.3806197" weight="0.3175147" />
       <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4158566" weight="0.30772993" />
       <window_info anchor="bottom" id="Services" order="6" weight="0.23825832" />
-      <window_info active="true" anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.50030375" visible="true" weight="0.3605675" />
+      <window_info anchor="bottom" x="1820" y="600" width="1838" height="336" id="Debug" order="7" sideWeight="0.45959902" visible="true" weight="0.49951077" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.17074364" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -469,6 +469,7 @@
       <workItem from="1742048125057" duration="3260000" />
       <workItem from="1742107839134" duration="3416000" />
       <workItem from="1742119099597" duration="1416000" />
+      <workItem from="1742125161276" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -783,17 +784,17 @@
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
-          <line>50</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="177" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala</url>
           <line>41</line>
           <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsOfLastSalaryUpgradeCalculator.scala</url>
+          <line>54</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="179" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
