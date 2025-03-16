@@ -37,7 +37,7 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="69" l="1742110270045" />
+      <i c="70" l="1742120518366" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -52,7 +52,7 @@
       <i c="1" l="1741957884902" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1417" l="1742120139422" />
+      <i c="1425" l="1742120277281" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="188" l="1742119743900" />
@@ -61,13 +61,13 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="198" l="1742119882843" />
+      <i c="201" l="1742120296218" />
     </e>
     <e n="EditorCut">
-      <i c="5" l="1742119604320" />
+      <i c="6" l="1742120275789" />
     </e>
     <e n="EditorDown">
-      <i c="98" l="1742119827978" />
+      <i c="99" l="1742120276935" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="3" l="1741949660244" />
@@ -76,13 +76,13 @@
       <i c="17" l="1742049471979" />
     </e>
     <e n="EditorEnter">
-      <i c="154" l="1742120030419" />
+      <i c="155" l="1742120278920" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1740944732668" />
     </e>
     <e n="EditorLeft">
-      <i c="267" l="1742119824651" />
+      <i c="268" l="1742120192821" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="53" l="1741958686560" />
@@ -94,22 +94,22 @@
       <i c="7" l="1741949660800" />
     </e>
     <e n="EditorLineStart">
-      <i c="25" l="1742119606112" />
+      <i c="26" l="1742120278801" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="8" l="1742119340628" />
     </e>
     <e n="EditorPaste">
-      <i c="184" l="1742119887117" />
+      <i c="189" l="1742120298271" />
     </e>
     <e n="EditorRight">
-      <i c="260" l="1742119823490" />
+      <i c="262" l="1742120258011" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="22" l="1742049550413" />
     </e>
     <e n="EditorSelectWord">
-      <i c="405" l="1742120121275" />
+      <i c="409" l="1742120297461" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -118,13 +118,13 @@
       <i c="5" l="1742120138242" />
     </e>
     <e n="EditorUp">
-      <i c="78" l="1742119810034" />
+      <i c="82" l="1742120279169" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1" l="1741949659867" />
     </e>
     <e n="FindInPath">
-      <i c="22" l="1741948830167" />
+      <i c="23" l="1742120202367" />
     </e>
     <e n="Forward">
       <i c="6" l="1742050182397" />
@@ -190,7 +190,7 @@
       <i c="44" l="1742109968676" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="173" l="1742110346976" />
+      <i c="174" l="1742120516492" />
     </e>
     <e n="Tree-selectChild">
       <i c="275" l="1742110197021" />
@@ -235,7 +235,7 @@
       <i c="2" l="1741122461265" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="79" l="1742119890171" />
+      <i c="80" l="1742120366585" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="23" l="1742109042124" />

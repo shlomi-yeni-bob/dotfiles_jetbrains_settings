@@ -125,6 +125,7 @@
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch one entry a year ago.executor": "Run",
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch same salary for a long time but the employee was rehired with the same salary.executor": "Run",
     "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch there was a downgrade and there are several records with same salary.executor": "Run",
+    "ScalaTest.YearsWithSameSalaryFeatureDataFetcherTest.fetch two entries, upgrade with different pay period.executor": "Debug",
     "Shell Script.gradle flyway.executor": "Debug",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
@@ -162,7 +163,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.212818" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49969625" side_tool="true" visible="true" weight="0.48972604" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.4495582" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -467,7 +468,7 @@
       <workItem from="1742046953415" duration="607000" />
       <workItem from="1742048125057" duration="3260000" />
       <workItem from="1742107839134" duration="3416000" />
-      <workItem from="1742119099597" duration="1040000" />
+      <workItem from="1742119099597" duration="1416000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dashboard and KPI">
       <option name="closed" value="true" />
@@ -788,6 +789,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/analytics/flightrisk/feature/salary/YearsWithSameSalaryBulkFetcher.scala</url>
+          <line>41</line>
+          <option name="timeStamp" value="178" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
