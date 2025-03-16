@@ -13,7 +13,7 @@
       <i c="15" l="1741810139306" />
     </e>
     <e n="Back">
-      <i c="262" l="1742050180670" />
+      <i c="264" l="1742109018484" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="1" l="1741004262828" />
@@ -37,7 +37,7 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="67" l="1742108350333" />
+      <i c="68" l="1742109044372" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -55,7 +55,7 @@
       <i c="2" l="1740945349243" />
     </e>
     <e n="EditorCopy">
-      <i c="193" l="1742051335460" />
+      <i c="194" l="1742108967899" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1741987335669" />
@@ -103,7 +103,7 @@
       <i c="22" l="1742049550413" />
     </e>
     <e n="EditorSelectWord">
-      <i c="397" l="1742051336564" />
+      <i c="398" l="1742108967193" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1740946369200" />
@@ -142,7 +142,7 @@
       <i c="3" l="1741955593436" />
     </e>
     <e n="GotoDeclaration">
-      <i c="556" l="1742107959263" />
+      <i c="561" l="1742109002470" />
     </e>
     <e n="ParameterInfo">
       <i c="3" l="1741811127416" />
@@ -157,7 +157,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="522" l="1742108701586" />
+      <i c="523" l="1742108843530" />
     </e>
     <e n="Run">
       <i c="5" l="1741814061894" />
@@ -208,7 +208,7 @@
       <i c="10" l="1741987025547" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="173" l="1742108124729" />
+      <i c="176" l="1742109030953" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="53" l="1742049808111" />
@@ -217,7 +217,7 @@
       <i c="1" l="1741016481033" />
     </e>
     <e n="com.intellij.diff.actions.impl.OpenInEditorAction">
-      <i c="22" l="1742107863912" />
+      <i c="23" l="1742108882823" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1741955657034" />
@@ -229,7 +229,7 @@
       <i c="68" l="1742108121371" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="22" l="1742051641736" />
+      <i c="23" l="1742109042124" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="6" l="1741948853491" />
