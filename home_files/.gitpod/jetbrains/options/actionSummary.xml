@@ -37,7 +37,7 @@
       <i c="10" l="1741524518080" />
     </e>
     <e n="Debug">
-      <i c="64" l="1742051467023" />
+      <i c="65" l="1742051643469" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1741098151484" />
@@ -157,7 +157,7 @@
       <i c="1" l="1741004261980" />
     </e>
     <e n="Resume">
-      <i c="508" l="1742051533176" />
+      <i c="512" l="1742051911627" />
     </e>
     <e n="Run">
       <i c="5" l="1741814061894" />
@@ -181,22 +181,22 @@
       <i c="377" l="1742051501695" />
     </e>
     <e n="Stop">
-      <i c="41" l="1742051064717" />
+      <i c="43" l="1742052054617" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="164" l="1742051529943" />
     </e>
     <e n="Tree-selectChild">
-      <i c="225" l="1742051549805" />
+      <i c="237" l="1742052013713" />
     </e>
     <e n="Tree-selectNext">
-      <i c="922" l="1742051549476" />
+      <i c="971" l="1742052015192" />
     </e>
     <e n="Tree-selectParent">
-      <i c="106" l="1742051382364" />
+      <i c="108" l="1742052004368" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="473" l="1742051546614" />
+      <i c="494" l="1742052009793" />
     </e>
     <e n="Vcs.Push">
       <i c="5" l="1741017552595" />
@@ -208,7 +208,7 @@
       <i c="10" l="1741987025547" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="167" l="1742050514035" />
+      <i c="171" l="1742051979394" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="53" l="1742049808111" />
@@ -229,7 +229,7 @@
       <i c="65" l="1742051212857" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
-      <i c="21" l="1742048352973" />
+      <i c="22" l="1742051641736" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="6" l="1741948853491" />
@@ -262,7 +262,7 @@
       <i c="1" l="1741525461251" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="132" l="1742050242387" />
+      <i c="135" l="1742051741369" />
     </e>
     <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
       <i c="1" l="1741099619579" />
